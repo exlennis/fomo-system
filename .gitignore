@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# VS Code files
+.vscode/*
+!.vscode/settings.json
+
+# General
+*.log
+.env
+node_modules/
+
+# Font testing files
+tests/test-fonts/
+tests/test-files/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.bak
+*.tmp
+*.temp
