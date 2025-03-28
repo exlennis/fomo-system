@@ -1,0 +1,2407 @@
+/Users/ez/Documents
+├── -FAMILY-
+│   ├── Asset Records
+│   │   ├── Alisa
+│   │   │   └── Floorplans
+│   │   ├── Alisa Reno
+│   │   │   ├── Floorplan
+│   │   │   │   └── magicplan sample package
+│   │   │   ├── Kitchen
+│   │   │   ├── Ref images
+│   │   │   └── Shelves, Furniture (Muji, Vitsoe, USM)
+│   │   │       └── Motana Shelves
+│   │   ├── Bosisto
+│   │   │   ├── Bosisto Airbnb
+│   │   │   │   ├── #content
+│   │   │   │   │   ├── brandKit[EMPTY]
+│   │   │   │   │   ├── copyDeck
+│   │   │   │   │   │   └── #archive
+│   │   │   │   │   ├── fonts[EMPTY]
+│   │   │   │   │   ├── images
+│   │   │   │   │   │   ├── Bosisto-Existing
+│   │   │   │   │   │   ├── Building:Exterior
+│   │   │   │   │   │   ├── Check-in-out
+│   │   │   │   │   │   ├── Dan-Shoot_220722
+│   │   │   │   │   │   ├── Neighbourhood
+│   │   │   │   │   │   │   ├── Cover_ArtDirection
+│   │   │   │   │   │   │   ├── Maps
+│   │   │   │   │   │   │   ├── Richmond
+│   │   │   │   │   │   │   ├── Richmond Traders
+│   │   │   │   │   │   │   └── Suburbs
+│   │   │   │   │   │   ├── Radiant Richmond Warehouse
+│   │   │   │   │   │   ├── Slowbeam
+│   │   │   │   │   │   └── listing photos-r1
+│   │   │   │   │   ├── stocks
+│   │   │   │   │   │   ├── Notioly illustrations
+│   │   │   │   │   │   │   ├── PNG
+│   │   │   │   │   │   │   └── SVG
+│   │   │   │   │   │   ├── Notion avatars
+│   │   │   │   │   │   └── illustrations-20220719T161946Z-001
+│   │   │   │   │   ├── supplied[EMPTY]
+│   │   │   │   │   └── videos[EMPTY]
+│   │   │   │   ├── Airbnb Dan Photoshoot
+│   │   │   │   ├── Bosisto Cleaning
+│   │   │   │   ├── inspo-BOS
+│   │   │   │   │   ├── #refs
+│   │   │   │   │   │   ├── Notion Template_ Airbnb Super Pack
+│   │   │   │   │   │   └── The Ritz-Carlton Maldives - Overwater Villa
+│   │   │   │   │   ├── Branding
+│   │   │   │   │   ├── House Rules
+│   │   │   │   │   ├── Interior
+│   │   │   │   │   └── Messaging
+│   │   │   │   ├── output
+│   │   │   │   │   ├── #archive[empty]
+│   │   │   │   │   ├── #assets[empty]
+│   │   │   │   │   └── Notion assets
+│   │   │   │   │       └── archive-airbnb
+│   │   │   │   └── working
+│   │   │   │       ├── #archive[empty]
+│   │   │   │       └── #assets[empty]
+│   │   │   ├── Bosisto Management
+│   │   │   │   └── Bosisto Conveyancing
+│   │   │   │       ├── ZipID
+│   │   │   │       ├── _Final Docs
+│   │   │   │       └── _Pre_payment Docs
+│   │   │   ├── Bosisto Purchase
+│   │   │   ├── Bosisto Reno
+│   │   │   │   ├── Bathroom Leak
+│   │   │   │   ├── Bathroom Tiles
+│   │   │   │   │   ├── Tiles Dispute Photos
+│   │   │   │   │   └── Tiling Dispute
+│   │   │   │   │       └── Tiling Photos
+│   │   │   │   │           ├── 1_Bath Tiles
+│   │   │   │   │           ├── 2_Bath Tiles Complete
+│   │   │   │   │           ├── 3_Floortiles
+│   │   │   │   │           ├── 4_grout
+│   │   │   │   │           └── 5_Corking
+│   │   │   │   ├── Bosisto Recce
+│   │   │   │   │   ├── 10_Concrete Render Example
+│   │   │   │   │   ├── 1_Living Dining
+│   │   │   │   │   ├── 2_Study
+│   │   │   │   │   ├── 3_Kitchen
+│   │   │   │   │   ├── 4_Laundry Powder
+│   │   │   │   │   ├── 5_Stairs Mezzanine
+│   │   │   │   │   ├── 6_Bathroom
+│   │   │   │   │   ├── 7_Bedrooms
+│   │   │   │   │   ├── 8_Floor
+│   │   │   │   │   └── 9_Common Area
+│   │   │   │   ├── Carpet
+│   │   │   │   ├── Flooring
+│   │   │   │   ├── Laundry
+│   │   │   │   ├── Lights
+│   │   │   │   ├── Partition Door
+│   │   │   │   └── Wardrobe
+│   │   │   │       ├── PAX Design
+│   │   │   │       └── Refs
+│   │   │   ├── Bosisto Rental
+│   │   │   └── Floorplans
+│   │   │       └── Archive 
+│   │   ├── Bosisto Airbnb
+│   │   ├── Car Auto
+│   │   ├── Clarence
+│   │   │   ├── Clarence Management
+│   │   │   │   ├── Stone Benchtop Quotes
+│   │   │   │   │   └── Benchtop Burn Mark
+│   │   │   │   └── _Appoint agent, MRE
+│   │   │   │       └── 3_HighRes_Photos_507
+│   │   │   └── Clarence Purchase
+│   │   │       ├── Clarence St
+│   │   │       │   ├── Email1_Condition Report
+│   │   │       │   │   └── _Email1.rtfd
+│   │   │       │   ├── Email2_BondMoney
+│   │   │       │   ├── Email3
+│   │   │       │   └── Email4
+│   │   │       ├── Cleaning Ads
+│   │   │       ├── EBM_Insurance
+│   │   │       └── FIRB Approval
+│   │   ├── Furniture
+│   │   │   ├── Bed Linen
+│   │   │   ├── Chairs
+│   │   │   ├── Eames Lounge Chair
+│   │   │   ├── Hay New Order
+│   │   │   │   ├── Inspo
+│   │   │   │   └── Quotes
+│   │   │   ├── Hay Revolver Bar Stool
+│   │   │   ├── Hay Tray Table
+│   │   │   ├── Kitchen
+│   │   │   ├── Lighting
+│   │   │   ├── Meta Mirror
+│   │   │   │   └── Another
+│   │   │   ├── Metal Canopy Bed
+│   │   │   ├── Metal Coat Rack
+│   │   │   │   ├── Short
+│   │   │   │   └── Tall
+│   │   │   ├── Muuto Enfold Sideboard
+│   │   │   ├── Muuto Relate Side Table
+│   │   │   ├── Nook Bed
+│   │   │   ├── Round Dinning Table
+│   │   │   ├── Rug
+│   │   │   ├── Sky Light
+│   │   │   ├── Sofa Back Cabinets
+│   │   │   │   └── Images
+│   │   │   ├── Timber Floating Bed
+│   │   │   │   └── Bed
+│   │   │   ├── Vitra Sofa
+│   │   │   ├── Vitsoe Shelf
+│   │   │   │   ├── Designs
+│   │   │   │   ├── Measurements
+│   │   │   │   ├── PDFs
+│   │   │   │   └── Refs
+│   │   │   ├── Window
+│   │   │   │   └── R1
+│   │   │   └── xOthers
+│   │   │       ├── About A Table 20
+│   │   │       ├── Muuto Dining Chair
+│   │   │       │   └── Nerd-Chair-2D
+│   │   │       │       ├── AI
+│   │   │       │       ├── DWG
+│   │   │       │       ├── DXF
+│   │   │       │       └── TEXTURE
+│   │   │       ├── Muuto Lounge Chair
+│   │   │       └── Nerd-Chair-2D
+│   │   │           ├── AI
+│   │   │           ├── DWG
+│   │   │           ├── DXF
+│   │   │           └── TEXTURE
+│   │   ├── Home Project
+│   │   │   ├── Prints + Frame
+│   │   │   │   ├── _toFrame
+│   │   │   │   └── _toSell
+│   │   │   │       ├── Boom
+│   │   │   │       └── Nerf
+│   │   │   └── Smart Home + Speakers
+│   │   ├── Manuals Instructions
+│   │   │   └── Aircon_Mitsubishi
+│   │   ├── NBN
+│   │   ├── Optus
+│   │   ├── Painting
+│   │   └── Property Search
+│   ├── Family Records
+│   │   ├── #archive-paperwork
+│   │   │   ├── Paperwork 2010
+│   │   │   │   ├── Browns Rd Photos
+│   │   │   │   ├── City Wide
+│   │   │   │   ├── Folder Brenton
+│   │   │   │   │   ├── PowerPoint
+│   │   │   │   │   │   ├── Copy
+│   │   │   │   │   │   ├── Keynote
+│   │   │   │   │   │   └── Photos
+│   │   │   │   │   ├── Tattoo
+│   │   │   │   │   └── To Brenton.rtfd
+│   │   │   │   ├── Folder Leo
+│   │   │   │   │   ├── Holden sell new.pages
+│   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   ├── LEO'S ASSISA.pages
+│   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   ├── Leo Assignment
+│   │   │   │   │   │   ├── Assignment battery.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── Part 2.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── andy's work.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── assignment III.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── cover.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── dual power supply.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── part 1.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   ├── switch assignment.pages
+│   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   └── table of assignemtn.pages
+│   │   │   │   │   │       ├── Contents
+│   │   │   │   │   │       └── QuickLook
+│   │   │   │   │   └── nose medcine.pages
+│   │   │   │   │       ├── Contents
+│   │   │   │   │       └── QuickLook
+│   │   │   │   ├── Lazogas
+│   │   │   │   ├── Monash
+│   │   │   │   │   ├── Engineering
+│   │   │   │   │   │   ├── ENG1010
+│   │   │   │   │   │   │   ├── Case study
+│   │   │   │   │   │   │   │   ├── Mobile
+│   │   │   │   │   │   │   │   ├── Sigma
+│   │   │   │   │   │   │   │   └── Yakult
+│   │   │   │   │   │   │   │       └── Yakult Intro.pages
+│   │   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │   │           └── thumbs
+│   │   │   │   │   │   │   └── Practical Project
+│   │   │   │   │   │   │       ├── lab plan.pages
+│   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │       │   └── thumbs
+│   │   │   │   │   │   │       └── lab report.pages
+│   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │           └── thumbs
+│   │   │   │   │   │   ├── ENG1020
+│   │   │   │   │   │   │   ├── project 1
+│   │   │   │   │   │   │   │   ├── drawing
+│   │   │   │   │   │   │   │   │   ├── drawing.pages
+│   │   │   │   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   │   │   │   └── thumbs
+│   │   │   │   │   │   │   │   │   └── front view.pages
+│   │   │   │   │   │   │   │   │       ├── Contents
+│   │   │   │   │   │   │   │   │       └── QuickLook
+│   │   │   │   │   │   │   │   └── report
+│   │   │   │   │   │   │   │       ├── appendix.pages
+│   │   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │   │       │   └── thumbs
+│   │   │   │   │   │   │   │       ├── cover.pages
+│   │   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │   │       ├── presentation.pages
+│   │   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │   │       │   └── thumbs
+│   │   │   │   │   │   │   │       └── report.pages
+│   │   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │   │           └── thumbs
+│   │   │   │   │   │   │   └── project 3
+│   │   │   │   │   │   │       ├── 1. cover.pages
+│   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │       ├── 2. summary.pages
+│   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │       ├── 3. report.pages
+│   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │       ├── 4. appendix.pages
+│   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │       ├── 5. trans.pages
+│   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │       └── Drawing
+│   │   │   │   │   │   │           ├── I.pages
+│   │   │   │   │   │   │           │   ├── Contents
+│   │   │   │   │   │   │           │   └── QuickLook
+│   │   │   │   │   │   │           ├── II.pages
+│   │   │   │   │   │   │           │   ├── Contents
+│   │   │   │   │   │   │           │   └── QuickLook
+│   │   │   │   │   │   │           └── final
+│   │   │   │   │   │   ├── ENG1030
+│   │   │   │   │   │   │   ├── Electrical Part 1
+│   │   │   │   │   │   │   ├── Electrical Part 2
+│   │   │   │   │   │   │   ├── Lab
+│   │   │   │   │   │   │   │   ├── Lab 2 Report
+│   │   │   │   │   │   │   │   │   ├── II Appendix.pages
+│   │   │   │   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   │   │   │   ├── II Cover Page.pages
+│   │   │   │   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   │   │   │   └── II Report.pages
+│   │   │   │   │   │   │   │   │       ├── Contents
+│   │   │   │   │   │   │   │   │       └── QuickLook
+│   │   │   │   │   │   │   │   └── Lab 3 Report
+│   │   │   │   │   │   │   │       ├── Cover Page III.pages
+│   │   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │   │       ├── III Appendix.pages
+│   │   │   │   │   │   │   │       │   ├── Contents
+│   │   │   │   │   │   │   │       │   └── QuickLook
+│   │   │   │   │   │   │   │       └── III Report.pages
+│   │   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │   │           └── QuickLook
+│   │   │   │   │   │   │   ├── Lecture
+│   │   │   │   │   │   │   ├── TIPS
+│   │   │   │   │   │   │   ├── Test Prep
+│   │   │   │   │   │   │   └── Tuto
+│   │   │   │   │   │   ├── ENG1040
+│   │   │   │   │   │   │   ├── ENG1040_transparencies
+│   │   │   │   │   │   │   │   └── ENG1040_transparencies_week_4
+│   │   │   │   │   │   │   ├── P solution
+│   │   │   │   │   │   │   └── ooo
+│   │   │   │   │   │   ├── ENG1050
+│   │   │   │   │   │   │   ├── Lab
+│   │   │   │   │   │   │   │   ├── Structure Report.pages
+│   │   │   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   │   │   └── QuickLook
+│   │   │   │   │   │   │   │   └── Strucure-Property Report Cover Sheet.pages
+│   │   │   │   │   │   │   │       ├── Contents
+│   │   │   │   │   │   │   │       └── QuickLook
+│   │   │   │   │   │   │   ├── Lecture
+│   │   │   │   │   │   │   ├── Previous
+│   │   │   │   │   │   │   │   ├── Assignemnt
+│   │   │   │   │   │   │   │   ├── Week 1
+│   │   │   │   │   │   │   │   ├── Week2
+│   │   │   │   │   │   │   │   ├── Week3
+│   │   │   │   │   │   │   │   ├── example questions
+│   │   │   │   │   │   │   │   ├── problem sheets
+│   │   │   │   │   │   │   │   ├── solutions
+│   │   │   │   │   │   │   │   ├── week10
+│   │   │   │   │   │   │   │   ├── week11
+│   │   │   │   │   │   │   │   ├── week12
+│   │   │   │   │   │   │   │   ├── week4
+│   │   │   │   │   │   │   │   ├── week5
+│   │   │   │   │   │   │   │   ├── week6
+│   │   │   │   │   │   │   │   ├── week7
+│   │   │   │   │   │   │   │   ├── week8
+│   │   │   │   │   │   │   │   └── week9
+│   │   │   │   │   │   │   └── Structure Property Report
+│   │   │   │   │   │   │       └── Reference.pages
+│   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │           └── QuickLook
+│   │   │   │   │   │   ├── ENG1060
+│   │   │   │   │   │   │   ├── Computing Assignment
+│   │   │   │   │   │   │   │   ├── Assi
+│   │   │   │   │   │   │   │   ├── Computing Assignment
+│   │   │   │   │   │   │   │   ├── Task 1
+│   │   │   │   │   │   │   │   ├── Task 2
+│   │   │   │   │   │   │   │   ├── Task 3
+│   │   │   │   │   │   │   │   └── Task 4
+│   │   │   │   │   │   │   ├── Lab
+│   │   │   │   │   │   │   ├── Lecture
+│   │   │   │   │   │   │   ├── Lecture Code
+│   │   │   │   │   │   │   │   ├── lecture10
+│   │   │   │   │   │   │   │   ├── lecture11
+│   │   │   │   │   │   │   │   ├── lecture3
+│   │   │   │   │   │   │   │   ├── lecture5
+│   │   │   │   │   │   │   │   ├── lecture6
+│   │   │   │   │   │   │   │   ├── lecture7
+│   │   │   │   │   │   │   │   ├── lecture8
+│   │   │   │   │   │   │   │   └── lecture9
+│   │   │   │   │   │   │   ├── Matlab
+│   │   │   │   │   │   │   ├── PASS sessions S1 2009
+│   │   │   │   │   │   │   ├── TIPS
+│   │   │   │   │   │   │   │   ├── 2008 S1
+│   │   │   │   │   │   │   │   │   ├── Source M-files
+│   │   │   │   │   │   │   │   │   ├── assignment
+│   │   │   │   │   │   │   │   │   ├── exam prep session
+│   │   │   │   │   │   │   │   │   ├── laboratory sheets
+│   │   │   │   │   │   │   │   │   ├── pass exam solution
+│   │   │   │   │   │   │   │   │   └── tutorial sheets
+│   │   │   │   │   │   │   │   ├── Assignment
+│   │   │   │   │   │   │   │   ├── Lab
+│   │   │   │   │   │   │   │   ├── Lab Solution
+│   │   │   │   │   │   │   │   ├── Tutorial
+│   │   │   │   │   │   │   │   └── Tutorial Solution
+│   │   │   │   │   │   │   ├── Tutorial
+│   │   │   │   │   │   │   ├── lab solution
+│   │   │   │   │   │   │   ├── tuto solution
+│   │   │   │   │   │   │   │   ├── 3_solutions
+│   │   │   │   │   │   │   │   ├── 4_solutions
+│   │   │   │   │   │   │   │   ├── Tut5_solutions
+│   │   │   │   │   │   │   │   ├── Tut6_solutions
+│   │   │   │   │   │   │   │   ├── tut11
+│   │   │   │   │   │   │   │   └── tut7
+│   │   │   │   │   │   │   └── tutorial..
+│   │   │   │   │   │   ├── ENG1061
+│   │   │   │   │   │   │   ├── NX
+│   │   │   │   │   │   │   │   ├── Final 3D
+│   │   │   │   │   │   │   │   │   ├── 3D View Print 2.pages
+│   │   │   │   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   │   │   │   └── thumbs
+│   │   │   │   │   │   │   │   │   ├── 3D View Print 3.pages
+│   │   │   │   │   │   │   │   │   └── 3D View Print.pages
+│   │   │   │   │   │   │   │   ├── I
+│   │   │   │   │   │   │   │   ├── II
+│   │   │   │   │   │   │   │   ├── Site Plan
+│   │   │   │   │   │   │   │   ├── Tank
+│   │   │   │   │   │   │   │   └── nx drawing
+│   │   │   │   │   │   │   │       ├── EEEEEEEEEElex
+│   │   │   │   │   │   │   │       │   ├── I
+│   │   │   │   │   │   │   │       │   ├── II
+│   │   │   │   │   │   │   │       │   ├── Site Plan
+│   │   │   │   │   │   │   │       │   └── Tank
+│   │   │   │   │   │   │   │       └── Final
+│   │   │   │   │   │   │   ├── Uluru Project
+│   │   │   │   │   │   │   │   ├── Project Brief
+│   │   │   │   │   │   │   │   │   └── Oral
+│   │   │   │   │   │   │   │   │       └── oral hand card.pages
+│   │   │   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │   │   │           └── thumbs
+│   │   │   │   │   │   │   │   ├── Resource
+│   │   │   │   │   │   │   │   │   ├── Children and staff at the UCH
+│   │   │   │   │   │   │   │   │   ├── Existing infastructure at the UCH
+│   │   │   │   │   │   │   │   │   └── Local community and surrounding district
+│   │   │   │   │   │   │   │   └── poster presentation
+│   │   │   │   │   │   │   │       └── cooling system.pages
+│   │   │   │   │   │   │   │           ├── Contents
+│   │   │   │   │   │   │   │           └── thumbs
+│   │   │   │   │   │   │   ├── final
+│   │   │   │   │   │   │   ├── final oral
+│   │   │   │   │   │   │   │   ├── Pre.pages
+│   │   │   │   │   │   │   │   │   ├── Contents
+│   │   │   │   │   │   │   │   │   └── thumbs
+│   │   │   │   │   │   │   │   └── Sketch
+│   │   │   │   │   │   │   └── nx drawing
+│   │   │   │   │   │   │       ├── EEEEEEEEEElex
+│   │   │   │   │   │   │       │   ├── I
+│   │   │   │   │   │   │       │   ├── II
+│   │   │   │   │   │   │       │   ├── Site Plan
+│   │   │   │   │   │   │       │   └── Tank
+│   │   │   │   │   │   │       └── Final
+│   │   │   │   │   │   ├── ENG1090
+│   │   │   │   │   │   ├── ENG1091
+│   │   │   │   │   │   │   ├── Calculus
+│   │   │   │   │   │   │   ├── Matrix
+│   │   │   │   │   │   │   └── Tips
+│   │   │   │   │   │   └── MTH1020
+│   │   │   │   │   │       ├── Lecture Note
+│   │   │   │   │   │       └── Problem Set
+│   │   │   │   │   ├── MUFY
+│   │   │   │   │   │   ├── Chemistry
+│   │   │   │   │   │   ├── English
+│   │   │   │   │   │   │   └── Research Project
+│   │   │   │   │   │   │       ├── Oral Package
+│   │   │   │   │   │   │       └── Wirtten Report
+│   │   │   │   │   │   └── Physics
+│   │   │   │   │   └── Monash Admin
+│   │   │   │   │       └── Info
+│   │   │   │   ├── Porn Signups
+│   │   │   │   └── RSA
+│   │   │   ├── Paperwork 2011
+│   │   │   │   ├── CS5 obtain serial No.
+│   │   │   │   └── Flight Tickets to Shanghai
+│   │   │   ├── Paperwork 2012
+│   │   │   ├── Paperwork 2013
+│   │   │   ├── Paperwork 2014
+│   │   │   │   └── Receipt
+│   │   │   ├── Paperwork 2015
+│   │   │   │   └── Graduation Photos RT
+│   │   │   ├── Paperwork 2016
+│   │   │   ├── Paperwork 2017
+│   │   │   │   ├── Change Name Update
+│   │   │   │   ├── Gearbest Dispute
+│   │   │   │   │   ├── Photo Battery Flat
+│   │   │   │   │   └── Photo Send Back Package
+│   │   │   │   └── Ken's 888 form
+│   │   │   ├── Paperwork 2018
+│   │   │   │   ├── China Southern Complain
+│   │   │   │   │   └── OLD
+│   │   │   │   ├── Counseling
+│   │   │   │   └── Tickets
+│   │   │   ├── Paperwork 2019
+│   │   │   │   ├── Car Accident Richmond
+│   │   │   │   │   └── Pics
+│   │   │   │   ├── Purchases
+│   │   │   │   │   ├── 28Degree_AusVap
+│   │   │   │   │   ├── 28Degree_Dyson
+│   │   │   │   │   ├── DJI Repair
+│   │   │   │   │   ├── Dyson
+│   │   │   │   │   ├── Good Guys Giftcard
+│   │   │   │   │   ├── Google Mini
+│   │   │   │   │   ├── Vitra Couch Resolve
+│   │   │   │   │   ├── Wallpaper Store Chat
+│   │   │   │   │   └── Yahoo Mail Name Correction
+│   │   │   │   └── Receipts
+│   │   │   └── Paperwork 2020
+│   │   │       ├── Bills & Receipts
+│   │   │       ├── Car accident, Mini Car QV Carpark
+│   │   │       └── Purchases
+│   │   ├── Bryan M
+│   │   │   └── BM Australian Citizenship
+│   │   ├── Elex Z
+│   │   │   ├── Photo_Head shots
+│   │   │   │   └── #archive-headShots
+│   │   │   ├── Photo_Profile Shots
+│   │   │   │   ├── EZ Profile Shot Capture
+│   │   │   │   ├── Proofs
+│   │   │   │   │   └── Selects
+│   │   │   │   │       └── NO
+│   │   │   │   └── Raw
+│   │   │   └── Signature
+│   │   ├── Family (Parents)
+│   │   │   ├── Coming out_ABC article 2020
+│   │   │   │   ├── photo-Bryan
+│   │   │   │   ├── photo-Elex
+│   │   │   │   └── photo-Parents
+│   │   │   └── Coming out_SBS Insight Program 2022
+│   │   │       └── SBS Insight Interview Preparation
+│   │   ├── ID + Passport
+│   │   └── [EMPTY]Pets
+│   ├── Legal & Estate
+│   ├── Visa Applications
+│   │   ├── 2010 Studnet Visa Cancellation
+│   │   │   ├── Erskine Rodan
+│   │   │   ├── Lost Property List.pages
+│   │   │   │   ├── Contents
+│   │   │   │   └── QuickLook
+│   │   │   └── Response Letter
+│   │   │       └── Response Letter Drafting
+│   │   ├── 2011 Student Visa Renewing
+│   │   │   └── Finance
+│   │   ├── 2013–2023 Parents Tourist 600 Visa
+│   │   ├── 2014 Student Visa Extension
+│   │   │   ├── Health_Exam
+│   │   │   ├── Swinburne_Apply_Offer_email.pages
+│   │   │   │   ├── Data
+│   │   │   │   └── Metadata
+│   │   │   ├── _FileSupply
+│   │   │   └── 无犯罪记录
+│   │   ├── 2015 Bridging Visa
+│   │   ├── 2015 Parents Australia Tourist Visa
+│   │   ├── 2015 Partner Visa
+│   │   │   ├── Stage1_2015
+│   │   │   │   ├── Backups
+│   │   │   │   ├── Checklist
+│   │   │   │   ├── Damian's details from The Avenue Hospital
+│   │   │   │   ├── Main Statement
+│   │   │   │   ├── Nab Statements
+│   │   │   │   ├── Original Docs
+│   │   │   │   ├── Others
+│   │   │   │   ├── Photos
+│   │   │   │   │   ├── Dex
+│   │   │   │   │   ├── Photo Contact Sheets
+│   │   │   │   │   ├── Social
+│   │   │   │   │   │   ├── Arts
+│   │   │   │   │   │   ├── Footy
+│   │   │   │   │   │   ├── Friends
+│   │   │   │   │   │   └── Mum Dad
+│   │   │   │   │   ├── Travel
+│   │   │   │   │   │   ├── Dunkeld
+│   │   │   │   │   │   ├── GC
+│   │   │   │   │   │   ├── Lorne
+│   │   │   │   │   │   └── SYD
+│   │   │   │   │   └── _Maybe
+│   │   │   │   ├── Proof of Power Direct
+│   │   │   │   └── Stat Dec
+│   │   │   │       ├── Working
+│   │   │   │       └── x_Drafts
+│   │   │   │           └── Mike's statement
+│   │   │   ├── Stage2_2016
+│   │   │   │   ├── Europe trip
+│   │   │   │   ├── Hotel August 2016
+│   │   │   │   ├── Jetstar Credit Card statements
+│   │   │   │   ├── Nab Joint Account Statement
+│   │   │   │   ├── Part 2
+│   │   │   │   ├── Photos
+│   │   │   │   │   └── NO
+│   │   │   │   │       └── Elex's graduation untouched
+│   │   │   │   │           └── 942773670
+│   │   │   │   └── Utilities
+│   │   │   │       ├── Origin Hot Water
+│   │   │   │       └── TPG
+│   │   │   └── Stage3_2017
+│   │   │       └── AFP National Police Check
+│   │   ├── 2016 France Tourist Visa
+│   │   │   └── Payslip
+│   │   ├── 2016 Japan Tourist Visa
+│   │   ├── 2016 Singapore Tourist Visa
+│   │   ├── 2016 UK Tourist Visa
+│   │   │   └── UK Visa Excit Check
+│   │   ├── 2017 143 Contributory Parent Visa
+│   │   │   ├── Contract NewStone
+│   │   │   ├── Enquires
+│   │   │   └── Supporting Documents
+│   │   │       ├── Elex Docs
+│   │   │       │   ├── Bank Statements
+│   │   │       │   └── Hotwater Bills
+│   │   │       ├── PFLAG China
+│   │   │       │   └── PFLAG Photos
+│   │   │       └── Parents ID Documents
+│   │   ├── 2018 CHN Passport Application
+│   │   │   └── Update Visa
+│   │   ├── 2018 Citizenship
+│   │   │   ├── 1195
+│   │   │   ├── Applicaiton Forms
+│   │   │   ├── Docs
+│   │   │   ├── Processing
+│   │   │   └── Test
+│   │   ├── 2018 Thailand Tourist Visa
+│   │   │   ├── Forms
+│   │   │   └── Visa App Docs
+│   │   └── 2023 Chinese Visa
+│   │       └── OLD
+│   └── 张家件
+│       ├── toSort_Chinese Docs
+│       │   ├── Mum iPod Photos
+│       │   │   ├── 38百年
+│       │   │   └── Thumbs
+│       │   ├── 截屏📷
+│       │   │   └── 概率实验.numbers
+│       │   │       ├── Data
+│       │   │       └── Metadata
+│       │   └── 张家账.numbers
+│       │       ├── Data
+│       │       └── Metadata
+│       ├── 需整理-Macbook Air
+│       │   ├── QQ音乐
+│       │   │   ├── Import
+│       │   │   └── 未命名文件夹
+│       │   ├── 微信图片
+│       │   └── 邮轮演出
+│       ├── 需整理-Macbook Pro
+│       │   ├── 20120117全家上海
+│       │   │   └── 19020a-1-18
+│       │   ├── 20171103夹江战友会素材集
+│       │   │   ├── DJI Album
+│       │   │   ├── production
+│       │   │   ├── 夹江
+│       │   │   ├── 索尼摄像机
+│       │   │   │   ├── 存储卡
+│       │   │   │   └── 机身存储
+│       │   │   ├── 小蚁运动相机
+│       │   │   └── 吴薇战友会集锦
+│       │   ├── Follow me
+│       │   │   ├── Follow me31-60
+│       │   │   │   ├── FollowMe1
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe10
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe2
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe3
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe4
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe5
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe6
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe7
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   ├── FollowMe8
+│       │   │   │   │   ├── EXT
+│       │   │   │   │   ├── MPEGAV
+│       │   │   │   │   └── SEGMENT
+│       │   │   │   └── FollowMe9
+│       │   │   │       ├── EXT
+│       │   │   │       ├── MPEGAV
+│       │   │   │       └── SEGMENT
+│       │   │   └── follow me 1-30
+│       │   │       ├── FOLLOWME 1-123
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FOLLOWME 2-456
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FOLLOWMe3-789
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FOLLOWMe4-101112
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FOLLOWMe5-131415
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FOLLOWMe7-192021
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FOLLOWMe9-252627
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FollowMe10-282930
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       ├── FollowMe6-161718
+│       │   │       │   ├── EXT
+│       │   │       │   ├── MPEGAV
+│       │   │       │   └── SEGMENT
+│       │   │       └── FollowMe8-222324
+│       │   │           ├── EXT
+│       │   │           ├── MPEGAV
+│       │   │           └── SEGMENT
+│       │   ├── 第10届年会
+│       │   ├── 图片
+│       │   │   ├── 025C7002-43FF-4736-ADD5-FEF5EA0C12F4.pvt
+│       │   │   ├── 0279DB38-9550-490B-9037-ABC09AF09FC9.pvt
+│       │   │   ├── 0607BD2A-56A6-4E0A-A729-2A89E0356382.pvt
+│       │   │   ├── 07E3D180-D563-4D50-B3F5-6357ACE1156C.pvt
+│       │   │   ├── 0BA8B5B6-C49B-408C-817E-F5D6E784CE90.pvt
+│       │   │   ├── 0CC95856-199B-4337-8EF4-7734660B5EFF.pvt
+│       │   │   ├── 0ECD6164-0195-42D4-8904-7367E7AB89AA.pvt
+│       │   │   ├── 0FA901E3-AD13-4868-BA7E-5FD68433B77C.pvt
+│       │   │   ├── 10426F47-989C-4E76-ACD0-F1987663C2B6.pvt
+│       │   │   ├── 1535BC66-8A64-4BFE-8E71-F89EB358AF60.pvt
+│       │   │   ├── 15360B8F-2497-49A4-B9AF-C7532CC89448.pvt
+│       │   │   ├── 1536C502-1D36-4C27-B54F-314F6A134251.pvt
+│       │   │   ├── 153B4A26-121F-4FC3-BABD-8ED0470791D3.pvt
+│       │   │   ├── 19985FBA-615C-4811-BDD1-7495C473F0A1.pvt
+│       │   │   ├── 1CD2FB5C-8CCF-4835-A310-FB8F1FF27604.pvt
+│       │   │   ├── 1D313BB1-D07E-483A-9B06-7F9FABC498D6.pvt
+│       │   │   ├── 1D89B608-5DC4-47AF-9BD4-ED7DF3971233.pvt
+│       │   │   ├── 1E69CD5A-CB27-4E17-BDEF-8E150408CBC3.pvt
+│       │   │   ├── 1FFF9778-1BAB-4CC2-B232-AFD6CC808558.pvt
+│       │   │   ├── 20DD6C8F-FF3A-4FCE-9263-8B00BD255933.pvt
+│       │   │   ├── 22F264A2-0D1E-4F35-9092-8C55F0EF4B9B.pvt
+│       │   │   ├── 23A29B58-E3C6-41CF-AADC-CF41D9A213A9.pvt
+│       │   │   ├── 2811A789-35D6-496E-8BDA-A3FDCFBC61D9.pvt
+│       │   │   ├── 29B63FE3-8B66-45A1-BA0A-7E3AA6651BAE.pvt
+│       │   │   ├── 2BA3A12B-3328-4737-8A5B-96D702250A13.pvt
+│       │   │   ├── 31872B7D-93FB-4613-8065-C81C768C4C78.pvt
+│       │   │   ├── 32EA6CFE-F0E6-4FAA-972F-15D0689B9062.pvt
+│       │   │   ├── 33353BB6-6BE5-405B-9776-083C9160B5EB.pvt
+│       │   │   ├── 39D7CD4E-CCAF-451B-8F81-E94F0A45C323.pvt
+│       │   │   ├── 3A29BC26-A1BA-42DE-89E4-FD9E0CAD0F98.pvt
+│       │   │   ├── 4005C80B-FC10-44EB-8758-D63BD7219BAF.pvt
+│       │   │   ├── 427912E2-8EC9-4019-982E-DD3A644AF11F.pvt
+│       │   │   ├── 428B2655-E20A-4E53-9443-6984D559B4A9.pvt
+│       │   │   ├── 4589E6E3-C0CD-4DFB-829A-D24D11CB61A8.pvt
+│       │   │   ├── 46BFA93B-54AC-4D71-B0A4-BF51ED0E6387.pvt
+│       │   │   ├── 4837AA20-9049-4AAE-9196-7A8031A51452.pvt
+│       │   │   ├── 485F6C03-2CE3-4D56-A54F-44634DA19256.pvt
+│       │   │   ├── 49318BE6-DC3B-4DCE-92AE-6A31D4102CAD.pvt
+│       │   │   ├── 4AB5F175-CD36-4C59-AF5D-73D2A967A865.pvt
+│       │   │   ├── 4CC36D99-842A-44E0-83E5-C2B6BCE10C46.pvt
+│       │   │   ├── 4FC52C94-FABA-4A6A-9657-D62E110D658F.pvt
+│       │   │   ├── 50BFA828-4F4B-45E4-9575-33A8B71AC371.pvt
+│       │   │   ├── 51C6A8DE-D834-4154-BCE4-C73AAC19D36F.pvt
+│       │   │   ├── 56A1FCAB-FA4E-4965-9F26-B2C050376F98.pvt
+│       │   │   ├── 5947F2A0-960D-4BE9-9B18-AB7B637E5856.pvt
+│       │   │   ├── 5C73C655-5201-45CE-A676-6FA6A2B716B2.pvt
+│       │   │   ├── 5CBC7BED-5A20-4E54-9789-AC9D96800514.pvt
+│       │   │   ├── 5E80B8B6-6D0D-434D-97D4-BC08CC50AA11.pvt
+│       │   │   ├── 5E9D90C3-0053-4E75-9CA1-F65674BE5951.pvt
+│       │   │   ├── 5EA4C3C4-A371-40EE-B761-ADAD531807D1.pvt
+│       │   │   ├── 5F617388-2F5B-4DA2-A9CB-26BD6761728C.pvt
+│       │   │   ├── 5F75D44B-377D-496C-AB9D-86A6717E78A5.pvt
+│       │   │   ├── 60E4F5E9-2A86-455C-9056-AB9B59D552D2.pvt
+│       │   │   ├── 63DEBC5A-0AF8-4E27-85D2-B951E02C34EF.pvt
+│       │   │   ├── 63F028FD-02C9-4E9B-A3CE-FE43F654D4B2.pvt
+│       │   │   ├── 649A37BD-F8A3-4235-833A-EA83A828EC26.pvt
+│       │   │   ├── 68A9CC1D-AA5E-4AD2-BBA1-7C0F794966A9.pvt
+│       │   │   ├── 68AB4C99-5904-4E2B-BECD-48DEFE24A0AA.pvt
+│       │   │   ├── 6EFA83CE-8D39-4B9F-8E01-A4E350D9F1DB.pvt
+│       │   │   ├── 6F5CDA7F-F1BB-4962-A2BF-294D7BED69B1.pvt
+│       │   │   ├── 72E49338-635F-4804-BAA4-7D61E8170F2C.pvt
+│       │   │   ├── 744C7895-CD35-4D19-8634-3B4B28983B44.pvt
+│       │   │   ├── 77833B59-244E-4F62-8098-32A3117BA24E.pvt
+│       │   │   ├── 79AD5944-575A-4F94-A7BA-FE9DB01C0B19.pvt
+│       │   │   ├── 7A16B991-C35A-43E4-9CF4-FF5856D06080.pvt
+│       │   │   ├── 7C67EF23-3161-4ACE-8357-F21E306011C0.pvt
+│       │   │   ├── 7D6F0871-6B0D-4B23-9313-91992A1DCD5F.pvt
+│       │   │   ├── 803045F6-1512-4D4E-9E96-2083B54FFB0A.pvt
+│       │   │   ├── 82BD2F12-4430-43C8-8013-86955FCC9193.pvt
+│       │   │   ├── 8474027E-5C4C-447F-A5F8-3F8D8DDD9353.pvt
+│       │   │   ├── 853B2A7E-E2D1-4014-94F0-F4BBF65CA839.pvt
+│       │   │   ├── 87E2BA5C-03B9-49C4-B4FB-4498B82EB33F.pvt
+│       │   │   ├── 8AA2785A-3625-4923-AF8E-F3B285BD5896.pvt
+│       │   │   ├── 8B0A53C8-6DCD-4269-8B66-335DF15F9990.pvt
+│       │   │   ├── 8D2C3136-8165-4C0B-A31C-639943F70718.pvt
+│       │   │   ├── 8DB70AA0-AA22-4F97-9A5C-7BC652778100.pvt
+│       │   │   ├── 92D2890E-6936-44EF-A8D8-50A627BE7178.pvt
+│       │   │   ├── 94FC291C-E82F-420D-B02A-D328E6B50985.pvt
+│       │   │   ├── 997FA18B-9104-490A-B698-B055D5B71D8C.pvt
+│       │   │   ├── 9CD63DF6-B04B-4AEB-B771-88EF14D42101.pvt
+│       │   │   ├── 9DAAC244-B80E-44FD-BDB4-B49DF6917CE1.pvt
+│       │   │   ├── 9F8320A1-3032-4044-B815-24710937CB38.pvt
+│       │   │   ├── A03D19C9-DF0B-44FA-BEFB-54C3A29AA091.pvt
+│       │   │   ├── A2689304-7E15-4873-9A6B-24CAFF146F50.pvt
+│       │   │   ├── A2E30D5E-D5E9-4B7A-B10D-EEB06DD11F78.pvt
+│       │   │   ├── A350D223-7FFA-4F13-B08B-87FE373A01F6.pvt
+│       │   │   ├── AADB8DEC-0B8A-4E90-853E-90AB1931A383.pvt
+│       │   │   ├── AC7AD6D0-E2AC-4583-AFBB-D312C6532771.pvt
+│       │   │   ├── AD23CE24-B7F3-4687-9EDB-91F81E91DC3B.pvt
+│       │   │   ├── ADF20655-9850-434D-BA09-1B1951A88339.pvt
+│       │   │   ├── B08C2520-F3AB-4745-A239-C779A29A88FB.pvt
+│       │   │   ├── B3A731E1-CE94-4FE6-AA97-C7DCA63FD5BD.pvt
+│       │   │   ├── B5AF8B63-1985-4D75-A7F7-01FE7C349514.pvt
+│       │   │   ├── B802A7E8-ECCD-4584-A1E6-05A68626D2CD.pvt
+│       │   │   ├── B941683A-76C6-45AC-BFDD-4D7320191DB2.pvt
+│       │   │   ├── BA7598D3-4460-4430-9551-E4A259BE661B.pvt
+│       │   │   ├── BBCCCBF1-7CD1-4992-B930-70DD3F366F7F.pvt
+│       │   │   ├── BDEF7255-C214-412B-A08B-DA6501CCB2B7.pvt
+│       │   │   ├── C5EC5B2D-25B6-4719-8A1E-DF1557CE4A08.pvt
+│       │   │   ├── C6A9A1BA-7285-4FED-B425-B7533B548F0A.pvt
+│       │   │   ├── C764DB76-FC05-4803-8D1C-C44C72640AD3.pvt
+│       │   │   ├── C8831A12-4A3B-4FC4-B072-9E80803B70CE.pvt
+│       │   │   ├── CA191417-8EC2-443D-8DF3-F30EF2394FEC.pvt
+│       │   │   ├── CBCB9C58-F488-40E1-A8FB-344519194AD7.pvt
+│       │   │   ├── CC44639F-2E94-4676-84BC-D8BED36B0FDA.pvt
+│       │   │   ├── CCD90224-6FA2-4A04-9B34-8C71B5FD6378.pvt
+│       │   │   ├── CE925C13-F0F2-47ED-B05E-7DB956A90C38.pvt
+│       │   │   ├── CF2A01AB-DD45-4CEE-BADE-0969EAF169AC.pvt
+│       │   │   ├── CFDEC28D-77F4-44A0-A925-33921B93594F.pvt
+│       │   │   ├── D32FFA25-B85B-4762-839F-14DC611054A1.pvt
+│       │   │   ├── D418D00A-EE57-4988-8318-82835940A93A.pvt
+│       │   │   ├── D8726D0E-3845-434B-8448-4541970E0904.pvt
+│       │   │   ├── DB5994F1-6489-47A0-91BF-374C7EDE7A33.pvt
+│       │   │   ├── DBDF9F1B-454A-4381-9C39-5C679C598F85.pvt
+│       │   │   ├── DE2682CD-2212-4792-ACB5-AB0EA3194E19.pvt
+│       │   │   ├── DE6DEA05-4CAA-4434-845F-24839522803E.pvt
+│       │   │   ├── DEC86578-C1CD-4B6B-A0A5-42275CF22727.pvt
+│       │   │   ├── E40182E2-C7B1-4364-96AC-B59E6A9D4F50.pvt
+│       │   │   ├── E67D5D3F-9584-43EC-BCEF-9CCB3860AB1E.pvt
+│       │   │   ├── F02C69AD-D6E4-410D-8A6D-1B0B7A37C7E8.pvt
+│       │   │   ├── F0BE818F-71ED-429B-AC5E-A654C642987C.pvt
+│       │   │   ├── F13B19E0-31B6-4F5F-A4DC-FB47CDD5481E.pvt
+│       │   │   ├── F13F354B-888C-4664-AD12-ACF7F97CA3C2.pvt
+│       │   │   ├── FDBDB5EA-677B-4B7B-AC76-F0ECF185AA16.pvt
+│       │   │   └── FDE5F54A-BC1A-4FE5-AB37-4C90C9522FF0.pvt
+│       │   ├── 照片
+│       │   ├── 苏州
+│       │   ├── 瑜伽1
+│       │   │   ├── AUDIO_TS
+│       │   │   └── VIDEO_TS
+│       │   ├── 瑜伽2
+│       │   ├── 常州年会
+│       │   ├── 西安演出
+│       │   ├── 越南邮轮
+│       │   ├── 盛世华服1
+│       │   └── 日本邮轮演唱
+│       ├── 需整理-百度云-吴薇
+│       │   └── 来自：iPhone（部分）
+│       ├── 家中照片
+│       │   ├── 20120117全家上海
+│       │   └── 照片文件夹
+│       ├── 签证材料
+│       │   ├── 2015 澳TR767签证文件
+│       │   │   ├── 10签证表
+│       │   │   ├── 1户口簿
+│       │   │   ├── 2身份证🆔
+│       │   │   │   ├── 吴薇身份证
+│       │   │   │   ├── 张材身份证
+│       │   │   │   └── 张喆炜身份证
+│       │   │   ├── 3护照
+│       │   │   │   ├── 吴薇护照
+│       │   │   │   │   ├── 吴薇护照
+│       │   │   │   │   ├── 吴薇护照 2
+│       │   │   │   │   └── 吴薇护照 3
+│       │   │   │   ├── 张材护照1
+│       │   │   │   └── 张喆炜护照
+│       │   │   ├── 4财产登记
+│       │   │   ├── 5银行流水
+│       │   │   │   └── 工资
+│       │   │   ├── 6结婚证
+│       │   │   ├── 7个人陈述
+│       │   │   ├── 8临时居住证杭州
+│       │   │   └── 9签证照片
+│       │   ├── 201701 新加坡签证文件
+│       │   │   ├── 10结婚证
+│       │   │   ├── 11邀请函
+│       │   │   ├── 12备注
+│       │   │   ├── 1签证材料目录
+│       │   │   ├── 2申请表
+│       │   │   ├── 3护照
+│       │   │   │   ├── 吴薇护照
+│       │   │   │   │   ├── 吴薇护照
+│       │   │   │   │   └── 吴薇护照 2
+│       │   │   │   ├── 张材护照
+│       │   │   │   └── 张喆炜护照
+│       │   │   ├── 4签证照片
+│       │   │   ├── 5身份证
+│       │   │   │   ├── 吴薇身份证
+│       │   │   │   ├── 张材身份证
+│       │   │   │   └── 张喆炜身份证
+│       │   │   ├── 6户口居住证
+│       │   │   │   ├── 户口簿
+│       │   │   │   └── 临时居住证杭州
+│       │   │   ├── 7在职退休证明
+│       │   │   │   └── 张材工作证
+│       │   │   ├── 8营业执照
+│       │   │   └── 9财产证明
+│       │   ├── 201710 澳143签证文件
+│       │   │   ├── 1公证文件7人份
+│       │   │   ├── 2护照2人份
+│       │   │   ├── 3签证照片2人份
+│       │   │   ├── 4申请表-签字2份
+│       │   │   ├── 5申请人信息表-签字1份
+│       │   │   └── 7补充材料件1份
+│       │   ├── 201802 澳600签证文件
+│       │   │   ├── 1个人身份证明
+│       │   │   ├── 2工作单位证明
+│       │   │   ├── 3资产证明
+│       │   │   ├── 4申请人陈述信-ca／wu
+│       │   │   ├── 5担保人材料炜炜
+│       │   │   ├── 6申请表-956
+│       │   │   ├── 7客户信息表
+│       │   │   └── 8签证费-600签证
+│       │   └── 202304 澳600签证文件
+│       │       └── 以往的600签证历史
+│       ├── 家中证件-20180125更新
+│       │   ├── 10独生子女证
+│       │   ├── 11汽车登记
+│       │   ├── 12房产证
+│       │   │   ├── 墨尔本507房
+│       │   │   ├── 厦门房产证
+│       │   │   ├── 墨尔本购房2
+│       │   │   └── 成都白云房产
+│       │   ├── 13保险单
+│       │   ├── 143澳签证201711f副本1
+│       │   │   ├── 1公证文件7人份
+│       │   │   ├── 2护照2人份
+│       │   │   ├── 3签证照片2人份
+│       │   │   ├── 4申请表-签字2份
+│       │   │   ├── 5申请人信息表-签字1份
+│       │   │   └── 7补充材料件1份
+│       │   ├── 14社保
+│       │   ├── 1证件照片
+│       │   │   ├── WW143签证照
+│       │   │   └── ZC143签证照
+│       │   ├── 2公证件9份
+│       │   │   ├── 1出生公证3人
+│       │   │   ├── 2独生子女公证1
+│       │   │   ├── 3曾用名公证1
+│       │   │   ├── 4户口簿公证1
+│       │   │   ├── 5结婚证公证1
+│       │   │   └── 6无犯罪公证2人
+│       │   ├── 3户口簿
+│       │   │   ├── 张材户口簿
+│       │   │   ├── 吴薇父母户口
+│       │   │   ├── 张材父母户口
+│       │   │   └── 常驻人口信息表
+│       │   ├── 4身份证3人
+│       │   │   ├── 吴薇身份证
+│       │   │   ├── 张材身份证
+│       │   │   └── 炜炜身份证
+│       │   ├── 5护照3人
+│       │   │   ├── 吴薇护照
+│       │   │   │   └── ww1护照
+│       │   │   ├── 张材护照
+│       │   │   └── 炜炜护照
+│       │   │       └── 炜炜第1本护照
+│       │   ├── 6结婚证
+│       │   ├── 7工作证类
+│       │   │   ├── 吴薇工作证
+│       │   │   └── 张材工作证
+│       │   ├── 8退休证
+│       │   │   ├── 吴薇退休证
+│       │   │   └── 张材退休证
+│       │   ├── EZ_Scans
+│       │   │   ├── DONE
+│       │   │   └── Document Cloud
+│       │   ├── 吴薇档案
+│       │   ├── 张材档案
+│       │   │   └── 张材飞行证件
+│       │   └── 炜炜档案
+│       └── 家中证件-20191205更新
+│           ├── 10社保卡
+│           ├── 11保险单
+│           ├── 12汽车登记
+│           ├── 13房产证
+│           │   ├── 墨尔本507房
+│           │   ├── 厦门房产证
+│           │   ├── 墨尔本购房2
+│           │   └── 成都白云房产
+│           ├── 14张材纳税单2014～2018
+│           ├── 15银行流水201811～201911
+│           │   ├── 吴薇银行流水单201811～201911
+│           │   └── 张材银行流水单201811～201911
+│           ├── 16吴薇档案
+│           ├── 17张材档案
+│           │   └── 张材飞行证件
+│           ├── 18炜炜档案
+│           ├── 1公证件9份
+│           │   ├── 1出生公证3人
+│           │   ├── 2独生子女公证1
+│           │   ├── 3曾用名公证1
+│           │   ├── 4户口簿公证1
+│           │   ├── 5结婚证公证1
+│           │   └── 6无犯罪公证2人
+│           ├── 2证件照片
+│           │   ├── 201711澳洲143签600签证照片
+│           │   │   ├── WW143签证照
+│           │   │   └── ZC143签证照
+│           │   └── 201911澳洲签证照
+│           ├── 3户口簿
+│           │   ├── 张材户口簿
+│           │   ├── 吴薇父母户口
+│           │   ├── 张材父母户口
+│           │   └── 常驻人口信息表
+│           ├── 4身份证3人
+│           │   ├── 吴薇身份证
+│           │   │   ├── 吴薇身份证失效
+│           │   │   └── 吴薇身份证有效
+│           │   ├── 张材身份证
+│           │   │   └── 张材身份证无效
+│           │   └── 炜炜身份证
+│           ├── 5护照3人
+│           │   ├── 2019版护照有效
+│           │   │   ├── 201905版吴薇护照jp
+│           │   │   ├── 201905版张材护照jp
+│           │   │   └── 护照
+│           │   │       ├── 吴薇
+│           │   │       └── 张材
+│           │   ├── 炜炜护照
+│           │   │   ├── 炜炜第1本中国护照
+│           │   │   └── 炜炜第2-3本中国护照
+│           │   ├── 吴薇护照已失效
+│           │   │   └── ww1护照
+│           │   └── 张材护照已失效
+│           ├── 6结婚证
+│           ├── 7退休证
+│           │   ├── zc退休证的副本
+│           │   │   ├── zc退休证jp
+│           │   │   └── 退休证
+│           │   └── 吴薇退休证的副本
+│           ├── 8工作证类
+│           │   ├── 吴薇工作证
+│           │   └── 张材工作证
+│           ├── 9独生子女证
+│           ├── 文件
+│           │   └── scan documents
+│           ├── 澳洲签证
+│           │   ├── 143澳签证201711申请
+│           │   │   ├── 1公证文件7人份
+│           │   │   ├── 2护照2人份
+│           │   │   ├── 3签证照片2人份
+│           │   │   ├── 4申请表-签字2份
+│           │   │   ├── 5申请人信息表-签字1份
+│           │   │   └── 7补充材料件1份
+│           │   ├── 600澳签证201802
+│           │   │   ├── 1个人身份证明
+│           │   │   ├── 2工作单位证明
+│           │   │   ├── 3资产证明
+│           │   │   ├── 4申请人陈述信-ca／wu
+│           │   │   ├── 5担保人材料炜炜
+│           │   │   ├── 6申请表-956
+│           │   │   ├── 7客户信息表
+│           │   │   └── 8签证费-600签证
+│           │   ├── 600澳洲签证201911申请.pdf版
+│           │   │   └── 澳州签证材料清单以及个人申请表
+│           │   └── TR767赴澳签证2015
+│           │       ├── 10签证表
+│           │       ├── 1户口簿
+│           │       ├── 2身份证🆔
+│           │       │   ├── 吴薇身份证
+│           │       │   ├── 张材身份证
+│           │       │   └── 张喆炜身份证
+│           │       ├── 3护照
+│           │       │   ├── 吴薇护照
+│           │       │   │   ├── 吴薇护照
+│           │       │   │   ├── 吴薇护照 2
+│           │       │   │   └── 吴薇护照 3
+│           │       │   ├── 张材护照1
+│           │       │   └── 张喆炜护照
+│           │       ├── 4财产登记
+│           │       ├── 5银行流水
+│           │       │   └── 工资
+│           │       ├── 6结婚证
+│           │       ├── 7个人陈述
+│           │       ├── 8临时居住证杭州
+│           │       └── 9签证照片
+│           └── 其他国地签证
+│               ├── 新加坡签证2017
+│               │   ├── 10结婚证
+│               │   ├── 11邀请函
+│               │   ├── 12备注
+│               │   ├── 1签证材料目录
+│               │   ├── 2申请表
+│               │   ├── 3护照
+│               │   │   ├── 吴薇护照
+│               │   │   │   ├── 吴薇护照
+│               │   │   │   └── 吴薇护照 2
+│               │   │   ├── 张材护照
+│               │   │   └── 张喆炜护照
+│               │   ├── 4签证照片
+│               │   ├── 5身份证
+│               │   │   ├── 吴薇身份证
+│               │   │   ├── 张材身份证
+│               │   │   └── 张喆炜身份证
+│               │   ├── 6户口居住证
+│               │   │   ├── 户口簿
+│               │   │   └── 临时居住证杭州
+│               │   ├── 7在职退休证明
+│               │   │   └── 张材工作证
+│               │   ├── 8营业执照
+│               │   └── 9财产证明
+│               └── 台湾通行证201907
+│                   └── 吴薇张材台湾行证申请材料
+├── -FINANCE-
+│   ├── Banking
+│   ├── Budgets
+│   ├── Income & Expenses
+│   ├── Insurance
+│   ├── Investments
+│   └── Taxes
+├── -PERSONAL-
+│   ├── Entertainment
+│   │   └── ROMs
+│   │       ├── Bio DS (melonDS)
+│   │       ├── DS
+│   │       ├── Delta-Skins
+│   │       │   ├── GBA SP - Wallpaper Collection
+│   │       │   └── Pro Emulator Skins Pack
+│   │       ├── Delta-skins-2
+│   │       │   ├── DS-Atomic1.1 by starvingartist
+│   │       │   ├── DS-Carbon_PIX3L
+│   │       │   │   ├── basic-DPad
+│   │       │   │   ├── basic-Joystick
+│   │       │   │   │   └── ds_carbon_j_basic_pix3l_v0.7 2.deltaskin
+│   │       │   │   ├── basic-Middle
+│   │       │   │   ├── lite-DPad
+│   │       │   │   ├── lite-DPad-filter
+│   │       │   │   ├── lite-Joystick
+│   │       │   │   ├── lite-Joystick-filter
+│   │       │   │   ├── pro-DPad
+│   │       │   │   ├── pro-DPad-filter
+│   │       │   │   ├── pro-Joystick
+│   │       │   │   ├── pro-Joystick-filter
+│   │       │   │   ├── pro-controller
+│   │       │   │   └── pro-controller-filter
+│   │       │   ├── DS-Ergo Metal
+│   │       │   ├── DS-Joystick_Pink
+│   │       │   │   └── DS-Joystick_Pink-working
+│   │       │   ├── DS-LuxMax
+│   │       │   └── GBC:GBA-by SeanFletchr
+│   │       ├── GBA
+│   │       ├── GBC
+│   │       ├── N64
+│   │       └── NES
+│   ├── Health & Fitness
+│   │   ├── Gym Nutrition
+│   │   ├── Gym Training
+│   │   ├── Medical Certificate
+│   │   ├── Medical Treatment
+│   │   │   ├── 2017 Bowel-Gallbladder
+│   │   │   ├── 2019 Fistula
+│   │   │   └── 2021 Thyroid
+│   │   ├── Prescription (Rx)
+│   │   └── Workout-toSort
+│   │       ├── Goals & Progress
+│   │       ├── Nutrition
+│   │       └── Program
+│   │           └── #archive
+│   ├── Private
+│   │   ├── Dixon Boyz
+│   │   │   ├── 2011 Prior
+│   │   │   │   ├── Bryan
+│   │   │   │   ├── Emu way
+│   │   │   │   ├── The Airport Guy
+│   │   │   │   └── 男人
+│   │   │   ├── 2012
+│   │   │   ├── 2014
+│   │   │   ├── 2015
+│   │   │   ├── 2020
+│   │   │   ├── 2021
+│   │   │   │   └── Manhunt_Slmn99
+│   │   │   ├── Cam Sess
+│   │   │   │   ├── Screen sess 20-05
+│   │   │   │   └── Screen sess 20-09
+│   │   │   ├── Francois Sagat
+│   │   │   ├── Hentai
+│   │   │   │   ├── Deliver Hentai
+│   │   │   │   ├── Hard Mix
+│   │   │   │   ├── Kuryuu Kouji no Sounan
+│   │   │   │   ├── Nice one
+│   │   │   │   ├── Stomach Pain
+│   │   │   │   ├── 五人部屋
+│   │   │   │   └── 請別叫我鄉巴佬
+│   │   │   ├── Jordan, Brandt's Boys
+│   │   │   ├── Joris Johnny
+│   │   │   ├── KF. Kealean
+│   │   │   ├── Profilexxx
+│   │   │   │   └── bio.rtfd
+│   │   │   ├── Rent.Men HngMuslDaddyTop
+│   │   │   ├── Rent.Men Hungmale
+│   │   │   ├── Rent.Men Logan_Aus
+│   │   │   ├── Rent.Men Versator
+│   │   │   ├── RentMen-GingerRick
+│   │   │   └── Rentmen-Hungmale
+│   │   │       └── hungmale pics
+│   │   ├── Dixon Ezxz
+│   │   │   ├── Nudesxxx
+│   │   │   │   ├── Facexxx
+│   │   │   │   └── archive
+│   │   │   └── Videoxxx
+│   │   └── Sentimental
+│   │       ├── Anima
+│   │       │   ├── Canon
+│   │       │   ├── Doraemon
+│   │       │   ├── Fly
+│   │       │   ├── Gundam
+│   │       │   ├── Hime
+│   │       │   ├── Naruto
+│   │       │   │   ├── naruto
+│   │       │   │   ├── 鹿丸
+│   │       │   │   ├── 卡卡西
+│   │       │   │   │   └── 卡卡西外传
+│   │       │   │   └── 桃地再不斩
+│   │       │   ├── One Piece
+│   │       │   ├── Sailor Moon
+│   │       │   └── Saint Seiya
+│   │       │       ├── BOOK
+│   │       │       ├── CARD
+│   │       │       │   ├── 冥星
+│   │       │       │   ├── 圣慰
+│   │       │       │   ├── 影辉
+│   │       │       │   ├── 海魅
+│   │       │       │   └── 神权
+│   │       │       └── 圣斗士电子档案
+│   │       │           └── xtras
+│   │       │               ├── DirectMediaXtrasset
+│   │       │               ├── Dmtool for authorware
+│   │       │               └── FlashAsset
+│   │       ├── Birthday Wish
+│   │       │   └── Untitled.clmdoc
+│   │       │       ├── Contents
+│   │       │       ├── QuickLook
+│   │       │       └── Thumbnails
+│   │       ├── Canis Color
+│   │       ├── Celebs
+│   │       │   ├── Andy Roddick
+│   │       │   ├── Heath Ledger
+│   │       │   ├── Ian Somerhalder
+│   │       │   ├── Jake Gellenhaal
+│   │       │   ├── Jason Xu
+│   │       │   ├── Jay Chou
+│   │       │   │   └── 专辑
+│   │       │   │       ├── FANTASY
+│   │       │   │       ├── jay
+│   │       │   │       ├── 叶惠美
+│   │       │   │       ├── 周杰伦2004'无与伦比'演唱
+│   │       │   │       ├── 八度空间
+│   │       │   │       └── 寻找周杰伦
+│   │       │   ├── Jude Law
+│   │       │   ├── Kwon Sang Woo
+│   │       │   ├── Leon William
+│   │       │   ├── Lesili Chuang
+│   │       │   ├── Matt Battaglia
+│   │       │   ├── Seann William Scott
+│   │       │   ├── Viter Fan
+│   │       │   ├── Wentworth Miller
+│   │       │   └── Yoyo Yang
+│   │       ├── Fly
+│   │       ├── Lights
+│   │       ├── Octpus
+│   │       ├── Photography
+│   │       ├── Polaroids Family
+│   │       ├── Red
+│   │       ├── handmade
+│   │       │   ├── BBM
+│   │       │   ├── Balance
+│   │       │   └── for fun
+│   │       └── water blash
+│   ├── Shopping & Food
+│   │   └── Cooking
+│   ├── Tech
+│   │   ├── !!!settings_preferences
+│   │   │   └── Settings MacOs
+│   │   ├── 2312 Macbook RAM Issue
+│   │   ├── 2403 Email Automation
+│   │   ├── 2403 Information Architecture
+│   │   ├── 2403 Setting Mac Mini
+│   │   ├── 2404 AI Stuff Prompt
+│   │   ├── 2404 Devices Customisation
+│   │   │   ├── [empty]content
+│   │   │   │   ├── [empty]#supplied
+│   │   │   │   ├── [empty]brandKit-
+│   │   │   │   ├── [empty]copyDoc-
+│   │   │   │   ├── [empty]font-
+│   │   │   │   ├── [empty]img-
+│   │   │   │   ├── [empty]media-
+│   │   │   │   └── [empty]stock-
+│   │   │   ├── [empty]output
+│   │   │   │   └── [empty]#archive
+│   │   │   ├── [empty]working
+│   │   │   │   └── [empty]#archive
+│   │   │   └── inspo-EZ03
+│   │   ├── 2404 Dropbox Sync Issue
+│   │   └── 2404 iPhone Action Button
+│   └── Travel
+│       ├── #archive-travel
+│       │   ├── Travel_Chengdu 2018
+│       │   ├── Travel_Europe 2016
+│       │   ├── Travel_Japan 2017
+│       │   │   ├── Accomdations
+│       │   │   ├── Boarding passes
+│       │   │   ├── Bookings
+│       │   │   └── Itinerary
+│       │   ├── Travel_Perth 2019
+│       │   ├── Travel_Thailand 2018
+│       │   │   ├── Insurance
+│       │   │   └── Itinerary
+│       │   └── Travel_Vietnam 2018
+│       │       └── Vietnam Trip
+│       ├── 2022 Bali
+│       ├── 2022 Taiwan
+│       └── 2023 Xiamen
+├── admin
+│   ├── FOMO 
+│   │   ├── 00_Project_Docs
+│   │   ├── 01_Tech_Audit
+│   │   │   └── 20250124_File_analysis
+│   │   ├── 02_Sync_Fixes
+│   │   ├── 03_Automation_Rules
+│   │   ├── 04_Automation_Workflows
+│   │   └── 05_Backup_Strategy
+│   ├── aliases
+│   ├── appBackups
+│   │   └── SnippetsLab
+│   │       ├── main 26-1-2025, 01-58-58 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 26-1-2025, 02-18-58 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 26-1-2025, 02-33-18 (manual).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 26-1-2025, 09-10-55 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 26-1-2025, 10-10-55 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 27-1-2025, 06-58-08 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 00-39-31 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 00-59-26 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 01-19-26 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 01-46-02 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 02-05-57 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 02-25-57 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 03-05-57 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 03-42-53 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 04-09-23 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 04-49-23 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 05-09-23 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 05-55-18 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 06-25-11 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 06-45-06 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 07-06-18 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 07-26-13 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 08-21-02 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 08-40-58 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 30-1-2025, 16-39-37 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       ├── main 31-1-2025, 00-43-19 (automatic).snippetslab-backup
+│   │       │   └── main.snippetslablibrary
+│   │       │       └── Database
+│   │       │           ├── Attachments
+│   │       │           └── Snippets
+│   │       └── main 31-1-2025, 01-12-54 (automatic).snippetslab-backup
+│   │           └── main.snippetslablibrary
+│   │               └── Database
+│   │                   ├── Attachments
+│   │                   └── Snippets
+│   ├── appSupport
+│   │   ├── 1Password
+│   │   ├── Adobe After Effects
+│   │   │   ├── User Libraries
+│   │   │   └── Video Libraries
+│   │   ├── Adobe Illustrator
+│   │   ├── Adobe Indesign
+│   │   ├── Alfred
+│   │   │   ├── Alfred 2.alfredpreferences
+│   │   │   │   └── preferences
+│   │   │   │       └── local
+│   │   │   │           └── 35ec6c7f7ccec3c410a176c03014768a0cd2e0c8
+│   │   │   │               └── appearance
+│   │   │   ├── Alfred 3.alfredpreferences
+│   │   │   │   └── preferences
+│   │   │   │       └── local
+│   │   │   │           └── 35ec6c7f7ccec3c410a176c03014768a0cd2e0c8
+│   │   │   │               └── hotkey
+│   │   │   ├── Alfred 4.alfredpreferences
+│   │   │   │   └── remote
+│   │   │   │       ├── images
+│   │   │   │       │   ├── items
+│   │   │   │       │   └── pages
+│   │   │   │       ├── local
+│   │   │   │       └── pages
+│   │   │   ├── Alfred 5.alfredpreferences
+│   │   │   │   └── preferences
+│   │   │   │       └── remote
+│   │   │   ├── Alfred 6.alfredpreferences
+│   │   │   │   └── preferences
+│   │   │   │       └── local
+│   │   │   │           └── 35ec6c7f7ccec3c410a176c03014768a0cd2e0c8
+│   │   │   │               └── appearance
+│   │   │   ├── Alfred 7.alfredpreferences
+│   │   │   │   └── preferences
+│   │   │   │       └── appearance
+│   │   │   │           └── options
+│   │   │   ├── Alfred-.alfredpreferences
+│   │   │   │   └── preferences
+│   │   │   │       └── appearance
+│   │   │   │           └── options
+│   │   │   ├── Alfred-230531.alfredpreferences
+│   │   │   │   ├── preferences
+│   │   │   │   │   ├── appearance
+│   │   │   │   │   │   └── options
+│   │   │   │   │   └── local
+│   │   │   │   │       └── 35ec6c7f7ccec3c410a176c03014768a0cd2e0c8
+│   │   │   │   │           ├── appearance
+│   │   │   │   │           │   └── options
+│   │   │   │   │           └── hotkey
+│   │   │   │   └── remote
+│   │   │   │       ├── images
+│   │   │   │       │   ├── items
+│   │   │   │       │   └── pages
+│   │   │   │       ├── local
+│   │   │   │       └── pages
+│   │   │   └── Alfred.alfredpreferences
+│   │   │       ├── preferences
+│   │   │       │   ├── appearance
+│   │   │       │   │   └── options
+│   │   │       │   ├── features
+│   │   │       │   │   ├── 1password
+│   │   │       │   │   ├── clipboard
+│   │   │       │   │   ├── defaultresults
+│   │   │       │   │   ├── filesearch
+│   │   │       │   │   ├── system
+│   │   │       │   │   ├── webbookmarks
+│   │   │       │   │   └── websearch
+│   │   │       │   │       ├── applemaps
+│   │   │       │   │       ├── ask
+│   │   │       │   │       ├── bing
+│   │   │       │   │       └── yahoo
+│   │   │       │   ├── local
+│   │   │       │   │   └── 35ec6c7f7ccec3c410a176c03014768a0cd2e0c8
+│   │   │       │   │       ├── appearance
+│   │   │       │   │       │   └── options
+│   │   │       │   │       ├── features
+│   │   │       │   │       │   ├── 1password
+│   │   │       │   │       │   ├── defaultresults
+│   │   │       │   │       │   │   └── scope
+│   │   │       │   │       │   └── dictionary
+│   │   │       │   │       ├── hotkey
+│   │   │       │   │       └── remote
+│   │   │       │   └── workflows
+│   │   │       │       └── tasks
+│   │   │       ├── remote
+│   │   │       │   ├── images
+│   │   │       │   │   ├── items
+│   │   │       │   │   └── pages
+│   │   │       │   ├── local
+│   │   │       │   └── pages
+│   │   │       └── workflows
+│   │   │           ├── user.workflow.6E560126-7FF6-4ADB-9EE0-D655BC7AD48B
+│   │   │           │   └── images
+│   │   │           │       └── about
+│   │   │           ├── user.workflow.8292588A-BF33-4862-9020-2A730D95C9BE
+│   │   │           │   └── packal
+│   │   │           └── user.workflow.CEABEB71-F918-437B-9C6A-74EDB2738F1C
+│   │   ├── Anybox
+│   │   ├── Arc Browser
+│   │   ├── Bartender 5
+│   │   ├── Bear Notes
+│   │   │   ├── material-bear-theme
+│   │   │   │   ├── resources
+│   │   │   │   └── themes
+│   │   │   │       ├── darker
+│   │   │   │       ├── default
+│   │   │   │       ├── lighter
+│   │   │   │       ├── ocean
+│   │   │   │       └── palenight
+│   │   │   └── material-theme-bear-notes-0.3
+│   │   │       ├── resources
+│   │   │       └── themes
+│   │   │           ├── darker
+│   │   │           ├── default
+│   │   │           ├── lighter
+│   │   │           ├── ocean
+│   │   │           └── palenight
+│   │   ├── BetterTouchTool (BTT)
+│   │   │   ├── backups
+│   │   │   └── community-presets
+│   │   ├── Browser Extensions
+│   │   │   ├── Downie Extension
+│   │   │   │   └── Downie - manifest v3
+│   │   │   ├── Extension Manager
+│   │   │   ├── MarkDownload
+│   │   │   ├── SingleFile
+│   │   │   └── uBlock Origin
+│   │   ├── BusyCal
+│   │   │   ├── BusyCal 2022-09-30 13-04.bcbu
+│   │   │   │   ├── 00343742-B010-4885-B72E-9CBA90F565DE
+│   │   │   │   ├── 01A258AF-D671-4BB8-9990-F4DBE2D21364
+│   │   │   │   ├── 082891E9-5E80-45EF-8B0C-0DB4C1DFB25C
+│   │   │   │   ├── 0EB216AF-32CF-4B68-A3C4-001C2524F474
+│   │   │   │   ├── 12BFED4F-06CE-4A05-A196-6C8FE1F8D901
+│   │   │   │   ├── 13113525-E7A7-4BC0-8667-AF90231BAC96
+│   │   │   │   ├── 17CB1BB2-4CB2-4B3F-8772-7CF3055B0A08
+│   │   │   │   ├── 19AB17D8-EB12-4B8C-8354-3F014983E6CB
+│   │   │   │   ├── 1DE96984-5550-4FE0-B219-6B38CD9CF2A0
+│   │   │   │   ├── 1F4F7C6A-2AFF-4E29-B68D-032B4C46055D
+│   │   │   │   ├── 2343EB27-2658-4C6F-AA72-523E0BECAD19
+│   │   │   │   ├── 28CA8BF7-54A4-4B09-A72D-504B12E6243B
+│   │   │   │   ├── 373078E7-7D73-4C19-B13C-5BCD88589104
+│   │   │   │   ├── 37974ED7-F4A0-4A2F-8F78-631A0BD72EF6
+│   │   │   │   ├── 419C7361-4D20-4A85-BB75-2EAF17B31723
+│   │   │   │   ├── 48C4DC99-0292-4AD5-8F86-624F3AA58359
+│   │   │   │   ├── 49BA7E35-862E-40AB-9AF3-A8A585D52D47
+│   │   │   │   ├── 4B22E0ED-2382-43F5-B40B-A8248E8E94FF
+│   │   │   │   ├── 4B8DE73D-67C3-4889-9418-48F637435B26
+│   │   │   │   ├── 53DA5AC2-1BF7-4A91-8939-112DDE45914C
+│   │   │   │   ├── 57B35925-AE27-46E6-AFE5-46782E2EC10A
+│   │   │   │   ├── 5A6D3EE3-FB28-462E-9A36-5D9DFB321187
+│   │   │   │   ├── 6215BBF6-5832-4E23-B214-1B918EBA4A2B
+│   │   │   │   ├── 623FAA6B-67E3-43F6-AE56-50D88C60E69C
+│   │   │   │   ├── 625144DE-4334-4D39-BDC8-F9F5E594D68D
+│   │   │   │   ├── 643AA824-9170-401F-B686-34A198C854AF
+│   │   │   │   ├── 746507E2-35B1-4352-BE59-40857A969713
+│   │   │   │   ├── 89A483BA-7C2B-42FF-B67A-AC132597D7FA
+│   │   │   │   ├── 8CCC8FEB-004A-4789-9F8D-9489623C31EA
+│   │   │   │   ├── 8F0C57C3-8E9F-4C70-8C1E-C5185C5501B9
+│   │   │   │   ├── 9076CC73-B92B-4667-876E-F451D5047D12
+│   │   │   │   ├── 90BD34FD-2AC9-4DDF-8780-332EC81B8F5E
+│   │   │   │   ├── 90F55FAC-87FE-4B40-9B1D-F1D8047B4E0F
+│   │   │   │   ├── 9293935D-40B2-47F2-ADD4-F1781A5FB981
+│   │   │   │   ├── 9773C60B-F88E-468F-ACDA-7A5960B1CFDE
+│   │   │   │   ├── 98874F38-455F-4F46-AFA5-19E524D71423
+│   │   │   │   ├── 9921DBDF-FC93-4300-90FA-6B54EF68BB98
+│   │   │   │   ├── 9B67B8AF-C8BE-4F0B-9AFB-D33B44459A78
+│   │   │   │   ├── 9D6D478B-178A-4F41-A85C-ECE2B9498280
+│   │   │   │   ├── A23B37C9-1D3C-4CF8-A03B-FCE636B3D60B
+│   │   │   │   ├── A6ADE69E-85A4-4A09-8CF2-058FD5106363
+│   │   │   │   ├── A83AE7F6-C297-440C-AFCF-1280FC043AE1
+│   │   │   │   ├── AA125B80-2473-41DE-B7AE-A6DE01E47B77
+│   │   │   │   ├── B66BDA45-F3C8-4302-AE8E-CA418DF91987
+│   │   │   │   ├── B7A4F6E1-43A9-43FF-96EE-1241CD9EEC7B
+│   │   │   │   ├── BCCB0796-7CBD-4EA3-8594-D90127846A26
+│   │   │   │   ├── BCE6CE8B-A70F-40F7-80F2-CC4D92984DDF
+│   │   │   │   ├── C008574E-3A40-4620-8EDD-AB5D527320CE
+│   │   │   │   ├── C7627853-CDCB-4A95-BA63-075BC0DECD94
+│   │   │   │   ├── D20D316E-A84D-4849-B0A5-7384400AE9BE
+│   │   │   │   ├── D5D56ABD-136C-48DD-9355-2886B993D6AA
+│   │   │   │   ├── D786DBB6-5061-440C-8934-24F107A54D9D
+│   │   │   │   ├── DF4A6DA8-BE85-423D-818D-3253DC14ED92
+│   │   │   │   ├── E29B3640-2A34-4D86-B8C1-BD123D940182
+│   │   │   │   ├── E3A2E741-254C-4C4C-8B18-264145D31C06
+│   │   │   │   ├── EAED30FF-28D7-4A5F-A288-6FCE6B795CF4
+│   │   │   │   ├── EBF8F09F-0E36-418A-9B59-F2DE10B945EC
+│   │   │   │   ├── F1024B44-EBDF-47FA-A719-14C8C3F051EC
+│   │   │   │   ├── F15918E7-3BC7-442A-A677-199D08634487
+│   │   │   │   ├── F53E6D17-CF81-42B4-AAB2-F3583B1F10FD
+│   │   │   │   └── F61F7DF3-A52C-4931-A85B-9157B7066989
+│   │   │   ├── BusyCal 2022-10-02 19-31.bcbu
+│   │   │   │   ├── 00343742-B010-4885-B72E-9CBA90F565DE
+│   │   │   │   ├── 01A258AF-D671-4BB8-9990-F4DBE2D21364
+│   │   │   │   ├── 082891E9-5E80-45EF-8B0C-0DB4C1DFB25C
+│   │   │   │   ├── 0EB216AF-32CF-4B68-A3C4-001C2524F474
+│   │   │   │   ├── 12BFED4F-06CE-4A05-A196-6C8FE1F8D901
+│   │   │   │   ├── 13113525-E7A7-4BC0-8667-AF90231BAC96
+│   │   │   │   ├── 17CB1BB2-4CB2-4B3F-8772-7CF3055B0A08
+│   │   │   │   ├── 19AB17D8-EB12-4B8C-8354-3F014983E6CB
+│   │   │   │   ├── 1DE96984-5550-4FE0-B219-6B38CD9CF2A0
+│   │   │   │   ├── 1F4F7C6A-2AFF-4E29-B68D-032B4C46055D
+│   │   │   │   ├── 2343EB27-2658-4C6F-AA72-523E0BECAD19
+│   │   │   │   ├── 373078E7-7D73-4C19-B13C-5BCD88589104
+│   │   │   │   ├── 37974ED7-F4A0-4A2F-8F78-631A0BD72EF6
+│   │   │   │   ├── 419C7361-4D20-4A85-BB75-2EAF17B31723
+│   │   │   │   ├── 48C4DC99-0292-4AD5-8F86-624F3AA58359
+│   │   │   │   ├── 49BA7E35-862E-40AB-9AF3-A8A585D52D47
+│   │   │   │   ├── 4B22E0ED-2382-43F5-B40B-A8248E8E94FF
+│   │   │   │   ├── 4B8DE73D-67C3-4889-9418-48F637435B26
+│   │   │   │   ├── 57B35925-AE27-46E6-AFE5-46782E2EC10A
+│   │   │   │   ├── 5A6D3EE3-FB28-462E-9A36-5D9DFB321187
+│   │   │   │   ├── 6215BBF6-5832-4E23-B214-1B918EBA4A2B
+│   │   │   │   ├── 623FAA6B-67E3-43F6-AE56-50D88C60E69C
+│   │   │   │   ├── 625144DE-4334-4D39-BDC8-F9F5E594D68D
+│   │   │   │   ├── 643AA824-9170-401F-B686-34A198C854AF
+│   │   │   │   ├── 746507E2-35B1-4352-BE59-40857A969713
+│   │   │   │   ├── 7C602499-7BB8-42A1-B2D1-B772F542217A
+│   │   │   │   ├── 89A483BA-7C2B-42FF-B67A-AC132597D7FA
+│   │   │   │   ├── 8CCC8FEB-004A-4789-9F8D-9489623C31EA
+│   │   │   │   ├── 8F0C57C3-8E9F-4C70-8C1E-C5185C5501B9
+│   │   │   │   ├── 9076CC73-B92B-4667-876E-F451D5047D12
+│   │   │   │   ├── 90BD34FD-2AC9-4DDF-8780-332EC81B8F5E
+│   │   │   │   ├── 90F55FAC-87FE-4B40-9B1D-F1D8047B4E0F
+│   │   │   │   ├── 9293935D-40B2-47F2-ADD4-F1781A5FB981
+│   │   │   │   ├── 97625446-09A0-420D-BB4B-10AADC8A6C96
+│   │   │   │   ├── 9773C60B-F88E-468F-ACDA-7A5960B1CFDE
+│   │   │   │   ├── 98874F38-455F-4F46-AFA5-19E524D71423
+│   │   │   │   ├── 9921DBDF-FC93-4300-90FA-6B54EF68BB98
+│   │   │   │   ├── 9B67B8AF-C8BE-4F0B-9AFB-D33B44459A78
+│   │   │   │   ├── 9D6D478B-178A-4F41-A85C-ECE2B9498280
+│   │   │   │   ├── A23B37C9-1D3C-4CF8-A03B-FCE636B3D60B
+│   │   │   │   ├── A6ADE69E-85A4-4A09-8CF2-058FD5106363
+│   │   │   │   ├── A83AE7F6-C297-440C-AFCF-1280FC043AE1
+│   │   │   │   ├── AA125B80-2473-41DE-B7AE-A6DE01E47B77
+│   │   │   │   ├── B66BDA45-F3C8-4302-AE8E-CA418DF91987
+│   │   │   │   ├── B7A4F6E1-43A9-43FF-96EE-1241CD9EEC7B
+│   │   │   │   ├── BCE6CE8B-A70F-40F7-80F2-CC4D92984DDF
+│   │   │   │   ├── C008574E-3A40-4620-8EDD-AB5D527320CE
+│   │   │   │   ├── C7627853-CDCB-4A95-BA63-075BC0DECD94
+│   │   │   │   ├── D786DBB6-5061-440C-8934-24F107A54D9D
+│   │   │   │   ├── DF4A6DA8-BE85-423D-818D-3253DC14ED92
+│   │   │   │   ├── E29B3640-2A34-4D86-B8C1-BD123D940182
+│   │   │   │   ├── E3A2E741-254C-4C4C-8B18-264145D31C06
+│   │   │   │   ├── EAED30FF-28D7-4A5F-A288-6FCE6B795CF4
+│   │   │   │   ├── EBF8F09F-0E36-418A-9B59-F2DE10B945EC
+│   │   │   │   ├── F15918E7-3BC7-442A-A677-199D08634487
+│   │   │   │   ├── F53E6D17-CF81-42B4-AAB2-F3583B1F10FD
+│   │   │   │   └── F61F7DF3-A52C-4931-A85B-9157B7066989
+│   │   │   └── BusyCal 2023-03-15 10-44.bcbu
+│   │   │       ├── 01A258AF-D671-4BB8-9990-F4DBE2D21364
+│   │   │       ├── 082891E9-5E80-45EF-8B0C-0DB4C1DFB25C
+│   │   │       ├── 0BBECDF3-DA8C-45EB-931E-220244269D9C
+│   │   │       ├── 0EB216AF-32CF-4B68-A3C4-001C2524F474
+│   │   │       ├── 0F17D3C0-31CF-4F19-9E21-F1081D24982B
+│   │   │       ├── 11150E43-B8D8-44C0-A54F-862EC7CB17F7
+│   │   │       ├── 12BFED4F-06CE-4A05-A196-6C8FE1F8D901
+│   │   │       ├── 1F38F4A2-C4C4-4189-B09D-D8D6D199C0E7
+│   │   │       ├── 1F4F7C6A-2AFF-4E29-B68D-032B4C46055D
+│   │   │       ├── 297BA9C6-FB82-48D6-93E0-F7E145F92E51
+│   │   │       ├── 2BE43997-B293-4A46-91E6-D682159C22D0
+│   │   │       ├── 2D34998C-44F9-4EDA-A60F-31F76DD48EBB
+│   │   │       ├── 32F6ADA1-922D-4D61-B895-EA6F75502A38
+│   │   │       ├── 33A00F31-1600-46C2-A3C4-44445ADC80C6
+│   │   │       ├── 37974ED7-F4A0-4A2F-8F78-631A0BD72EF6
+│   │   │       ├── 3C306CA4-A47B-4C99-8884-CE8B3E76E6B8
+│   │   │       ├── 3CFFBBBA-0F45-4A4E-AFF5-FCB657BD9BB3
+│   │   │       ├── 404E1731-038E-4B5D-8141-F8F40357FC7C
+│   │   │       ├── 4B22E0ED-2382-43F5-B40B-A8248E8E94FF
+│   │   │       ├── 4B8DE73D-67C3-4889-9418-48F637435B26
+│   │   │       ├── 623FAA6B-67E3-43F6-AE56-50D88C60E69C
+│   │   │       ├── 6B9C7274-E46A-4C3A-9EA6-98A792F9FEE6
+│   │   │       ├── 6EE7201E-8E1E-4397-BEA6-3CAC87C927D7
+│   │   │       ├── 701A7717-AD98-4D2B-9BBC-0918D27DEE3E
+│   │   │       ├── 746507E2-35B1-4352-BE59-40857A969713
+│   │   │       ├── 7D13EBB6-8D8F-4F82-BB61-92F7415F0938
+│   │   │       ├── 7F4A059B-322B-438B-BA22-D014BA4BB6C6
+│   │   │       ├── 8713FC32-B4DA-4E8B-8CEA-477610CFB3D9
+│   │   │       ├── 874ACF3A-5482-4B3A-B92C-9473E6DD9CFE
+│   │   │       ├── 8CCC8FEB-004A-4789-9F8D-9489623C31EA
+│   │   │       ├── 8FF1BBDD-BB2D-4BAB-82F1-F86363C3AE56
+│   │   │       ├── 90F55FAC-87FE-4B40-9B1D-F1D8047B4E0F
+│   │   │       ├── 9293935D-40B2-47F2-ADD4-F1781A5FB981
+│   │   │       ├── 9921DBDF-FC93-4300-90FA-6B54EF68BB98
+│   │   │       ├── 9DC8A64A-F350-4476-BAC0-F33BFFC10C31
+│   │   │       ├── A2134734-CE42-44B2-BFC1-29A1F1B9BD33
+│   │   │       ├── A83AE7F6-C297-440C-AFCF-1280FC043AE1
+│   │   │       ├── B4333FED-9EB5-4172-82BC-A42F3AFFCC37
+│   │   │       ├── B67694BA-CFA7-4FB8-A7E3-263208CA2EA7
+│   │   │       ├── BACD13A1-97CD-4B95-B1DF-5C5D1506B2B0
+│   │   │       ├── C0687106-E1AA-46B3-9941-D2F5DE00D3F2
+│   │   │       ├── C7599501-D183-4F74-B441-B4B7E96343D7
+│   │   │       ├── DF1DAA6E-87C4-441E-85F8-227744D38B95
+│   │   │       ├── E3A2E741-254C-4C4C-8B18-264145D31C06
+│   │   │       ├── EA3CBD4F-8CED-4262-B65D-903C4912AD2B
+│   │   │       ├── F53E6D17-CF81-42B4-AAB2-F3583B1F10FD
+│   │   │       ├── FB704EEE-71AD-4D26-9DA1-B4180F4CA55C
+│   │   │       └── FB801325-C870-4715-B406-576303D42A54
+│   │   ├── CoEditor
+│   │   │   ├── HTML5-coteditor-master
+│   │   │   │   └── Syntaxes
+│   │   │   └── SampleScripts-main
+│   │   │       ├── AppleScript
+│   │   │       │   ├── Extras
+│   │   │       │   │   ├── LaTeX
+│   │   │       │   │   ├── Text Utility
+│   │   │       │   │   └── XHTML
+│   │   │       │   │       ├── 00)Headings
+│   │   │       │   │       ├── 10)Block Elements
+│   │   │       │   │       ├── 20)Inline Elements
+│   │   │       │   │       └── 50)Entity References
+│   │   │       │   └── Template
+│   │   │       │       └── Hook Template.scptd
+│   │   │       │           └── Contents
+│   │   │       │               └── Resources
+│   │   │       │                   └── Scripts
+│   │   │       └── ShellScript
+│   │   │           ├── Extras
+│   │   │           │   └── Ruby Scripts
+│   │   │           └── Template
+│   │   ├── Folx
+│   │   ├── ForkLift
+│   │   ├── Geotag Photos 2
+│   │   ├── GitHub
+│   │   │   └── helloWorld
+│   │   │       └── prompt
+│   │   ├── Glyphs
+│   │   ├── Hazel
+│   │   │   ├── HazelRules
+│   │   │   ├── Rule Sync
+│   │   │   └── archive
+│   │   ├── HoudahSpot
+│   │   │   └── Saved hsSearch
+│   │   ├── IMDb
+│   │   ├── IconJar
+│   │   │   └── Backups
+│   │   │       ├── IconJar-backup-04-26-2024@17-40-01.ijlibrary
+│   │   │       │   ├── Export Presets
+│   │   │       │   ├── Fonts
+│   │   │       │   └── Sets
+│   │   │       │       ├── 02A8BA13-B900-4B5E-A90D-060F1F941048
+│   │   │       │       ├── 091E3D6A-679D-4567-8BD6-555DA2BA3654
+│   │   │       │       ├── 095A2197-BC26-4520-86C7-D19AB909E8CA
+│   │   │       │       ├── 0A28CBBD-1F90-44FE-996E-443C18C1109F
+│   │   │       │       ├── 21A3DC58-5C29-425E-90D3-B77723903FAA
+│   │   │       │       ├── 22392438-85FF-4ADE-AA59-F4FF235249A9
+│   │   │       │       ├── 2352C814-A5A8-4CAA-87D1-6BA6CA2734E7
+│   │   │       │       ├── 243D40E5-E88B-488A-B1E8-0152C027B21D
+│   │   │       │       ├── 24CF1514-5CD5-4C46-A392-8EC4523B8931
+│   │   │       │       ├── 281B1B0D-62DB-4AD2-998A-CC6A49A30335
+│   │   │       │       ├── 2BCA254C-E109-4ACD-A64D-0EF4B8AE2C67
+│   │   │       │       ├── 2D80E25A-B83D-43F8-81B0-E25AB3E31B5E
+│   │   │       │       ├── 321C5403-7D11-479D-9D1B-F462BAA6EB4D
+│   │   │       │       ├── 3AAD3E81-2A55-45F4-A0EC-1CAAFAD268D2
+│   │   │       │       ├── 40F86AF1-9BD8-49BE-A332-30C3BAB00395
+│   │   │       │       ├── 420038EE-C305-482E-B985-2370C280416C
+│   │   │       │       ├── 4227C7C0-513A-44CA-A6CE-EA21992857DF
+│   │   │       │       ├── 4996A257-88FD-435A-9641-2C52B14D4135
+│   │   │       │       ├── 4AC6C603-3A6B-408F-88B6-EBCDD462E67B
+│   │   │       │       ├── 4C4037FA-6342-4F44-810E-BB16C3E178D9
+│   │   │       │       ├── 51C22551-5ED3-4F2A-9283-3A92B05ED10C
+│   │   │       │       ├── 527E866A-396C-41F9-9807-E97D7C1AD9F0
+│   │   │       │       ├── 531B4F74-6165-4948-9D6D-63B4841D4FE3
+│   │   │       │       ├── 53A0ECB9-ADA7-485B-9E3B-87F9520A96F9
+│   │   │       │       ├── 55D28B64-38C3-46CD-B17A-E0CCD035DB8D
+│   │   │       │       ├── 56D9B5EF-CF46-4F86-A227-1B38F92E3C78
+│   │   │       │       ├── 592FF151-47F5-40FF-A433-2C21F2944CA6
+│   │   │       │       ├── 5D2786C3-56C0-4388-A7AC-F359132D46E4
+│   │   │       │       ├── 5DC2436C-E3D6-4A96-9987-F0E9118E5D7E
+│   │   │       │       ├── 5F25C90D-B93E-435E-B632-416B81E35342
+│   │   │       │       ├── 5FC2633D-08F8-48D1-9E7A-BFFF55C15BD0
+│   │   │       │       ├── 615F3CA2-7B44-4AEB-8F04-C3F88DE5587A
+│   │   │       │       ├── 638397BA-8F01-4320-BDD5-9B9B7DB7BE47
+│   │   │       │       ├── 6618F514-6907-4F40-B009-AE31681E8734
+│   │   │       │       ├── 6EDD288C-8A2B-4D68-A166-DB5A55A71F7F
+│   │   │       │       ├── 70BED28D-25F6-4E36-918B-C713BDCF015E
+│   │   │       │       ├── 7180CE2A-4351-461A-8299-1DF03D8B7303
+│   │   │       │       ├── 7208E114-481C-4895-9822-12AB01A4AE87
+│   │   │       │       ├── 7476AACE-7FD0-4E9C-A5D1-4C654EC053AB
+│   │   │       │       ├── 74A4AF00-F6E1-4FD7-A648-494CB2487556
+│   │   │       │       ├── 75A5C4B9-AB20-4E8A-A26D-886E02E2CD3B
+│   │   │       │       ├── 76452693-8BDB-4325-80DE-721FE7141E1C
+│   │   │       │       ├── 7713AE3A-A619-4540-A12E-F258EFA16977
+│   │   │       │       ├── 77FC94F7-2316-4F35-8413-4FBF20BB251E
+│   │   │       │       ├── 7A13C248-BD42-4D45-93FB-024EB5DEAA02
+│   │   │       │       ├── 7C023BB6-3B90-46A8-A697-4B4981D65B2C
+│   │   │       │       ├── 8812D87B-3EB7-47BB-B200-B537F7954768
+│   │   │       │       ├── 8C819C78-4794-4BD7-AD3A-FD23A09E3D7E
+│   │   │       │       ├── 8EEF793E-5A4B-4C09-AC9A-E4FF931FC9C3
+│   │   │       │       ├── 8F1703DC-81AE-44E0-B138-0D7073F0581F
+│   │   │       │       ├── 8F1CAFA7-A1DC-4A69-AF99-C2BFD22B4958
+│   │   │       │       ├── 8F806BD2-C163-46DB-B9D9-2A21C0BC306A
+│   │   │       │       ├── 9020F2A1-828A-4E74-8196-96F2EA913D68
+│   │   │       │       ├── 90A5CEB4-C4F2-400D-ABD8-42BF5A570081
+│   │   │       │       ├── 914BDF09-B9D2-4B7A-81E5-999DCAA7FF49
+│   │   │       │       ├── 95AAC7BB-735D-4A3F-B137-F6356F5E4CD3
+│   │   │       │       ├── 96C3318D-9025-47AB-BD9D-A916011A4A24
+│   │   │       │       ├── 9CADFBE6-ED62-46C2-935F-688C467C6D15
+│   │   │       │       ├── 9D396F32-BD1B-4E17-9D37-DA5A4C6684B3
+│   │   │       │       ├── A1CDD98C-B57E-4E89-B2DF-19EEB1D6E812
+│   │   │       │       ├── A9E39922-221E-4E2A-8A72-86EA1012EBC8
+│   │   │       │       ├── AABA0E52-8842-47AB-A742-82A72B573712
+│   │   │       │       ├── AFFCED04-B18C-4E08-8AE3-416165A7B5A9
+│   │   │       │       ├── B1242622-DD7A-4FAB-BB68-357182D4AA12
+│   │   │       │       ├── B1D925AD-29B1-4298-82C9-480AB419A6D6
+│   │   │       │       ├── B3DE4C34-1CD4-484E-A3A5-5BBEA9D94717
+│   │   │       │       ├── B64951BF-191E-49A9-B6AD-FFA93B3A6868
+│   │   │       │       ├── BE6EAF7F-6B97-44E3-88EB-2BD1D2EA7543
+│   │   │       │       ├── C1646E5D-3901-42B7-9C30-66075D268191
+│   │   │       │       ├── C3D09FC3-C2A3-4A5D-8CC7-040F81A7123D
+│   │   │       │       ├── C410E9A3-8708-49D0-BC8F-B8C0ECF99207
+│   │   │       │       ├── CE30BFFB-0869-4B5B-88D7-3FCAED9FFA90
+│   │   │       │       ├── CF04B1CE-FFED-42B3-8724-B798BE3B7D24
+│   │   │       │       ├── D00A9129-2A5C-443D-9701-955A5AA62B3E
+│   │   │       │       ├── D9D18FEB-FD9E-43FF-911E-52266B043D1B
+│   │   │       │       ├── DAD34F5D-43DD-4B2A-8D37-1CF6ABCC5C83
+│   │   │       │       ├── DC3679E7-F164-489E-A843-9ABC06F24E8E
+│   │   │       │       ├── DC8BB7F0-8AFD-4F80-BE5A-B057227AFC8C
+│   │   │       │       ├── DF2A8FC3-FE29-4CDB-912E-01239892566D
+│   │   │       │       ├── E80C23E3-2BC1-405B-B24A-B96281BC1DE2
+│   │   │       │       ├── E97B4392-9573-4D3A-81E9-1B8B99766F07
+│   │   │       │       ├── EA5A7199-2CC9-4BB4-9D9D-4FA287FFBC31
+│   │   │       │       ├── EB832712-55A4-4D41-AC89-2D397390F2DA
+│   │   │       │       ├── EC4F2BAC-E834-450D-A8C3-96D073963661
+│   │   │       │       ├── EE7C2278-D6AC-4298-A8B6-25499D40F08C
+│   │   │       │       ├── F0C1CD5B-347A-4722-AA9A-3CC1EE8E0D9D
+│   │   │       │       ├── F3558AD6-246E-4304-ACEB-B81ECE9F9EBE
+│   │   │       │       ├── F794D54D-98FB-4CA3-807A-6CD076E9C1BB
+│   │   │       │       ├── FA2BE6E5-B605-4B60-9B53-79CC5EC245A9
+│   │   │       │       ├── FA6968FF-6B81-425C-A742-D7ADFE7C44CA
+│   │   │       │       └── FA9372B1-FFDF-4A8A-8B3C-49270C6B7D51
+│   │   │       ├── IconJar-backup-04-28-2024@02-36-54.ijlibrary
+│   │   │       │   ├── Export Presets
+│   │   │       │   ├── Fonts
+│   │   │       │   └── Sets
+│   │   │       │       ├── 02A8BA13-B900-4B5E-A90D-060F1F941048
+│   │   │       │       ├── 091E3D6A-679D-4567-8BD6-555DA2BA3654
+│   │   │       │       ├── 095A2197-BC26-4520-86C7-D19AB909E8CA
+│   │   │       │       ├── 0A28CBBD-1F90-44FE-996E-443C18C1109F
+│   │   │       │       ├── 21A3DC58-5C29-425E-90D3-B77723903FAA
+│   │   │       │       ├── 22392438-85FF-4ADE-AA59-F4FF235249A9
+│   │   │       │       ├── 2352C814-A5A8-4CAA-87D1-6BA6CA2734E7
+│   │   │       │       ├── 243D40E5-E88B-488A-B1E8-0152C027B21D
+│   │   │       │       ├── 24CF1514-5CD5-4C46-A392-8EC4523B8931
+│   │   │       │       ├── 281B1B0D-62DB-4AD2-998A-CC6A49A30335
+│   │   │       │       ├── 2BCA254C-E109-4ACD-A64D-0EF4B8AE2C67
+│   │   │       │       ├── 2D80E25A-B83D-43F8-81B0-E25AB3E31B5E
+│   │   │       │       ├── 321C5403-7D11-479D-9D1B-F462BAA6EB4D
+│   │   │       │       ├── 3AAD3E81-2A55-45F4-A0EC-1CAAFAD268D2
+│   │   │       │       ├── 40F86AF1-9BD8-49BE-A332-30C3BAB00395
+│   │   │       │       ├── 420038EE-C305-482E-B985-2370C280416C
+│   │   │       │       ├── 4227C7C0-513A-44CA-A6CE-EA21992857DF
+│   │   │       │       ├── 4996A257-88FD-435A-9641-2C52B14D4135
+│   │   │       │       ├── 4AC6C603-3A6B-408F-88B6-EBCDD462E67B
+│   │   │       │       ├── 4C4037FA-6342-4F44-810E-BB16C3E178D9
+│   │   │       │       ├── 51C22551-5ED3-4F2A-9283-3A92B05ED10C
+│   │   │       │       ├── 527E866A-396C-41F9-9807-E97D7C1AD9F0
+│   │   │       │       ├── 531B4F74-6165-4948-9D6D-63B4841D4FE3
+│   │   │       │       ├── 53A0ECB9-ADA7-485B-9E3B-87F9520A96F9
+│   │   │       │       ├── 55D28B64-38C3-46CD-B17A-E0CCD035DB8D
+│   │   │       │       ├── 56D9B5EF-CF46-4F86-A227-1B38F92E3C78
+│   │   │       │       ├── 592FF151-47F5-40FF-A433-2C21F2944CA6
+│   │   │       │       ├── 5D2786C3-56C0-4388-A7AC-F359132D46E4
+│   │   │       │       ├── 5DC2436C-E3D6-4A96-9987-F0E9118E5D7E
+│   │   │       │       ├── 5F25C90D-B93E-435E-B632-416B81E35342
+│   │   │       │       ├── 5FC2633D-08F8-48D1-9E7A-BFFF55C15BD0
+│   │   │       │       ├── 615F3CA2-7B44-4AEB-8F04-C3F88DE5587A
+│   │   │       │       ├── 638397BA-8F01-4320-BDD5-9B9B7DB7BE47
+│   │   │       │       ├── 6618F514-6907-4F40-B009-AE31681E8734
+│   │   │       │       ├── 6EDD288C-8A2B-4D68-A166-DB5A55A71F7F
+│   │   │       │       ├── 70BED28D-25F6-4E36-918B-C713BDCF015E
+│   │   │       │       ├── 7180CE2A-4351-461A-8299-1DF03D8B7303
+│   │   │       │       ├── 7208E114-481C-4895-9822-12AB01A4AE87
+│   │   │       │       ├── 7476AACE-7FD0-4E9C-A5D1-4C654EC053AB
+│   │   │       │       ├── 74A4AF00-F6E1-4FD7-A648-494CB2487556
+│   │   │       │       ├── 75A5C4B9-AB20-4E8A-A26D-886E02E2CD3B
+│   │   │       │       ├── 76452693-8BDB-4325-80DE-721FE7141E1C
+│   │   │       │       ├── 7713AE3A-A619-4540-A12E-F258EFA16977
+│   │   │       │       ├── 77FC94F7-2316-4F35-8413-4FBF20BB251E
+│   │   │       │       ├── 7A13C248-BD42-4D45-93FB-024EB5DEAA02
+│   │   │       │       ├── 7C023BB6-3B90-46A8-A697-4B4981D65B2C
+│   │   │       │       ├── 8812D87B-3EB7-47BB-B200-B537F7954768
+│   │   │       │       ├── 8C819C78-4794-4BD7-AD3A-FD23A09E3D7E
+│   │   │       │       ├── 8EEF793E-5A4B-4C09-AC9A-E4FF931FC9C3
+│   │   │       │       ├── 8F1703DC-81AE-44E0-B138-0D7073F0581F
+│   │   │       │       ├── 8F1CAFA7-A1DC-4A69-AF99-C2BFD22B4958
+│   │   │       │       ├── 8F806BD2-C163-46DB-B9D9-2A21C0BC306A
+│   │   │       │       ├── 9020F2A1-828A-4E74-8196-96F2EA913D68
+│   │   │       │       ├── 90A5CEB4-C4F2-400D-ABD8-42BF5A570081
+│   │   │       │       ├── 914BDF09-B9D2-4B7A-81E5-999DCAA7FF49
+│   │   │       │       ├── 95AAC7BB-735D-4A3F-B137-F6356F5E4CD3
+│   │   │       │       ├── 96C3318D-9025-47AB-BD9D-A916011A4A24
+│   │   │       │       ├── 9CADFBE6-ED62-46C2-935F-688C467C6D15
+│   │   │       │       ├── 9D396F32-BD1B-4E17-9D37-DA5A4C6684B3
+│   │   │       │       ├── A1CDD98C-B57E-4E89-B2DF-19EEB1D6E812
+│   │   │       │       ├── A9E39922-221E-4E2A-8A72-86EA1012EBC8
+│   │   │       │       ├── AABA0E52-8842-47AB-A742-82A72B573712
+│   │   │       │       ├── AFFCED04-B18C-4E08-8AE3-416165A7B5A9
+│   │   │       │       ├── B1242622-DD7A-4FAB-BB68-357182D4AA12
+│   │   │       │       ├── B1D925AD-29B1-4298-82C9-480AB419A6D6
+│   │   │       │       ├── B3DE4C34-1CD4-484E-A3A5-5BBEA9D94717
+│   │   │       │       ├── B64951BF-191E-49A9-B6AD-FFA93B3A6868
+│   │   │       │       ├── BE6EAF7F-6B97-44E3-88EB-2BD1D2EA7543
+│   │   │       │       ├── C1646E5D-3901-42B7-9C30-66075D268191
+│   │   │       │       ├── C3D09FC3-C2A3-4A5D-8CC7-040F81A7123D
+│   │   │       │       ├── C410E9A3-8708-49D0-BC8F-B8C0ECF99207
+│   │   │       │       ├── CE30BFFB-0869-4B5B-88D7-3FCAED9FFA90
+│   │   │       │       ├── CF04B1CE-FFED-42B3-8724-B798BE3B7D24
+│   │   │       │       ├── D00A9129-2A5C-443D-9701-955A5AA62B3E
+│   │   │       │       ├── D9D18FEB-FD9E-43FF-911E-52266B043D1B
+│   │   │       │       ├── DAD34F5D-43DD-4B2A-8D37-1CF6ABCC5C83
+│   │   │       │       ├── DC3679E7-F164-489E-A843-9ABC06F24E8E
+│   │   │       │       ├── DC8BB7F0-8AFD-4F80-BE5A-B057227AFC8C
+│   │   │       │       ├── DF2A8FC3-FE29-4CDB-912E-01239892566D
+│   │   │       │       ├── E80C23E3-2BC1-405B-B24A-B96281BC1DE2
+│   │   │       │       ├── E97B4392-9573-4D3A-81E9-1B8B99766F07
+│   │   │       │       ├── EA5A7199-2CC9-4BB4-9D9D-4FA287FFBC31
+│   │   │       │       ├── EB832712-55A4-4D41-AC89-2D397390F2DA
+│   │   │       │       ├── EC4F2BAC-E834-450D-A8C3-96D073963661
+│   │   │       │       ├── EE7C2278-D6AC-4298-A8B6-25499D40F08C
+│   │   │       │       ├── F0C1CD5B-347A-4722-AA9A-3CC1EE8E0D9D
+│   │   │       │       ├── F3558AD6-246E-4304-ACEB-B81ECE9F9EBE
+│   │   │       │       ├── F794D54D-98FB-4CA3-807A-6CD076E9C1BB
+│   │   │       │       ├── FA2BE6E5-B605-4B60-9B53-79CC5EC245A9
+│   │   │       │       ├── FA6968FF-6B81-425C-A742-D7ADFE7C44CA
+│   │   │       │       └── FA9372B1-FFDF-4A8A-8B3C-49270C6B7D51
+│   │   │       ├── IconJar-backup-05-07-2024@05-13-00.ijlibrary
+│   │   │       │   ├── Export Presets
+│   │   │       │   ├── Fonts
+│   │   │       │   └── Sets
+│   │   │       │       ├── 4996A257-88FD-435A-9641-2C52B14D4135
+│   │   │       │       └── 6618F514-6907-4F40-B009-AE31681E8734
+│   │   │       ├── IconJar-backup-05-09-2024@15-59-02.ijlibrary
+│   │   │       │   ├── Export Presets
+│   │   │       │   ├── Fonts
+│   │   │       │   └── Sets
+│   │   │       │       ├── 1BFB523F-AAC7-4741-870E-4AEAD97D6B13
+│   │   │       │       ├── 4996A257-88FD-435A-9641-2C52B14D4135
+│   │   │       │       └── 6618F514-6907-4F40-B009-AE31681E8734
+│   │   │       ├── IconJar-backup-05-10-2024@00-03-28.ijlibrary
+│   │   │       │   ├── Export Presets
+│   │   │       │   ├── Fonts
+│   │   │       │   └── Sets
+│   │   │       │       ├── 4996A257-88FD-435A-9641-2C52B14D4135
+│   │   │       │       └── 6618F514-6907-4F40-B009-AE31681E8734
+│   │   │       └── IconJar-backup-05-11-2024@10-06-56.ijlibrary
+│   │   │           ├── Export Presets
+│   │   │           ├── Fonts
+│   │   │           └── Sets
+│   │   │               ├── 4996A257-88FD-435A-9641-2C52B14D4135
+│   │   │               └── 6618F514-6907-4F40-B009-AE31681E8734
+│   │   ├── Obsidian
+│   │   ├── Raindrop
+│   │   ├── Raycast
+│   │   │   ├── raycast-auto-backup
+│   │   │   ├── raycast-config-export
+│   │   │   └── raycast-snippets-export
+│   │   ├── Rectangle
+│   │   ├── Sidenotes
+│   │   ├── Squarespace
+│   │   ├── Todoist
+│   │   ├── Tor Browser
+│   │   ├── Typeface
+│   │   │   └── Manual backups
+│   │   ├── TypingMind
+│   │   └── qBittorrent
+│   │       └── Themes
+│   │           └── qbittorrent-master
+│   │               ├── screenshots
+│   │               ├── src
+│   │               └── webui
+│   │                   ├── private
+│   │                   │   ├── css
+│   │                   │   ├── icons
+│   │                   │   │   └── flags
+│   │                   │   ├── images
+│   │                   │   │   └── flags
+│   │                   │   ├── scripts
+│   │                   │   │   └── lib
+│   │                   │   └── views
+│   │                   ├── public
+│   │                   │   ├── css
+│   │                   │   ├── icons
+│   │                   │   │   └── flags
+│   │                   │   ├── images
+│   │                   │   └── scripts
+│   │                   └── translations
+│   ├── automatedFolders
+│   │   ├── [upload]_Archive
+│   │   ├── [upload]_EagleApp
+│   │   ├── [upload]_KindleApp
+│   │   └── [upload]_ReceiptsApp
+│   ├── dividers
+│   │   ├──  .................
+│   │   ├──  ..................................................................1
+│   │   ├──  ..................................................................2
+│   │   ├──  ..................................................................3
+│   │   ├──  ..................................................................4
+│   │   ├──  ..................................................................5
+│   │   ├──  ..................................................................6
+│   │   ├──  ..................................................................7
+│   │   ├──  ..................................................................8
+│   │   ├──  ..................................................................9
+│   │   ├── ____________________________________a
+│   │   ├── ____________________________________b
+│   │   ├── ____________________________________c
+│   │   ├── ____________________________________d
+│   │   ├── ____________________________________e
+│   │   ├── ———
+│   │   ├── ——————
+│   │   └── —————————
+│   ├── hotkeys-Shortcuts
+│   ├── savedSearches
+│   └── templates
+│       ├── #archive-templates
+│       │   ├── _PROJECT-TEMPLATE_v1
+│       │   │   ├── FIB001_Brand-Identity
+│       │   │   │   ├── Accounts
+│       │   │   │   │   ├── Brief
+│       │   │   │   │   ├── Feedback
+│       │   │   │   │   └── Supplied
+│       │   │   │   ├── Export
+│       │   │   │   ├── Resources
+│       │   │   │   │   ├── 00_Documents
+│       │   │   │   │   ├── 01_Fonts
+│       │   │   │   │   ├── 02_Logos
+│       │   │   │   │   ├── 03_Graphics
+│       │   │   │   │   └── 04_Photography
+│       │   │   │   └── Working
+│       │   │   │       ├── #archive
+│       │   │   │       ├── CD01
+│       │   │   │       ├── CD02
+│       │   │   │       ├── DD01
+│       │   │   │       ├── FA01
+│       │   │   │       └── _#Final
+│       │   │   ├── FIB002_Website
+│       │   │   └── __Project folder
+│       │   ├── _PROJECT-TEMPLATE_v2
+│       │   │   ├── Brochure
+│       │   │   ├── FIB001_Brand-Identity
+│       │   │   │   └── Moodboard
+│       │   │   │       ├── Export
+│       │   │   │       ├── Management
+│       │   │   │       │   ├── Brief
+│       │   │   │       │   ├── Feedback
+│       │   │   │       │   └── Supplied
+│       │   │   │       ├── Resources
+│       │   │   │       │   ├── 00_Documents
+│       │   │   │       │   ├── 01_Fonts
+│       │   │   │       │   ├── 02_Logos
+│       │   │   │       │   ├── 03_Graphics
+│       │   │   │       │   └── 04_Photography
+│       │   │   │       └── Working
+│       │   │   │           ├── #archive
+│       │   │   │           ├── CD02
+│       │   │   │           ├── DD01
+│       │   │   │           ├── FA01
+│       │   │   │           └── _#Final
+│       │   │   └── Website
+│       │   └── _PROJECT-TEMPLATE_v3
+│       │       ├── FIB000_Assets (Smart Folder #-assets)
+│       │       ├── FIB001_BrandIdentity
+│       │       │   ├── accounts
+│       │       │   │   ├── a1. Brief
+│       │       │   │   ├── a2. Proposal
+│       │       │   │   ├── b1. Supplied
+│       │       │   │   ├── b2. Feedback
+│       │       │   │   ├── c0. RateCard
+│       │       │   │   ├── c1. Estimate
+│       │       │   │   ├── c2. Invoice
+│       │       │   │   ├── d. Timeline
+│       │       │   │   └── or use tags to seperate types of documents
+│       │       │   │       ├── a1. Brief
+│       │       │   │       ├── a2. Client
+│       │       │   │       ├── a3. Finance
+│       │       │   │       └── a4. Timeline
+│       │       │   ├── export
+│       │       │   ├── inspo(refs)
+│       │       │   │   └── Reference (Smart)
+│       │       │   ├── resources
+│       │       │   │   ├── Fonts
+│       │       │   │   ├── Logos
+│       │       │   │   ├── Photography
+│       │       │   │   └── Toolkit
+│       │       │   │       ├── Colours
+│       │       │   │       ├── Devices
+│       │       │   │       ├── Gradients
+│       │       │   │       └── Icons
+│       │       │   └── working
+│       │       │       ├── CD01
+│       │       │       │   └── _Final
+│       │       │       ├── CD02
+│       │       │       │   └── _Final
+│       │       │       ├── DD01
+│       │       │       │   ├── #archive
+│       │       │       │   └── _Final
+│       │       │       ├── FA01
+│       │       │       │   └── _Final
+│       │       │       └── z-this is stage folder
+│       │       ├── FIB002_Website
+│       │       ├── FIB003_Brohcure
+│       │       └── z-this is the Project folder
+│       └── [TPL]New Client
+│           ├── [TPL]#masterAssets-XYZ
+│           │   ├── [empty]brandKit-
+│           │   ├── [empty]doc-
+│           │   ├── [empty]font-
+│           │   ├── [empty]img-
+│           │   ├── [empty]media-
+│           │   └── [empty]stock-
+│           └── [TPL]XYZ00 Project Name
+│               ├── [TPL]XYZ00 Project Name
+│               ├── [empty]-digi]sites
+│               │   └── [empty]#archive
+│               ├── [empty]-ext]accounts
+│               │   ├── [empty]brief-
+│               │   ├── [empty]feedback-
+│               │   ├── [empty]finance-
+│               │   │   ├── [empty]$estimate
+│               │   │   ├── [empty]$invoice
+│               │   │   └── [empty]$phOrder
+│               │   ├── [empty]proposal-
+│               │   └── [empty]timeline-
+│               ├── [empty]content
+│               │   ├── [empty]#supplied
+│               │   ├── [empty]brandKit-
+│               │   ├── [empty]copyDoc-
+│               │   ├── [empty]font-
+│               │   ├── [empty]img-
+│               │   ├── [empty]media-
+│               │   └── [empty]stock-
+│               ├── [empty]output
+│               │   └── [empty]#archive
+│               └── [empty]working
+│                   └── [empty]#archive
+└── inbox
+    ├── AI realted
+    │   └── AI LOGO
+    ├── Dimi Harrasment Evidence
+    ├── [in]_audios
+    ├── [in]_designFiles
+    │   ├── Brand Case Studies
+    │   │   ├── caseStudy_Base Design_
+    │   │   ├── caseStudy_Base Design_Divine Farmer
+    │   │   ├── caseStudy_Base Design_Rivus
+    │   │   ├── caseStudy_Base Design_West Space
+    │   │   ├── caseStudy_Basis Studio_Bingsu
+    │   │   ├── caseStudy_Both Studio_
+    │   │   ├── caseStudy_Both Studio_Bianca Sciuto
+    │   │   ├── caseStudy_Erik Herrström_Emil Bjorkhem
+    │   │   ├── caseStudy_How Studio_
+    │   │   ├── caseStudy_How Studio_Bera
+    │   │   ├── caseStudy_How Studio_Integrio
+    │   │   ├── caseStudy_How Studio_Kick Game
+    │   │   ├── caseStudy_Leslie David Studio_Sowvital
+    │   │   ├── caseStudy_M.Giesser_
+    │   │   ├── caseStudy_M.Giesser_Colombo Kolchik
+    │   │   ├── caseStudy_M.Giesser_Florian Wild
+    │   │   ├── caseStudy_M.Giesser_Marsha Golemac
+    │   │   ├── caseStudy_M35_
+    │   │   ├── caseStudy_M35_Language Design
+    │   │   ├── caseStudy_Made Thought_
+    │   │   │   └── Made Thought_McQueens Flowers
+    │   │   ├── caseStudy_Made Thought_Apothem
+    │   │   ├── caseStudy_Made Thought_Brooks England
+    │   │   ├── caseStudy_Made Thought_Chandon
+    │   │   ├── caseStudy_Made Thought_Frederic Malle
+    │   │   ├── caseStudy_Made Thought_Heckfield Place
+    │   │   ├── caseStudy_Made Thought_Hyundai Card
+    │   │   ├── caseStudy_Made Thought_MoMA
+    │   │   ├── caseStudy_Made Thought_WildSmith Skin
+    │   │   ├── caseStudy_Mother Design_Bloom Wild
+    │   │   ├── caseStudy_Mother Design_Park Lane
+    │   │   ├── caseStudy_Other Way_Weezy
+    │   │   ├── caseStudy_Rebrand_Instagram
+    │   │   ├── caseStudy_Saul Osuna_
+    │   │   ├── caseStudy_Saul Osuna_Todo Cambia
+    │   │   ├── caseStudy_Saul Osuna_Tradeer
+    │   │   ├── caseStudy_Shunzzg (Taiwan Designer)_
+    │   │   ├── caseStudy_Solowinski.work
+    │   │   ├── caseStudy_Studio Collect.de
+    │   │   └── caseStudy_TCYK_Chandon
+    │   ├── Grid Layouts by Stephen Kelman
+    │   │   ├── 16x9 Digital Presentation_Column Grid
+    │   │   ├── 16x9 Digital Presentation_Modular Grid Bento Style
+    │   │   ├── A3 Landscape_Column Grid Presentation
+    │   │   ├── A3 Landscape_Modular Grid Presentation
+    │   │   ├── A3 Portrait_Coumn Grid Presentation
+    │   │   ├── A3 Portrait_Swiss Style Poster
+    │   │   ├── A4 Portrait_Two Column Report
+    │   │   ├── Tabloid Landscape Presentation
+    │   │   ├── Tabloid Portrait Presentation
+    │   │   └── _INDD_Colours Grid System Series
+    │   ├── Hang Tags
+    │   ├── Merch
+    │   ├── PANTONE SWATCHES
+    │   ├── Perplexity-brand-20240429
+    │   ├── SW00-inspo
+    │   │   ├── Brand
+    │   │   ├── Motion
+    │   │   ├── Pres Template
+    │   │   │   ├── Pitch_PresTemplate_ArchiPortfolio
+    │   │   │   ├── Pitch_PresTemplate_ConceptProposal
+    │   │   │   └── Pitch_PresTemplate_IndustrialDesign
+    │   │   └── Website
+    │   │       └── ingmarcoenen(dot)com
+    │   ├── Sub-brands (Architecture)
+    │   ├── T-shirts
+    │   ├── [in]_colours
+    │   ├── [in]_fonts
+    │   │   ├── Favorit
+    │   │   ├── Graphik LCG
+    │   │   ├── IBM Plex
+    │   │   ├── Inter
+    │   │   ├── Riccione
+    │   │   ├── Roboto Mono
+    │   │   └── SFPro
+    │   │       ├── SFCompact-Variable
+    │   │       ├── SFCompactDisplay
+    │   │       ├── SFCompactRounded
+    │   │       ├── SFCompactText
+    │   │       ├── SFPro-Variable
+    │   │       ├── SFProDisplay
+    │   │       ├── SFProRounded
+    │   │       └── SFProText
+    │   └── [in]_icons
+    │       ├── Assets
+    │       └── Resources
+    ├── [in]_devFiles
+    │   ├── FlipClock_Classic.saver
+    │   │   └── Contents
+    │   │       ├── MacOS
+    │   │       ├── Resources
+    │   │       │   ├── ConfigSheet.nib
+    │   │       │   ├── de.lproj
+    │   │       │   ├── en.lproj
+    │   │       │   ├── es.lproj
+    │   │       │   ├── fr.lproj
+    │   │       │   ├── it.lproj
+    │   │       │   ├── ja.lproj
+    │   │       │   ├── ko.lproj
+    │   │       │   ├── pt.lproj
+    │   │       │   ├── ru.lproj
+    │   │       │   ├── th.lproj
+    │   │       │   ├── vi.lproj
+    │   │       │   ├── zh-Hans.lproj
+    │   │       │   └── zh-Hant.lproj
+    │   │       └── _CodeSignature
+    │   └── iA Markdown.dictionary
+    │       └── Contents
+    │           └── Images
+    ├── [in]_documents
+    │   └── Backups-Contacts
+    ├── [in]_images
+    │   ├── CoverArtwork
+    │   └── wallpaper collection GameBoyAdvance
+    │       ├── iPhone 14 & 14 Plus
+    │       └── iPhone 14 Pro & 14 Pro Max
+    ├── [in]_screenshots
+    ├── [in]_torrents
+    │   └── completed
+    ├── [in]_videos
+    │   ├── [in]_movies
+    │   ├── [in]_tvShows
+    │   └── [in]_xxx
+    │       └── Jett Wayne
+    └── toSort
+        ├── -VISUALS
+        │   ├── MECCA DESKTOP TO SORT
+        │   │   ├── Snaps
+        │   │   └── Sort
+        │   ├── Resonant Gestures Gift Kits - Aesop Australia - 20_11_2023 11-09-02
+        │   ├── justinjay.wang
+        │   └── 日々 day to day on Behance - 11_5_2023 3-42-47 PM
+        ├── Camera-Uploads
+        ├── GoogleDrive_Gymplans
+        │   ├── Goals & Progress
+        │   ├── Nutrition
+        │   └── Videos
+        ├── Icons.rightfontlibrary
+        │   ├── fonts
+        │   │   ├── BigBug-Icons
+        │   │   ├── Brankic-1979
+        │   │   ├── ElegantIcons
+        │   │   ├── Entypo
+        │   │   ├── Font Awesome 6 Brands
+        │   │   ├── Font Awesome 6 Free
+        │   │   ├── FontAwesome
+        │   │   ├── Hawcons
+        │   │   ├── Icons
+        │   │   ├── Ionicons
+        │   │   ├── Jam-icons
+        │   │   ├── MFG Labs Iconset
+        │   │   ├── Material Icons
+        │   │   ├── Material Icons Outlined
+        │   │   ├── Material Icons Round
+        │   │   ├── Material Icons Sharp
+        │   │   ├── Material Icons Two Tone
+        │   │   ├── Octicons
+        │   │   ├── Pe-icon-7-stroke
+        │   │   ├── Phosphor
+        │   │   ├── Phosphor-Bold
+        │   │   ├── Phosphor-Duotone
+        │   │   ├── Phosphor-Light
+        │   │   ├── Phosphor-Thin
+        │   │   ├── Weather Icons
+        │   │   ├── boxicons
+        │   │   ├── devicon
+        │   │   ├── feather
+        │   │   ├── fontcustom
+        │   │   ├── remixicon
+        │   │   ├── typicons
+        │   │   └── xeicon
+        │   └── metadata
+        │       └── fonts
+        ├── Software licenses, add to 1P
+        ├── Traffic-Fine-Appeal-202403_Red-Light-Camera
+        ├── letter to Judy and Charge 2.pages
+        │   ├── Contents
+        │   └── QuickLook
+        └── letter to Judy and Charge.pages
+            ├── Contents
+            └── QuickLook
+
+2405 directories

@@ -1,0 +1,21 @@
+/Users/ez/Library/Mobile Documents/com~apple~CloudDocs
+├── Desktop -> /Users/ez/Desktop
+├── Documents -> /Users/ez/Documents
+└── Downloads
+    ├── CustomGPT_Shopping_Assistant.md
+    ├── Enhancing AI with Custom Instructions and Memory.pdf
+    ├── FOMO Project Notes.docx
+    ├── Font- DepartureMono-1.422
+    │   ├── DepartureMono-Regular.otf
+    │   ├── DepartureMono-Regular.woff
+    │   ├── DepartureMono-Regular.woff2
+    │   ├── LICENSE
+    │   └── README.md
+    ├── No-code Dev using Cursor & DeepSeek AI.md
+    ├── Roadmap_Free_API_Integrations.md
+    ├── [Tempalte]Google-Doc-Style.docx
+    ├── openai-chatgpt-latest.vsix
+    ├── receipt_deepseek_api_32A71822KD569152E.pdf
+    └── stop_stealing_sheep.pdf
+
+5 directories, 14 files

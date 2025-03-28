@@ -1,0 +1,408 @@
+/Users/ez/Library/CloudStorage/Dropbox-Personal
+├── -DESIGN-
+│   ├── Assets
+│   │   ├── Assets-lib
+│   │   ├── Colours
+│   │   ├── CoverArt
+│   │   ├── Fonts
+│   │   ├── Icons
+│   │   ├── Logos
+│   │   ├── Mockups
+│   │   ├── Stocks
+│   │   └── Wallpapers
+│   ├── Docs
+│   │   ├── 0. Bio+CV Refs
+│   │   ├── 0. Business Doc (Studio) Templates
+│   │   ├── 0. Creds (Studio) Refs
+│   │   ├── 0. Folio (Designer) Refs
+│   │   ├── 01. Brand Styleguide
+│   │   ├── 01. Identity & Concept Pres
+│   │   ├── 01. Moodboard Pres
+│   │   ├── 01. ………………………..………..… Brand Identity
+│   │   ├── 02. UI related
+│   │   ├── 02. UX related
+│   │   ├── 02. Website scope, audit, maintenance
+│   │   ├── 02. eDM Templates Pres
+│   │   ├── 02. ………………………..………..… Digital & Web
+│   │   ├── 03. Illustration Brief
+│   │   ├── 03. Photography Brief, Folio
+│   │   ├── 03. Photography Brief, Shoot
+│   │   ├── 03. Photography Retouching Brief
+│   │   ├── 03. Shoot Callsheet
+│   │   ├── 03. ………………………..………..… Art Direction
+│   │   ├── 04. Brand Strategy
+│   │   ├── 04. Digital Strategy
+│   │   ├── 04. Insights & Forecast
+│   │   ├── 04. PlaceVision Strategy
+│   │   ├── 04. ………………………..………..… Strategy
+│   │   ├── 05. Copywriting Brief
+│   │   ├── 05. Naming Pres
+│   │   ├── 05. Tone of Voice Guidelines
+│   │   ├── 05. ………………………..………..… Naming & Copywriting
+│   │   ├── 06. Campaign Brief
+│   │   ├── 06. Social Media Campaign Pres
+│   │   ├── 06. ………………………..………..… Campaigns
+│   │   ├── 07. Type Specimen
+│   │   ├── 07. ………………………..………..… Type & Layout
+│   │   ├── 08. Book Refs
+│   │   ├── 08. Brochure Refs
+│   │   ├── 08. Collaterals Refs
+│   │   ├── 08. PPT Templates
+│   │   ├── 08. Presentation Templates
+│   │   ├── 08. Sales Presentation (Interactive PDF)
+│   │   ├── 08. Word Templates
+│   │   ├── 08. ………………………..………..… Print & Editorial
+│   │   ├── 09. ………………………..………..… Packaging
+│   │   ├── 10. Display Suite Pres
+│   │   ├── 10. Interior Design
+│   │   ├── 10. Signage & Wayfinding Pres
+│   │   ├── 10. ………………………..………..… Environmental
+│   │   ├── 11. Video Brief
+│   │   ├── 11. ………………………..………..… Film & Motion
+│   │   ├── 12. ………………………..………..… Data Visualisation
+│   │   ├── 13. Artworking
+│   │   ├── 13. Print Production
+│   │   └── 13. ………………………..………..… Production & Supplier
+│   └── Resources
+│       ├── 01. branding-inspo
+│       ├── 02. digitalWeb
+│       ├── 03. artDirection
+│       ├── 03.1 Photography
+│       ├── 03.2 Illustration
+│       ├── 03.3 Render+CGI
+│       ├── 04. strategy-inspo[empty]
+│       ├── 05. copy-inspo
+│       ├── 06. type-inspo
+│       ├── 07. print-inspo
+│       ├── 08. campaigns-inspo
+│       ├── 08.1 Social-Media-inspo
+│       ├── 09. packaging-inspo
+│       ├── 10. environmental-inspo
+│       ├── 11. motion-inspo
+│       ├── 12. dataVisulisation-inspo
+│       ├── 13. production-inspo[empty]
+│       ├── Resources-lib
+│       └── Unsorted
+├── -FINANCE-
+│   ├── Banking
+│   │   ├── Amex
+│   │   ├── Citibank
+│   │   ├── ING Direct
+│   │   ├── Latitude (28 Degrees)
+│   │   ├── Loans.com.au
+│   │   ├── NAB
+│   │   ├── Revolut
+│   │   └── Westpac
+│   ├── Budgets
+│   │   ├── #archive-budget
+│   │   ├── Budget_BosistoReno_2019.xlsx
+│   │   ├── Budget_FY'22-23.xlsx
+│   │   ├── Budget_Trip_Thailand2019.xlsx
+│   │   ├── Cashflow-2022-11-09.pdf
+│   │   └── Guide + Toolkit
+│   ├── Insurance
+│   │   ├── AHM-Home-Insurance-PDS-Apr-2022.pdf
+│   │   ├── Amex-explorer-insurance-tncs.pdf
+│   │   ├── Car Insurance (Youi)
+│   │   ├── Certificate-of-Insurance-PEHCC0067691.pdf
+│   │   ├── Health Insurance (AHM)
+│   │   ├── Home Insurance (AHM)
+│   │   └── Product Disclosure Statement 01-Apr-2021.pdf
+│   ├── Investments
+│   └── Tax
+│       ├── FY19-20
+│       ├── FY20-21
+│       ├── FY21-22
+│       ├── FY22-23
+│       ├── FY23-24
+│       ├── FY23:24.receipts
+│       ├── FY24-25
+│       ├── Receipt_JBHiFi_AirPords-Pro_JB-2453887_20191117.pdf
+│       ├── Receipt_LivingEdge-PRO153734-ASol3_20190228.PDF
+│       ├── Supporting Docs + Checklists
+│       ├── Tax-Records.receipts
+│       ├── archive-Tax Returns
+│       └── screenShot_20250124-211354_Terminal.png
+├── -PROJECTS-
+│   ├── 10 Personal
+│   │   ├── Bryan Mcleish
+│   │   ├── Damian Gibney
+│   │   ├── Doggies on Location
+│   │   ├── Ken Yeong
+│   │   ├── PFLAG China
+│   │   ├── Ping Ping
+│   │   └── Scott Le
+│   ├── 13 Designworks
+│   │   ├── AMR
+│   │   ├── Australian Unity
+│   │   ├── Blamey Saunders
+│   │   ├── Bonus
+│   │   ├── Boral
+│   │   ├── DFaculty
+│   │   ├── GreatSouthern
+│   │   ├── JBS
+│   │   ├── Kiandra IT
+│   │   ├── LMCF
+│   │   ├── MLA
+│   │   ├── Melbourne_Airport
+│   │   ├── Monash University
+│   │   ├── Officeworks
+│   │   ├── RSPCA2 Assets
+│   │   ├── Rightship
+│   │   ├── Sensis
+│   │   ├── The Signcraft Group
+│   │   ├── Vue de Monde
+│   │   ├── _DW_Creds
+│   │   ├── _DW_Docs
+│   │   ├── _To Sort
+│   │   └── oOh Media
+│   ├── 14 Studio Worldwide
+│   │   ├── 06. A3 book
+│   │   ├── 11. video
+│   │   ├── RCorp_Animation
+│   │   ├── _Account
+│   │   └── _Resources
+│   ├── 15 Milo
+│   │   ├── 2017 Pitch Your Passion
+│   │   ├── Milo_447 Collins_Direction.pdf
+│   │   ├── Milo_447 Collins_IM Leasing Concept.pdf
+│   │   └── README.txt
+│   ├── 15 Self-titled
+│   │   ├── SEL001 Bio Translation
+│   │   └── SEL002 Website Translation
+│   ├── 16 Canyon
+│   │   ├── AMC
+│   │   ├── BPM
+│   │   ├── Big Brief Night
+│   │   ├── C7 Poster
+│   │   ├── Kurrajong Waratah
+│   │   ├── Lynch St
+│   │   ├── Manningtree Rd
+│   │   ├── Mentone
+│   │   ├── Misc
+│   │   ├── New Charsfield
+│   │   ├── OUR WATCH
+│   │   ├── One Ascot
+│   │   ├── Peter Mac
+│   │   ├── Rosslyn St
+│   │   ├── Sacred Heart
+│   │   ├── Shell House
+│   │   ├── Synchrotron
+│   │   ├── The Line
+│   │   ├── The Standard
+│   │   ├── Turner
+│   │   ├── Wyn Place Hardrive
+│   │   ├── _Admin
+│   │   └── _IMAGES
+│   ├── 17 Hoyne
+│   │   ├── #toSort-Hoyne
+│   │   ├── 1Dension
+│   │   ├── 555 Collins
+│   │   ├── Airport
+│   │   ├── Airport, MABP
+│   │   ├── Altona North
+│   │   ├── BatesSmart
+│   │   ├── Bolinda
+│   │   ├── CHC
+│   │   ├── Capitol Grand
+│   │   ├── Cloverton
+│   │   ├── DV, Aurora
+│   │   ├── DV, Fitzory Gaswork
+│   │   ├── Eden Rise
+│   │   ├── GPT
+│   │   ├── Gamuda
+│   │   ├── Henley
+│   │   ├── Hoyne Culture Book
+│   │   ├── Hoyne Misc
+│   │   ├── Incore
+│   │   ├── Intrapac
+│   │   ├── Jam Factory
+│   │   ├── KIwi Property
+│   │   ├── Kinley
+│   │   ├── MV (Moonee Valley Park)
+│   │   ├── Magon Hill
+│   │   ├── Marrimu
+│   │   ├── Mirvac
+│   │   ├── Nexus
+│   │   ├── Orion
+│   │   ├── Pitt St
+│   │   ├── Portarlington
+│   │   ├── Prarhan Square
+│   │   ├── Richmond Rose
+│   │   ├── Salta
+│   │   ├── Sekisui House
+│   │   ├── Smiths Lane
+│   │   ├── Stockland
+│   │   ├── Stockland, Cloverton
+│   │   ├── Taarbock
+│   │   ├── The Bower
+│   │   ├── UrbanPlaces
+│   │   ├── VicTrack
+│   │   ├── Warragul
+│   │   ├── Woden Green
+│   │   ├── Woodlea
+│   │   ├── Woodlea Rebrand
+│   │   ├── Woodlea Town
+│   │   └── Woodlea Townhouse
+│   ├── 20 PPS
+│   │   ├── 1000 Trees
+│   │   ├── Asahi
+│   │   ├── AustCham
+│   │   ├── Avari
+│   │   ├── Baileys
+│   │   ├── Bendigo Bank
+│   │   ├── Botanic Sanctuary
+│   │   ├── Calibre
+│   │   ├── Carmen's
+│   │   ├── Carrefour
+│   │   ├── Concordia
+│   │   ├── Country Road
+│   │   ├── Dulux
+│   │   ├── Highpoint
+│   │   ├── Hoppers Crossing
+│   │   ├── JLL
+│   │   ├── Just Jeans
+│   │   ├── LMFF
+│   │   ├── Laine
+│   │   ├── M Moser
+│   │   ├── MFWF2018
+│   │   ├── MOR
+│   │   ├── PGOC
+│   │   ├── PSS + TPA
+│   │   ├── RAW Folder
+│   │   ├── SWFC
+│   │   ├── Sanya Yazhou Bay Hotel
+│   │   ├── The Jewellery Group
+│   │   ├── The Rosso
+│   │   ├── Wei Folder
+│   │   ├── Wilson & Market
+│   │   ├── Wine Republic
+│   │   ├── Wolfe&Co
+│   │   ├── Yellow Tail
+│   │   ├── _Summary notes
+│   │   └── _TO SORT
+│   ├── 21 Traffic
+│   │   ├── Abode
+│   │   ├── BNE AutoMall
+│   │   ├── BlueFit
+│   │   ├── Endorfin
+│   │   ├── Fibonacci
+│   │   ├── GenFyan
+│   │   ├── Hometown
+│   │   ├── Traffix
+│   │   └── VLRS
+│   ├── 22 Petal Smith
+│   │   ├── #masterAssets-PTS
+│   │   ├── PTS01 Brand & Website
+│   │   └── PTS02 Collateral
+│   ├── 23 Mecca
+│   │   ├── 2204-MECCA-SC-SIGNAGE-OVERVIEW-V1.07.pdf
+│   │   ├── 2205-SCSIGNAGE-PRES-LR2-V2.2.pdf
+│   │   ├── 2308 GREENHILLS HOARDING
+│   │   ├── 2308 TEA TREE PLAZA HOARDING
+│   │   ├── 2309-HOL24-PACKAGING-FINISHES.pdf
+│   │   ├── 2310 HOL24 COS MAX V1.4 CA.indd
+│   │   ├── 2311-HOL24-VT-COS-RETOUCHING-BRIEF-V1.1.pdf
+│   │   ├── 2311-HOLIDAY24-COLLABORATION-OVERVIEW-NGV-V1.2.pdf
+│   │   ├── 2312-HOL24-RETAIL-PACKAGING-OVERVIEW-FINAL-ARTWORK-V2.13-AL.pdf
+│   │   ├── 2402-HOL24-MSL-PACKAGING-OVERVIEW-RD2-V2.pdf
+│   │   ├── 2402-HOLIDAY-COLOUR-REVIEW-V1.pdf
+│   │   ├── APRIL WINDOWS
+│   │   ├── Billboards_Web_Image__0000s_0002_1.-QMV-D305_VIC_22307_Mecca-Skincare-July-DLF-2023_06072023.jpg
+│   │   ├── HOL24 EZ WIP
+│   │   ├── HOL24 Max Eyeshadow Shimmer.pdf
+│   │   ├── HOL24 Packaging COS V2.0.indd
+│   │   ├── HOL24-BAG-OVERVIEW-V1.0.pdf
+│   │   ├── HOL24-MSL-R2-DESIGN-REVISION-V5.ai
+│   │   ├── HOL24.ai
+│   │   ├── Holiday_BOX_Overview_23FEB.pdf
+│   │   ├── I003932.pdf
+│   │   ├── Innovation Guide.pdf
+│   │   ├── LINKS
+│   │   ├── Mecca Flag.pdf
+│   │   ├── Mecca Kit Holiday Print Spec.pdf
+│   │   ├── Mecca Max Style Guide_v4.pdf
+│   │   ├── Mecca Pattern CMYK.ai
+│   │   ├── Melbourne Flagship Signage.pdf
+│   │   ├── MicrosoftTeams-image.png
+│   │   ├── Neoprene Cos Packaging V3.1.indd
+│   │   ├── PROJECTS
+│   │   ├── Packaging.indd
+│   │   ├── SAVES
+│   │   ├── Supernova Overview.pdf
+│   │   ├── ____________________________________a
+│   │   ├── screenShot_16-HOL24-MSL-LE-SUN-SERUM-50mL-SUN-TESTING1.0.ai @ 50  (CMYKPreview) _2023-11-15_001444.png
+│   │   ├── screenShot_CleanShot_2023-11-15_001445.png
+│   │   ├── screenShot_Inbox • elex.zhang@mecca.com.au_2023-12-01_001689.png
+│   │   └── screenShot_Inbox • elex.zhang@mecca.com.au_2023-12-11_001810.png
+│   ├── 24 Github
+│   │   └── helloWorld
+│   ├── 24 Studio Round
+│   │   ├── -Contract
+│   │   ├── -fonts
+│   │   ├── -reference
+│   │   ├── -templates
+│   │   ├── CHADSTONE XMAS CAMPAIGN GUIDELINES
+│   │   ├── CHADSTONE XMAS TRAM STOP
+│   │   ├── CHATSWOOD BROADSHEET
+│   │   └── CHATSWOOD HOARDING
+│   └── archive
+│       ├── 11 Elite
+│       ├── 11 Hidden Valley
+│       ├── 11 Thread Design
+│       ├── 15 ACYA
+│       ├── 16 Bakes by Jean
+│       ├── 20 Anteaus Flowers
+│       └── 22 Chocolate Studios
+├── -WORK-
+│   ├── Career
+│   │   ├── Job Search
+│   │   ├── Recruitment
+│   │   └── Review & Appraisal
+│   ├── Education
+│   │   ├── 2010 Foundation
+│   │   ├── 2011 Swinburne
+│   │   ├── 2014 Honours
+│   │   ├── 2021 UIUX Course
+│   │   └── 2022 Coding
+│   ├── Employment
+│   │   ├── Contract
+│   │   ├── Salary
+│   │   └── Work Culture
+│   ├── Freelance
+│   │   ├── $'22-23
+│   │   ├── Brief
+│   │   ├── Estimates
+│   │   ├── Invoices
+│   │   ├── Pipeline
+│   │   ├── Program & Timeline
+│   │   ├── Proposals
+│   │   ├── Rate Cards
+│   │   ├── Studio Manual
+│   │   ├── StudioWhat Documents
+│   │   └── XeroPaymentMethods.pdf
+│   └── Portfolio
+│       ├── #masterAssets-ezCreds
+│       ├── CF00 Folio
+│       ├── CF01 CV+CopyDeck
+│       ├── CF02 Brand Identity+Profile
+│       ├── CF03 Showcase
+│       ├── ElexZhang_Folio+CV_2023LR.pdf
+│       ├── Email Signature.docx
+│       ├── How to download a Font from a Website using Developer Tools.pdf
+│       ├── SW00 Brand Identity
+│       ├── SW01 Website
+│       ├── The Freelancer Rate Calculator (2022).xlsx
+│       ├── Visual Guidelines — SPACE10 Identity.pdf
+│       ├── Website Dev
+│       └── screenShot_BRYAN MADDOCK_2023-02-16_000590.png
+└── admin
+    ├── -deletetemplates
+    │   └── [TPL]New Client
+    ├── aliases
+    ├── appSupport
+    │   └── IconJar
+    ├── automated
+    └── search
+
+354 directories, 52 files

@@ -1,0 +1,190 @@
+/Users/ez/Documents/inbox
+├── AI realted
+│   └── AI LOGO
+├── Dimi Harrasment Evidence
+├── [in]_audios
+├── [in]_designFiles
+│   ├── Brand Case Studies
+│   │   ├── caseStudy_Base Design_
+│   │   ├── caseStudy_Base Design_Divine Farmer
+│   │   ├── caseStudy_Base Design_Rivus
+│   │   ├── caseStudy_Base Design_West Space
+│   │   ├── caseStudy_Basis Studio_Bingsu
+│   │   ├── caseStudy_Both Studio_
+│   │   ├── caseStudy_Both Studio_Bianca Sciuto
+│   │   ├── caseStudy_Erik Herrström_Emil Bjorkhem
+│   │   ├── caseStudy_How Studio_
+│   │   ├── caseStudy_How Studio_Bera
+│   │   ├── caseStudy_How Studio_Integrio
+│   │   ├── caseStudy_How Studio_Kick Game
+│   │   ├── caseStudy_Leslie David Studio_Sowvital
+│   │   ├── caseStudy_M.Giesser_
+│   │   ├── caseStudy_M.Giesser_Colombo Kolchik
+│   │   ├── caseStudy_M.Giesser_Florian Wild
+│   │   ├── caseStudy_M.Giesser_Marsha Golemac
+│   │   ├── caseStudy_M35_
+│   │   ├── caseStudy_M35_Language Design
+│   │   ├── caseStudy_Made Thought_
+│   │   │   └── Made Thought_McQueens Flowers
+│   │   ├── caseStudy_Made Thought_Apothem
+│   │   ├── caseStudy_Made Thought_Brooks England
+│   │   ├── caseStudy_Made Thought_Chandon
+│   │   ├── caseStudy_Made Thought_Frederic Malle
+│   │   ├── caseStudy_Made Thought_Heckfield Place
+│   │   ├── caseStudy_Made Thought_Hyundai Card
+│   │   ├── caseStudy_Made Thought_MoMA
+│   │   ├── caseStudy_Made Thought_WildSmith Skin
+│   │   ├── caseStudy_Mother Design_Bloom Wild
+│   │   ├── caseStudy_Mother Design_Park Lane
+│   │   ├── caseStudy_Other Way_Weezy
+│   │   ├── caseStudy_Rebrand_Instagram
+│   │   ├── caseStudy_Saul Osuna_
+│   │   ├── caseStudy_Saul Osuna_Todo Cambia
+│   │   ├── caseStudy_Saul Osuna_Tradeer
+│   │   ├── caseStudy_Shunzzg (Taiwan Designer)_
+│   │   ├── caseStudy_Solowinski.work
+│   │   ├── caseStudy_Studio Collect.de
+│   │   └── caseStudy_TCYK_Chandon
+│   ├── Grid Layouts by Stephen Kelman
+│   │   ├── 16x9 Digital Presentation_Column Grid
+│   │   ├── 16x9 Digital Presentation_Modular Grid Bento Style
+│   │   ├── A3 Landscape_Column Grid Presentation
+│   │   ├── A3 Landscape_Modular Grid Presentation
+│   │   ├── A3 Portrait_Coumn Grid Presentation
+│   │   ├── A3 Portrait_Swiss Style Poster
+│   │   ├── A4 Portrait_Two Column Report
+│   │   ├── Tabloid Landscape Presentation
+│   │   ├── Tabloid Portrait Presentation
+│   │   └── _INDD_Colours Grid System Series
+│   ├── Hang Tags
+│   ├── Merch
+│   ├── PANTONE SWATCHES
+│   ├── Perplexity-brand-20240429
+│   ├── SW00-inspo
+│   │   ├── Brand
+│   │   ├── Motion
+│   │   ├── Pres Template
+│   │   │   ├── Pitch_PresTemplate_ArchiPortfolio
+│   │   │   ├── Pitch_PresTemplate_ConceptProposal
+│   │   │   └── Pitch_PresTemplate_IndustrialDesign
+│   │   └── Website
+│   │       └── ingmarcoenen(dot)com
+│   ├── Sub-brands (Architecture)
+│   ├── T-shirts
+│   ├── [in]_colours
+│   ├── [in]_fonts
+│   │   ├── Favorit
+│   │   ├── Graphik LCG
+│   │   ├── IBM Plex
+│   │   ├── Inter
+│   │   ├── Riccione
+│   │   ├── Roboto Mono
+│   │   └── SFPro
+│   │       ├── SFCompact-Variable
+│   │       ├── SFCompactDisplay
+│   │       ├── SFCompactRounded
+│   │       ├── SFCompactText
+│   │       ├── SFPro-Variable
+│   │       ├── SFProDisplay
+│   │       ├── SFProRounded
+│   │       └── SFProText
+│   └── [in]_icons
+│       ├── Assets
+│       └── Resources
+├── [in]_devFiles
+│   ├── FlipClock_Classic.saver
+│   │   └── Contents
+│   │       ├── MacOS
+│   │       ├── Resources
+│   │       │   ├── ConfigSheet.nib
+│   │       │   ├── de.lproj
+│   │       │   ├── en.lproj
+│   │       │   ├── es.lproj
+│   │       │   ├── fr.lproj
+│   │       │   ├── it.lproj
+│   │       │   ├── ja.lproj
+│   │       │   ├── ko.lproj
+│   │       │   ├── pt.lproj
+│   │       │   ├── ru.lproj
+│   │       │   ├── th.lproj
+│   │       │   ├── vi.lproj
+│   │       │   ├── zh-Hans.lproj
+│   │       │   └── zh-Hant.lproj
+│   │       └── _CodeSignature
+│   └── iA Markdown.dictionary
+│       └── Contents
+│           └── Images
+├── [in]_documents
+│   └── Backups-Contacts
+├── [in]_images
+│   ├── CoverArtwork
+│   └── wallpaper collection GameBoyAdvance
+│       ├── iPhone 14 & 14 Plus
+│       └── iPhone 14 Pro & 14 Pro Max
+├── [in]_screenshots
+├── [in]_torrents
+│   └── completed
+├── [in]_videos
+│   ├── [in]_movies
+│   ├── [in]_tvShows
+│   └── [in]_xxx
+│       └── Jett Wayne
+└── toSort
+    ├── -VISUALS
+    │   ├── MECCA DESKTOP TO SORT
+    │   │   ├── Snaps
+    │   │   └── Sort
+    │   ├── Resonant Gestures Gift Kits - Aesop Australia - 20_11_2023 11-09-02
+    │   ├── justinjay.wang
+    │   └── 日々 day to day on Behance - 11_5_2023 3-42-47 PM
+    ├── Camera-Uploads
+    ├── GoogleDrive_Gymplans
+    │   ├── Goals & Progress
+    │   ├── Nutrition
+    │   └── Videos
+    ├── Icons.rightfontlibrary
+    │   ├── fonts
+    │   │   ├── BigBug-Icons
+    │   │   ├── Brankic-1979
+    │   │   ├── ElegantIcons
+    │   │   ├── Entypo
+    │   │   ├── Font Awesome 6 Brands
+    │   │   ├── Font Awesome 6 Free
+    │   │   ├── FontAwesome
+    │   │   ├── Hawcons
+    │   │   ├── Icons
+    │   │   ├── Ionicons
+    │   │   ├── Jam-icons
+    │   │   ├── MFG Labs Iconset
+    │   │   ├── Material Icons
+    │   │   ├── Material Icons Outlined
+    │   │   ├── Material Icons Round
+    │   │   ├── Material Icons Sharp
+    │   │   ├── Material Icons Two Tone
+    │   │   ├── Octicons
+    │   │   ├── Pe-icon-7-stroke
+    │   │   ├── Phosphor
+    │   │   ├── Phosphor-Bold
+    │   │   ├── Phosphor-Duotone
+    │   │   ├── Phosphor-Light
+    │   │   ├── Phosphor-Thin
+    │   │   ├── Weather Icons
+    │   │   ├── boxicons
+    │   │   ├── devicon
+    │   │   ├── feather
+    │   │   ├── fontcustom
+    │   │   ├── remixicon
+    │   │   ├── typicons
+    │   │   └── xeicon
+    │   └── metadata
+    │       └── fonts
+    ├── Software licenses, add to 1P
+    ├── Traffic-Fine-Appeal-202403_Red-Light-Camera
+    ├── letter to Judy and Charge 2.pages
+    │   ├── Contents
+    │   └── QuickLook
+    └── letter to Judy and Charge.pages
+        ├── Contents
+        └── QuickLook
+
+188 directories

@@ -1,0 +1,81 @@
+20250305_2106 - Starting AI-Powered File Renaming Script
+20250305_2106 - Script started with options: DRY_RUN=true, MAX_LENGTH=20, CASE_FORMAT=kebab
+20250305_2106 - Validating environment...
+20250305_2106 - Current directory: /Users/ez/Local/-PROJECTS-Dev/01_GitHub/hello-world/fomo-system/tests/test-files
+20250305_2106 - Found 33 text files to process.
+20250305_2106 - Environment validation complete.
+20250305_2106 - Generating filename mappings...
+20250305_2106 - Processing: GitHub Flavored Markdown Spec.md -> title-github-flavore.md
+20250305_2106 - Processing: revised-warp-workflow-template.txt -> warp-workflow-templa.txt
+20250305_2106 - Processing: Guide_Build a prompt library on GitHub.md -> title-creative-story.md
+20250305_2106 - Processing: Basic writing and formatting syntax - GitHub Docs.md -> title-basic-writing-.md
+20250305_2106 - Processing: FOMO-Unified Tagging System_v2.md -> fomo-unified-tagging.md
+20250305_2106 - Processing: keyboard-shortcuts-obsidian-draft.md -> title-editing-shortc.md
+20250305_2106 - Processing: markdown-cheatsheet-v01-draft copy.md -> title-my-title.md
+20250305_2106 - Processing: markdown_stylesheet-test.md -> quicklook-markdown-t.md
+20250305_2106 - Processing: warp-drive-organisation.md -> warp-drive-organisat.md
+20250305_2106 - Processing: pangram-string-glyph-fonts-a.md -> pangram-string-glyph.md
+20250305_2106 - Processing: FOMO Downloads Management 3 Hazel Rules & Apple Shortcu.md -> downloads-management.md
+20250305_2106 - Processing: markdown-cheatsheet-v02-draft.md -> title-markdown-cheat.md
+20250305_2106 - Processing: Setting_Up_HomeKit_Smart_Home.md -> comprehensive-guide-.md
+20250305_2106 - Processing: After Effect_Bounce script.txt -> after-effect-bounce-.txt
+20250305_2106 - Processing: codefeedback-.md -> please-provide-a-upd.md
+20250305_2106 - Processing: FOMO File Naming 3 File Type.md -> file-naming-conventi.md
+20250305_2106 - Processing: FOMO-Framework-Overview-v5-Final.md -> fomo-framework-overv.md
+20250305_2106 - Processing: FOMO File Naming 4 Automation.md -> file-naming-conventi.md
+20250305_2106 - Processing: workflow-quick-reference.md -> warp-workflow-quick-.md
+20250305_2106 - Processing: Markdown style guide.md -> markdown-style-guide.md
+20250305_2106 - Processing: FOMO Downloads Management 1 macOS iOS Research.md -> downloads-management.md
+20250305_2106 - Processing: FOMO File Naming 1 Best Parctice.md -> file-naming-conventi.md
+20250305_2106 - Processing: directory_structure_2025-02-05.md -> system-directory-str.md
+20250305_2106 - Processing: FOMO File Naming 2 Conventions Standards.md -> file-naming-conventi.md
+20250305_2106 - Processing: textfx-google-outputs-20250220.txt -> textfx-google-output.txt
+20250305_2106 - Processing: FOMO-Framework-Overview-v5-Final copy.md -> fomo-framework-overv.md
+20250305_2106 - Processing: directory_structure_2025-02-01.md -> key-directory-paths-.md
+20250305_2106 - Processing: playground_.md -> playground.md
+20250305_2106 - Processing: Custom Instructions, User Profiles, and Memory best practices.txt -> custom-instructions-.txt
+20250305_2106 - Processing: FOMO_Folder_Structure_2025.md -> fomo-folder-structur.md
+20250305_2106 - Processing: markdown-cheatsheet-v01-draft.md -> title-my-title.md
+20250305_2106 - Processing: FOMO Downloads Management 2 Hybrid Plan.md -> downloads-management.md
+20250305_2106 - Processing: textfx-google-outputs-20250219.txt -> textfx-google-output.txt
+20250305_2106 - Filename mapping generation complete.
+20250305_2106 - Displaying filename mappings (dry-run mode):
+20250305_2106 - To apply these changes, run: ./tmp_rename_analysis/rename_files.sh --apply
+20250305_2110 - Applying filename changes...
+20250305_2110 - Renamed: GitHub Flavored Markdown Spec.md -> title-github-flavore.md
+20250305_2110 - Renamed: revised-warp-workflow-template.txt -> warp-workflow-templa.txt
+20250305_2110 - Renamed: Guide_Build a prompt library on GitHub.md -> title-creative-story.md
+20250305_2110 - Renamed: Basic writing and formatting syntax - GitHub Docs.md -> title-basic-writing-.md
+20250305_2110 - Renamed: FOMO-Unified Tagging System_v2.md -> fomo-unified-tagging.md
+20250305_2110 - Renamed: keyboard-shortcuts-obsidian-draft.md -> title-editing-shortc.md
+20250305_2110 - Renamed: markdown-cheatsheet-v01-draft copy.md -> title-my-title.md
+20250305_2110 - Renamed: markdown_stylesheet-test.md -> quicklook-markdown-t.md
+20250305_2110 - Renamed: warp-drive-organisation.md -> warp-drive-organisat.md
+20250305_2110 - Renamed: pangram-string-glyph-fonts-a.md -> pangram-string-glyph.md
+20250305_2110 - Renamed: FOMO Downloads Management 3 Hazel Rules & Apple Shortcu.md -> downloads-management.md
+20250305_2110 - Renamed: markdown-cheatsheet-v02-draft.md -> title-markdown-cheat.md
+20250305_2110 - Renamed: Setting_Up_HomeKit_Smart_Home.md -> comprehensive-guide-.md
+20250305_2110 - Renamed: After Effect_Bounce script.txt -> after-effect-bounce-.txt
+20250305_2110 - Renamed: codefeedback-.md -> please-provide-a-upd.md
+20250305_2110 - Renamed: FOMO File Naming 3 File Type.md -> file-naming-conventi.md
+20250305_2110 - Renamed: FOMO-Framework-Overview-v5-Final.md -> fomo-framework-overv.md
+20250305_2110 - Error: Target file './file-naming-conventi.md' already exists.
+20250305_2110 - Renamed: workflow-quick-reference.md -> warp-workflow-quick-.md
+20250305_2110 - Renamed: Markdown style guide.md -> markdown-style-guide.md
+20250305_2110 - Error: Target file './downloads-management.md' already exists.
+20250305_2110 - Error: Target file './file-naming-conventi.md' already exists.
+20250305_2110 - Renamed: directory_structure_2025-02-05.md -> system-directory-str.md
+20250305_2110 - Error: Target file './file-naming-conventi.md' already exists.
+20250305_2110 - Renamed: textfx-google-outputs-20250220.txt -> textfx-google-output.txt
+20250305_2110 - Error: Target file './fomo-framework-overv.md' already exists.
+20250305_2110 - Renamed: directory_structure_2025-02-01.md -> key-directory-paths-.md
+20250305_2110 - Renamed: playground_.md -> playground.md
+20250305_2110 - Renamed: Custom Instructions, User Profiles, and Memory best practices.txt -> custom-instructions-.txt
+20250305_2110 - Renamed: FOMO_Folder_Structure_2025.md -> fomo-folder-structur.md
+20250305_2110 - Error: Target file './title-my-title.md' already exists.
+20250305_2110 - Error: Target file './downloads-management.md' already exists.
+20250305_2110 - Error: Target file './textfx-google-output.txt' already exists.
+20250305_2110 - Renaming complete: 25 successful, 8 failed.
+20250305_2110 - Cleaning up temporary files...
+20250305_2110 - Cleanup skipped for demonstration purposes.
+20250305_2110 - Script execution complete.
