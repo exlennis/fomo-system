@@ -1,8 +1,6 @@
-# FOMO Maintenance Log v01
+# FOMO Maintenance Log
 
-*A simple record of what I tried, what worked, what broke, and what I learned along the way.*
-
-## About This Log
+A simple record of what I tried, what worked, what broke, and what I learned along the way.
 
 ### Why Keep This Log
 This is my personal breadcrumb trail so I can:
@@ -17,7 +15,45 @@ This is my personal breadcrumb trail so I can:
 - **Newest stuff first**: Latest entries at the top so they're easy to find
 - **Focus on the useful bits**: Only record what future-me would want to know
 
+---
+
 ## Log Entries
+
+---
+
+## 2025-03-29: Knowledge Organisation Update
+
+### What I Did Today
+- Finalised the location and structure for my prompt library
+- Clarified the standards for guidelines and documentation naming
+- Created a dedicated structure for AI prompt assets
+
+### What Broke
+- Previous approach with prompts in `~/Knowledge/docs/prompt-library/` didn't provide enough separation for this growing resource
+- Found potential sync conflicts between GitHub version control and cloud storage when storing prompts in symlinked directories
+
+### How I Fixed It
+- Established `~/Knowledge/prompts/` as a dedicated top-level directory within the Knowledge area
+- Created a structured subdirectory system for the prompt library:
+  ```
+  ~/Knowledge/prompts/ (renamed from prompt-library)
+  ├── data/           # Supporting data for prompts
+  ├── docs/           # Documentation about prompts
+  ├── collections/    # Organised sets of prompts (renamed from prompts)
+  ├── templates/      # Reusable prompt patterns
+  └── workshops/      # Prompts under active development/testing
+  ```
+- Confirmed guidelines and standards documents belong in `~/Knowledge/docs/` following established naming patterns
+- Positioned prompt library outside symlinked cloud directories to facilitate direct GitHub integration without sync conflicts
+
+### Random Thoughts
+- Prompt libraries are emerging as a unique type of knowledge asset that blur the line between reference material and creative development
+- The decision to give prompts dedicated space recognizes their growing importance in my workflow
+- Keeping standards documents in `~/Knowledge/docs/` with the established naming convention (`[topic]-[document-type]-[optional-modifier].md`) maintains consistency
+- The ALL CAPS naming convention for document types (GUIDELINES, STANDARDS) provides excellent visual scanning in directory listings
+- As AI plays a larger role in my workflow, the prompt library will likely become as important as design assets or code libraries
+
+---
 
 ### 2025-03-28: Fixed Symlink Establishment Issue
 
@@ -92,8 +128,6 @@ This is my personal breadcrumb trail so I can:
 
 ## Regular Check-ins
 
-### March 2025
-
 #### What's Working Well
 - Parts of the system I'm happy with
 - Time-saving tricks discovered
@@ -116,9 +150,7 @@ This is my personal breadcrumb trail so I can:
 
 ---
 
-## Notes for AI Helpers
-
-Hey AI assistants (especially future Claude):
+## Notes for (future) AI assistants
 
 You can help maintain this log after we've worked on the FOMO system. Just add new entries at the top following the template. Keep it casual but useful - imagine you're leaving notes for me to find later when I inevitably forget how I solved a problem.
 
