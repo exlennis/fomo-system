@@ -87,7 +87,7 @@ Main project folder at ~/Projects/dev/00-fomo-system/ with complete documentatio
 ## 2. Offsite Locations
 
 ### 2.1 Documentation (~/Knowledge/docs/)
-Centralised location for standardised guidelines and reference documents.
+Centralised location for standardised guidelines and reference documents that serve as the system-wide knowledge base for multiple projects.
 
 ```
 Knowledge/docs/
@@ -106,8 +106,26 @@ Knowledge/docs/
 ```
 
 ### 2.2 Scripts (~/System/scripts/)
-Centralised location for all automation scripts and workflows.
+Centralised location for all automation scripts and workflows that provide system-wide functionality across multiple projects.
 
+#### 2.2.1 Key Automation Tools
+- **File Management Tools**
+  - `ai-batch-renamer.sh`: Intelligent file renaming using naming conventions
+  - `rename-*.py`: Python-based file renaming utilities with pattern matching
+  - `directory-checker.py`: Validates directory structures against standards
+  - `file-renamer.py`: Advanced file renaming with metadata extraction
+
+- **Workflow Automation**
+  - `sh-warp-ai-rename`: Bundle for AI-assisted naming automation
+  - `py-auto-renamer`: Python package for rule-based renaming
+  - `sh-app-usage-auditor`: System usage pattern analysis tools
+  - `directory-visualiser.py`: Creates visual representations of directory structures
+
+- **Integration Tools**
+  - `Mermaid`: Workflow diagrams and documentation generation
+  - `WarpWorkflows`: Terminal-based automation for standard processes
+  - `AppleScript`: System-level integrations for macOS applications
+  - `AppleShortcut`: User-facing automation triggers
 
 ```
 System/scripts/
@@ -150,17 +168,38 @@ System/scripts/
 ```
 
 
-## 3. Notes
+## 3. Integration Between Project and Offsite Locations
 
-### 3.1 Offsite References
+### 3.1 Project-to-Offsite Relationships
+- **Project → Documentation**: Project standards reference and build upon central standards
+- **Project → Scripts**: Project tests validate and utilise centralised script functions
+- **Documentation → Project**: Central guidelines inform project-specific implementations
+- **Scripts → Project**: Automation tools are used for project file management tasks
+
+### 3.2 Integration Points
+- **Standard References**: Project documentation references offsite standards documents
+- **Script Execution**: Project files processed by offsite automation scripts
+- **Implementation Tests**: Project tests validate offsite script functionality
+- **Workflow Diagrams**: Project flows visualised using offsite Mermaid templates
+- **Naming Consistency**: Offsite and project files follow the same naming standards
+
+### 3.3 Offsite References
 - Documentation is externally linked in ~/Knowledge/docs/
 - Scripts are externally linked in ~/System/scripts/
 - Both locations follow the established naming standards
 
-### 3.2 Version Information
-- Structure last updated: 2025-03-28
-- Previous version: 2025-03-07
+### 3.4 Version Information
+- Structure last updated: 2025-04-01
+- Previous version: 2025-03-28
 - Changes: 
-    * Added explicit offsite location mapping
-    * Expanded directory structure with two additional levels of detail
-    * Updated test-fonts and test-files organization structure
+    * Updated integration with automation tools documentation
+    * Enhanced cross-referencing between project and offsite resources
+    * Added comprehensive documentation of automation implementations
+    * Updated details on workflow analysis tools
+
+---
+
+*Version History:*
+- v01 - 2025-03-07: Initial structure documentation
+- v02 - 2025-03-28: Added explicit offsite location mapping, expanded directory structure with additional details
+- v03 - 2025-04-01: Updated with automation tools integration and implementation details

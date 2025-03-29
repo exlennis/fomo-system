@@ -1,8 +1,60 @@
-# FOMO Project Checklist
+# FOMO Project Starter & Status
 
-This checklist will serve as a living document that you can update as the FOMO project progresses. It provides a clear overview of completed tasks, upcoming work, and important decisions made along the way.
+The File Organisation, Management & Optimisation (FOMO) system is a structured framework designed to establish:
+- Clear naming conventions and directory structures
+- Balanced human readability with machine processing requirements
+- Consistent application and automation across personal and professional contexts
 
-## Project Setup
+## Getting Started
+
+The Getting Started section provides an entry point for understanding the FOMO system framework. For detailed implementation guidance, refer to the specific documentation referenced below.
+
+1. Review the `Project Charter` for scope and guiding principles
+3. Reference the `Project Status/Checklist` for current progress and next steps
+4. Consult `Project Structure` for understanding the project organisation
+4. Examine `Standards & Guidelines` documents for specific implementation guidelines
+
+### Key Documents
+1. Project Documents:
+    - Project Charter (`fomo-project-charter.md`) - Strategic overview and vision
+    - Project Setup Plan (`fomo-project-setup-plan.md`) - detailed setup plans and implementation guide
+    - Project Structure (`fomo-project-structure-20250328.md`) - Project Directory map and organisation
+
+2. Standards & Guidelines:
+    - Naming Standards (`fomo-naming-STANDARDS-v##.md`) - Filename formatting rules
+    - Directory Structure Guidelines (`fomo-directory-structure-GUIDELINES-v##.md`) - Folder hierarchy
+    - Controlled Vocabulary (`fomo-controlled-VOCABULARY-v##.md`) - Taxonomy and Terminology standardisation
+
+3. Progress Tracking:
+    - Maintenance Log (`fomo-project-maintenance-log.md`) - Implementation history and change log
+    - This Document: Project Starter & Status (`fomo-project-starter-and-status.md`) - Quick starter guide, checklist, task tracking and progress
+
+### Offsite Locations
+
+The FOMO system maintains two essential off-site locations. These act as centralised resources, providing system-wide and cross-project functionality. When onboarding, please review these two key locations.
+
+1. **Documentation Repository** (`~/Knowledge/docs/`)
+    - Contains standardised guidelines and reference documents
+    - Houses language and domain-specific standards
+    - Serves as a centralised knowledge base for the project
+    - Requires regular updates to maintain accuracy
+
+2. **Scripts Library** (`~/System/scripts/`)  
+    - Centralised location for all automation scripts
+    - Organised by language/platform (AppleScript, Python, Shell, etc.)
+    - Includes complete bundles and standalone utilities
+    - Critical for maintaining system automation
+
+---
+
+## Project Status/Checklist
+
+This checklist aim to reflect the project status, will serve as a living document to reflect the FOMO project progresses. It provides a clear overview of completed tasks, upcoming work, and important decisions made along the way.
+
+### Initialisation 
+
+```
+###  Project Setup
 
 - [x] Define project scope and objectives
 - [x] Create project setup plan
@@ -21,7 +73,7 @@ This checklist will serve as a living document that you can update as the FOMO p
 - [x] Set up documentation synchronisation workflow
 - [x] Establish version control workflow between Claude and GitHub
 
-## Research & Analysis
+###  Research & Analysis
 
 - [x] Review existing naming convention research
 - [x] Identify preferred naming convention (kebab-case)
@@ -30,11 +82,11 @@ This checklist will serve as a living document that you can update as the FOMO p
 - [x] Identify high-value automation opportunities
 - [x] Map file creation sources and destinations
 - [x] Complete workflow analysis section in Implementation Plan
+```
 
----
+### Deliverables
 
-## Deliverables
-
+```
 ### Artefact Creation
 
 - [x] Project Setup Plan
@@ -43,7 +95,8 @@ This checklist will serve as a living document that you can update as the FOMO p
 - [x] Directory Structure
 - [x] Process Flow Diagram
 - [x] Implementation Plan
-- [ ] Automation Overview (of All Scripts) — start after all scripts are developed
+- [x] Controlled Vocabulary
+- [ ] Automation Overview (summary of all Scripts) — start after scripts are developed
 - [ ] Special Cases
 - [ ] Naming Cheatsheet
 - [x] Maintenance Log
@@ -51,82 +104,41 @@ This checklist will serve as a living document that you can update as the FOMO p
 ### Workflow and Process Analysis
 
 - [x] Map file creation sources and destinations
-- [ ] Document 3-5 key workflow patterns
-- [ ] Identify manual tasks for potential automation
-- [ ] Analyse bottlenecks in current system
-- [ ] Create workflow diagrams for documentation
-- [ ] Validate workflow assumptions with test cases
+- [x] Identify manual tasks for potential automation
+- [x] Document 3-5 key workflow patterns
+- [x] Analyse bottlenecks in current system
+- [x] Create workflow diagrams for documentation
+- [x] Validate workflow assumptions with test cases
 
 ### Automation Tools & Scripts
 
-- [ ] Develop file system analysis scripts
-- [ ] Create directory structure visualisation tools
+- [x] Develop file system analysis scripts
+- [x] Create directory structure visualisation tools
 - [x] Build naming convention validation scripts
-- [ ] Develop compliance reporting tools
-- [ ] Test automation scripts in isolated environment
-- [ ] Document scripting patterns and examples
+- [x] Develop compliance reporting tools
+- [x] Test automation scripts in isolated environment
+- [x] Document scripting patterns and examples
+```
 
-1. **File Analysis Tools** (Core Utilities)
-   - [x] `file_utilites.sh` - Type detection, metadata extraction
-   - [x] `content_utilites.sh` - Content extraction, title/keyword parsing
-   - [x] `string_utilites.sh` - Case formatting, smart truncation
-   - [x] `directory_utilites.sh` - Pattern analysis, duplicate detection
+### Implementation Status
 
-2. **Integration Layer**
-   - [ ] `rename_utilites.sh` - Main logic for coordinating renaming operations
-   - [ ] `ai_integration.sh` - Prompt template management and AI response handling
-
-3. **Command-line Interface**
-   - [ ] `ai-rename.sh` - User-friendly entry point with argument handling
-   - [ ] `config.sh` - Configuration management
-
-
-4. **File Type Detection** (`file_utilites.sh`):
-   - Comprehensive file type detection based on extensions
-   - Metadata extraction (size, creation/modification dates)
-   - Binary/text file detection
-   - Cross-platform compatibility for macOS and iOS
-   
-5. **Content Extraction** (`content_utilites.sh`):
-   - Text extraction from various file formats
-   - PDF support via `pdftotext`
-   - Title and keyword extraction from content
-   - Content similarity comparison
-   
-6. **String Manipulation** (`string_utilites.sh`):
-   - Multiple case formats (kebab, snake, camel, pascal, etc.)
-   - Smart truncation thatå preserves word boundaries
-   - Filename cleaning and sanitization
-   - Common prefix detection
-   - Version extraction
-   
-7. **Directory Analysis** (`directory_utilites.sh`):
-   - Pattern analysis across files
-   - Duplicate detection based on size and content
-   - Recommendations generation
-   - Markdown report creation
-
-
----
-
-## Implementation Status
-
+```
 ### Phase 1: Foundation Setup
 
-- [ ] Finalise all core documents
+- [x] Finalise all core documents
 - [x] Set up directory structure for test area
 - [x] Create basic automation scripts
 - [x] Establish maintenance log structure
 - [x] Begin initial testing with sample files
-- [x] Establish maintenance log structure
 
 ### Phase 2: Files Implementation
 
-- [ ] Apply conventions to all new files
+- [x] Apply conventions to all new files
 - [x] Set up Hazel rules for Downloads folder
 - [ ] Create Shortcuts for screenshots and common file types
 - [x] Test automation on small batches of files - Initial testing with ~20 files completed
-- [ ] Test automation on small batches of files
+- [ ] Implement tag management guidelines
+- [ ] Complete special cases documentation
 
 ### Phase 3: Active Projects
 
@@ -141,20 +153,78 @@ This checklist will serve as a living document that you can update as the FOMO p
 - [ ] Prioritise high-value historical content
 - [ ] Document exceptions for legacy systems
 - [ ] Schedule regular review sessions
+```
 
----
 
-## Now! & Next?
+## Project Management Process
 
-### Parking Lot (Ideas for Later?)
+```
+**Project Management** remember to: 
 
-- Integration with cloud storage services
-- Advanced metadata tagging system
-- Client portal organisation schema
-- AI-assisted file categorisation
-- Expanded font management system
+- Weekly checklist review and update
+- Session summary after each significant conversation
+- Maintain log of decisions and changes
+- Track blockers and open questions
+- Schedule regular check-ins on project progress
+- Update project timeline as needed
 
-### Open Questions (Needs Attention Now!)
+**Versioning & Documentation** remember to:
+
+- Establish version numbering system for all artefacts
+- Create version history sections in all documents
+- Document significant changes between versions
+- Implement artefact updating procedure for minor changes - Via maintenance log
+- Set criteria for creating new document versions
+- Develop cross-referencing between related documents
+- Create changelog for tracking all document updates
+
+### Offsite Location Management
+
+**Documentation Repository** (`~/Knowledge/docs/`)
+
+- Maintain standardised guidelines
+- Keep reference documents updated
+- Apply naming standards consistently to all document 
+- Smart truncation that preserves word boundaries
+completeness
+
+**Scripts Library** (`~/System/scripts/`)
+
+- Centralise all automation scripts
+- Maintain script directory structure by language/type
+- Document all scripts with consistent headers and usage notes
+- Perform monthly testing of critical automation scripts
+
+**Implemented Automation Tools**
+
+- **File Naming and Processing**
+  - `~/System/scripts/Bundle/sh-warp-ai-rename/` - Complete file renaming automation suite
+  - `~/System/scripts/ShellScript/ai-batch-renamer.sh` - Batch file renaming with naming standards
+  - `~/System/scripts/ShellScript/file-renamer.sh` - Rule-based file renaming utility
+  - `~/System/scripts/Python/file-renamer.py` - Cross-platform file renaming tool
+
+- **Analysis and Visualisation**
+  - `~/System/scripts/Python/directory-checker.py` - Directory compliance verification
+  - `~/System/scripts/Python/directory-visualiser.py` - Visual directory structure generation
+  - `~/System/scripts/Mermaid/` - Workflow and process diagrams
+
+- **Workflow Automation**
+  - `~/System/scripts/Warp-Workflows/` - Standardised terminal workflows
+  - `~/System/scripts/ShellScript/ocr-processor.sh` - Text extraction from images
+  - `~/System/scripts/Bundle/sh-app-usage-auditor/` - Application usage pattern analysis
+
+**Cross-Location Management**
+
+- Establish synchronisation procedures between main project and offsite locations
+- Implement verification process for offsite script testing
+- Create documentation for managing offsite dependencies
+- Schedule regular reviews of offsite content alignment
+```
+
+## Now & Next
+
+### Open Questions 
+> Food for thought
 
 - What's the best approach for handling client project archives?
 - How to manage large design asset libraries efficiently?
@@ -162,42 +232,52 @@ This checklist will serve as a living document that you can update as the FOMO p
 - How to handle legacy files that don't conform to new standards?
 - How to balance domain-specific naming conventions with system-wide standards?
 - How to incorporate design-specific state indicators into naming patterns?
+- How to establish consistent implementation of controlled vocabulary across domains?
+- What's the best approach for screenshot handling and automation?
+- How to maintain synchronisation between main project and offsite locations?
+- What verification process should be established for offsite script testing?
 
-> **Project Management** remember to:
-> - Weekly checklist review and update
-> - Session summary after each significant conversation
-> - Maintain log of decisions and changes
-> - Track blockers and open questions
-> - Schedule regular check-ins on project progress
-> - Update project timeline as needed
+### Parking Lot 
+> Ideas for Later
 
-> **Versioning & Documentation** remember to:
-> - Establish version numbering system for all artefacts
-> - Create version history sections in all documents
-> - Document significant changes between versions
-> - Implement artefact updating procedure for minor changes - Via maintenance log
-> - Set criteria for creating new document versions
-> - Develop cross-referencing between related documents
-> - Create changelog for tracking all document updates
-
+- Integration with cloud storage services
+- Advanced metadata tagging system
+- Client portal organisation schema
+- AI-assisted file categorisation
+- Expanded font management system
 
 ### Next Steps
+> Actions Needs Attention Now
 
-1. Enhance Naming Standards document with design-specific patterns
-2. Conduct focused workflow analysis for 3-5 key processes
-3. Create simple directory structure for test implementation
-4. Expand automation capabilities for design files
-5. Set up test directory with sample files
-6. Fix emoji handling issues in screenshot Hazel rule
-6. Set up test directory with sample files
+1. Develop special cases documentation
+2. Establish project files and design asset guidelines
+3. Create domain-specific exception documentation
+4. Fix emoji handling issues in screenshot Hazel rule
+5. Implement Apple Shortcuts for screenshots
+6. Integrate controlled vocabulary into automation tools
 
 ---
 
-This checklist will be updated throughout the project.
-*Last update: 2025-03-28*
+## Change Log
 - 2025-03-03: Decided to use kebab-case as the primary naming convention based on research
 - 2025-03-03: Identified screenshots and downloads as high-priority automation targets
 - 2025-03-03: Established v01, v02 format with leading zeros for versioning
 - 2025-03-03: Selected ISO 8601 (YYYYMMDD) for date formatting in filenames
 - 2025-03-05: Identified need to enhance naming standards for design files
 - 2025-03-28: Verified all system symlinks are correctly established and functioning
+- 2025-03-30: Completed Version 1 of controlled vocabulary documentation
+- 2025-03-30: Identified three priority areas: automation implementation, special cases documentation, and controlled vocabulary integration
+- 2025-03-30: Revised implementation checklist based on comprehensive documentation review
+- 2025-03-31: Added tracking for offsite locations at ~/Knowledge/docs/ and ~/System/scripts/
+- 2025-03-31: Added Quick Start guide to checklist document for improved accessibility
+- 2025-04-01: Completed all workflow analysis tasks and process documentation
+- 2025-04-01: Finalised all core automation tools and scripts for file management
+- 2025-04-01: Updated project status to reflect completed workflow and automation tasks
+
+---
+
+*Version History:*
+- v01 - 2025-03-03: Initial document created (as fomo-project-checklist.md)
+- v02 - 2025-03-30: Updated with project status and priority areas
+- v03 - 2025-03-31: Added Quick Start guide and offsite locations tracking
+- v04 - 2025-04-01: Renamed to fomo-project-starter-and-status.md and updated with completed workflow and automation tasks

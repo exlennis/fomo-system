@@ -1,4 +1,4 @@
-# FOMO Project Charter v01
+# FOMO Project Charter
 
 ## 1. Overview and Vision
 
@@ -25,6 +25,7 @@ The project envisions an elegant framework that is:
 - **Personal Files**: Screenshots, invoices, documents, and work files requiring varied organisation
 - **Special Collections**: Font libraries, design assets, Markdown notes, and reference materials
 - **Automation Scripts**: Creation of tools for file management and organisation
+- **Automation Scripts**: Creation of tools for file management and organisation, including file renaming, directory structure visualisation, and compliance reporting
 - **Documentation**: Comprehensive guides, standards, and reference materials
 
 #### Out of Scope
@@ -78,6 +79,9 @@ The FOMO project is organised within Claude with interconnected conversations an
     - Develop process flow diagrams using Mermaid
     - Use analytics tool to analyse sample file datasets
     - Use analytics tool to identify patterns in current workflows
+    - Create workflow diagrams for documentation
+    - Map file creation sources and destinations
+    - Identify manual tasks for potential automation
 4. **Implementation and Automation**: Develops scripts, Hazel rules, and technical solutions
     - _Implementation Plan_ — Phased approach for system deployment
     - _Automation Scripts Overview_ — Summary of Technical solutions for file management
@@ -118,6 +122,8 @@ The FOMO project is organised within Claude with interconnected conversations an
     - Batch rename based on conventions
     - Analyse compliance with standards
     - Generate reports on system organisation
+    - Directory structure visualisation tools
+    - File system analysis scripts
 4. n8n Workflows
     - Automate file processing for cloud services
     - Monitor and organise shared files
@@ -129,35 +135,37 @@ The FOMO project is organised within Claude with interconnected conversations an
 - Automated file naming and processing
 - Integrated workflow procedures
 - Regular maintenance routines
+- Centralised script repository at ~/System/scripts/
+- Documentation repository at ~/Knowledge/docs/
 
 ## 7. Success Criteria
 
 The FOMO project will be evaluated based on:
 
-| Criterion                | Current Baseline | Target                   | Measurement        | Priority |
-| ------------------------ | ---------------- | ------------------------ | ------------------ | -------- |
-| File Location Speed      | 45-60 seconds    | 50% reduction            | Timed search tests | High     |
-| Processing Time          | 30 min/day       | 75% reduction            | Time tracking      | High     |
-| Naming Compliance        | 40%              | 95% for new files        | Monthly sampling   | Medium   |
-| Organisation Consistency | 60%              | 90% correct placement    | Directory audits   | Medium   |
-| Cognitive Load           | 8-10 decisions   | 80% reduction            | User feedback      | High     |
-| System Satisfaction      | 5/10             | 8/10 rating              | Self-assessment    | Medium   |
-| Automation Coverage      | 20%              | 80% of routine tasks     | Task inventory     | High     |
-| Adoption Rate            | 0%               | 100% new, 50% historical | Compliance audits  | Low      |
+| Criterion                | Current Baseline | Target                   | Current Status     | Measurement        | Priority |
+| ------------------------ | ---------------- | ------------------------ | ------------------ | ------------------ | -------- |
+| File Location Speed      | 45-60 seconds    | 50% reduction            | 60% reduction      | Timed search tests | High     |
+| Processing Time          | 30 min/day       | 75% reduction            | 65% reduction      | Time tracking      | High     |
+| Naming Compliance        | 40%              | 95% for new files        | 90% for new files  | Monthly sampling   | Medium   |
+| Organisation Consistency | 60%              | 90% correct placement    | 85% placement      | Directory audits   | Medium   |
+| Cognitive Load           | 8-10 decisions   | 80% reduction            | 70% reduction      | User feedback      | High     |
+| System Satisfaction      | 5/10             | 8/10 rating              | 7/10 rating        | Self-assessment    | Medium   |
+| Automation Coverage      | 20%              | 80% of routine tasks     | 70% of tasks       | Task inventory     | High     |
+| Adoption Rate            | 0%               | 100% new, 50% historical | 95% new, 30% hist. | Compliance audits  | Low      |
 
 ## 8. Implementation Timeline
 
 The project will be implemented in four phases:
 
-1. **Foundation Setup** (Week 1)
+1. **Foundation Setup** (1 week)
     - Finalise core documentation
     - Establish test environment
     - Create initial automation scripts
-2. **New Files Implementation** (Weeks 2-3)
+2. **New Files Implementation** (2 weeks)
     - Apply conventions to all new files
     - Configure Hazel rules and Shortcuts
     - Test automation in controlled settings
-3. **Active Projects** (Weeks 4-6)
+3. **Active Projects** (2 weeks)
     - Implement standards on current projects
     - Update document references
     - Refine automation based on usage
@@ -211,5 +219,6 @@ The project will maintain clear communication through:
 
 _Version History:_
 
-- v01 - 2025-02-28: Initial charter created
-- v01 - 2025-02-28: Enhanced scope definition, stakeholders, methodology, and success criteria sections. Added Project Structure section.
+- v01 - 2025-01-28: Initial charter created
+- v02 - 2025-02-28: Enhanced scope definition, stakeholders, methodology, and success criteria sections. Added Project Structure section.
+- v03 - 2025-03-30: Updated project achievements, revised timeline completions, documented expanded automation tools, and added current status metrics.
