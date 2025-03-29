@@ -24,7 +24,6 @@ The project envisions an elegant framework that is:
 - **Development Projects**: Language-specific naming requirements optimised for CI/CD practices
 - **Personal Files**: Screenshots, invoices, documents, and work files requiring varied organisation
 - **Special Collections**: Font libraries, design assets, Markdown notes, and reference materials
-- **Automation Scripts**: Creation of tools for file management and organisation
 - **Automation Scripts**: Creation of tools for file management and organisation, including file renaming, directory structure visualisation, and compliance reporting
 - **Documentation**: Comprehensive guides, standards, and reference materials
 
