@@ -249,12 +249,12 @@ completeness
 ### Next Steps
 > Actions Needs Attention Now
 
-1. Develop special cases documentation
-2. Establish project files and design asset guidelines
-3. Create domain-specific exception documentation
+1. Develop special cases documentation for edge cases and exceptions
+2. Establish comprehensive design asset organisation guidelines
+3. Create domain-specific implementation standards
 4. Fix emoji handling issues in screenshot Hazel rule
-5. Implement Apple Shortcuts for screenshots
-6. Integrate controlled vocabulary into automation tools
+5. Refine integration between controlled vocabulary and automation tools
+6. Create testing framework for cross-location script verification
 
 ---
 
@@ -273,7 +273,7 @@ completeness
 - 2025-04-01: Completed all workflow analysis tasks and process documentation
 - 2025-04-01: Finalised all core automation tools and scripts for file management
 - 2025-04-01: Updated project status to reflect completed workflow and automation tasks
-
+- 2025-04-01: Refined Next Steps to focus on special cases, design assets, and integration refinements
 ---
 
 *Version History:*
