@@ -78,13 +78,13 @@ The FOMO project is organised within Claude with interconnected conversations an
     - Develop process flow diagrams using Mermaid
     - Use analytics tool to analyse sample file datasets
     - Use analytics tool to identify patterns in current workflows
-    - Create workflow diagrams for documentation
+    - _Process Flow Diagram_ — Create workflow diagrams for documentation
     - Map file creation sources and destinations
     - Identify manual tasks for potential automation
 4. **Implementation and Automation**: Develops scripts, Hazel rules, and technical solutions
     - _Implementation Plan_ — Phased approach for system deployment
     - _Automation Scripts Overview_ — Summary of Technical solutions for file management
-    - Create individual code artefacts
+    - _Individual Code Artefacts_ — Create each tools outlined in the overview
 5. **Special Cases and Exceptions**: Addresses edge cases and unique file handling requirements
     - _Special Cases_ — Guidelines for exceptions and edge cases
     - _Naming Cheatsheet_ — Quick reference for daily application

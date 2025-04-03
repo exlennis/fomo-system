@@ -1,4 +1,4 @@
-f# FOMO Controlled Vocabulary v01
+# FOMO Controlled Vocabulary v01
 
 ## 1. Introduction
 
@@ -17,19 +17,9 @@ Implementing this controlled vocabulary offers significant benefits:
 - **System Integrity**: Preserves the logical structure of the FOMO system over time
 - **Scalability**: Provides a framework that can grow with evolving needs
 
-### 1.2 Relationship to Other FOMO Documents
+### 1.2 Implementation Overview
 
-This controlled vocabulary integrates with and complements other FOMO project documents:
-
-- **Naming Standards** (`fomo-naming-STANDARDS-v02.md`): This vocabulary provides the specific terms to use within the naming patterns established in the standards document.
-- **Directory Structure** (`fomo-directory-structure-GUIDELINES-v03.md`): The terms in this vocabulary align with and support the organisation principles and folder hierarchy defined in the directory structure.
-- **Project Charter** (`fomo-project-charter.md`): This vocabulary upholds the vision and principles articulated in the charter, particularly regarding clarity, consistency, and balanced implementation.
-- **Implementation Plan**: The terms support the phased rollout approach, enabling incremental adoption across new files, active projects, and historical content.
-- **Tag Management**: This vocabulary supersedes the sample tag vocabulary in previous guidelines, providing an authoritative source for tagging terminology.
-
-### 1.3 Implementation Overview
-
-This controlled vocabulary follows a "flat with controlled combinations" approach:
+This controlled vocabulary follows a `flat with controlled combinations` approach:
 
 - **Core Terms**: A concise set of single-word base terms form the foundation
 - **Combinations**: Terms can be combined using hyphens to create more specific descriptors
@@ -204,11 +194,12 @@ Tags use a flat controlled vocabulary with system-specific formatting:
 - Combined through co-occurrence rather than concatenation
 
 **Example tag sets**:
-```
-#client #logo #approved
-#project #proposal #draft
-#resource #font #serif
-```
+
+    ```
+    #client #logo #approved
+    #project #proposal #draft
+    #resource #font #serif
+    ```
 
 ### 3.4 Special Case Terminology
 
@@ -937,6 +928,16 @@ These terms apply specifically to content creation and management:
 - **footnote**: Reference annotation
 - **citation**: Source reference
 - **metadata**: Content description data
+
+## 7. Integration with Other FOMO Documents
+
+This controlled vocabulary document works in conjunction with other FOMO project documents to form a unified system:
+
+- **Naming Standards** (`fomo-naming-STANDARDS-v02.md`): This vocabulary provides the specific terms to use within the naming patterns established in the standards document.
+- **Directory Structure** (`fomo-directory-structure-GUIDELINES-v03.md`): The terms in this vocabulary align with and support the organisation principles and folder hierarchy defined in the directory structure.
+- **Project Charter** (`fomo-project-charter.md`): This vocabulary upholds the vision and principles articulated in the charter, particularly regarding clarity, consistency, and balanced implementation.
+- **Implementation Plan**: The terms support the phased rollout approach, enabling incremental adoption across new files, active projects, and historical content.
+- **Tag Management**: This vocabulary supersedes the sample tag vocabulary in previous guidelines, providing an authoritative source for tagging terminology.
 
 ---
 

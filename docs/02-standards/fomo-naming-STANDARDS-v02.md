@@ -621,9 +621,11 @@ personal/
 
 ## 12. Integration with Other FOMO Documents
 
-This Naming Standards document works in conjunction with other FOMO project documents:
+This Naming Standards document works in conjunction with other FOMO project documents to form a unified system:
 
-- **Directory-Structure-v01.md**: Defines the folder hierarchy these named files will live within
+- **fomo-project-charter-v##.md**: Establishes the overall vision and principles for the fomo system
+- **fomo-naming-standards-v##.md**: (this document) Defines the file naming conventions used within this structure
+- **fomo-directory-structure-v##.md**: Defines the folder hierarchy these named files will live within
 - **Implementation-Plan-v01.md**: Outlines the phased approach to implementing these standards
 - **Automation-Scripts-v01.md**: Contains scripts and tools to enforce these naming conventions
 - **Special-Cases-v01.md**: Provides detailed guidance for exceptions to these standards

@@ -1,4 +1,4 @@
-# FOMO Core Controlled Vocabulary - Starter Set
+# FOMO Controlled Vocabulary - Core Starter Set
 
 This starter set provides foundational terms for the FOMO system, organized by category. Each term follows the appropriate formatting convention and includes usage guidance.
 
