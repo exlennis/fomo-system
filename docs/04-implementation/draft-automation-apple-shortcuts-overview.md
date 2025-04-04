@@ -1,6 +1,4 @@
-# Apple Shortcuts Specification for FOMO System
-
-**Document Date:** 20231128
+# Apple Shortcuts Overview Draft (for reference only)
 
 ## Table of Contents
 - [Overview](#overview)

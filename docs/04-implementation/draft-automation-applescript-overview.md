@@ -1,6 +1,4 @@
-# AppleScript Scripts Specification
-
-*Document Date: 20230704*
+# AppleScript Overview Draft (for reference only)
 
 ## 1. Introduction
 

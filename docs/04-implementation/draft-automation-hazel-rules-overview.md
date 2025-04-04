@@ -1,5 +1,4 @@
-# Hazel Rules Specification
-*Document Date: 20230807*
+# Hazel Rules Overview Draft (for reference only)
 
 ## Table of Contents
 1. [Introduction](#introduction)
