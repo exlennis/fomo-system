@@ -938,6 +938,7 @@ This controlled vocabulary document works in conjunction with other FOMO project
 - **Project Charter** (`fomo-project-charter.md`): This vocabulary upholds the vision and principles articulated in the charter, particularly regarding clarity, consistency, and balanced implementation.
 - **Implementation Plan**: The terms support the phased rollout approach, enabling incremental adoption across new files, active projects, and historical content.
 - **Tag Management**: This vocabulary supersedes the sample tag vocabulary in previous guidelines, providing an authoritative source for tagging terminology.
+<!--update this to be consistent with directory structure and naming conventions -->
 
 ---
 

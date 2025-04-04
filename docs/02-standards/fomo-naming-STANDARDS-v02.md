@@ -624,12 +624,15 @@ personal/
 This Naming Standards document works in conjunction with other FOMO project documents to form a unified system:
 
 - **fomo-project-charter-v##.md**: Establishes the overall vision and principles for the fomo system
-- **fomo-naming-standards-v##.md**: (this document) Defines the file naming conventions used within this structure
+- _fomo-naming-standards-v##.md (this document)_: Defines the file naming conventions used within this structure
 - **fomo-directory-structure-v##.md**: Defines the folder hierarchy these named files will live within
-- **Implementation-Plan-v01.md**: Outlines the phased approach to implementing these standards
-- **Automation-Scripts-v01.md**: Contains scripts and tools to enforce these naming conventions
-- **Special-Cases-v01.md**: Provides detailed guidance for exceptions to these standards
-- **Naming-Cheatsheet-v01.md**: Quick reference guide for daily application
+- **fomo-process-diagram-v##.mmd**: identifies automation opportunities through series of flow diagrams 
+- **fomo-controlled-vocabulary-v##.md**: Standardised terms for systematic and consistent naming
+- **fomo-implementation-plan-v##.md**: Outlines the phased approach to implementing these standards
+- **fomo-automation-overview-v##.md**: Contains scripts, tools and workflow setup to enforce these naming conventions
+- **fomo-special-cases-v##.md**: Provides detailed guidance for exceptions to these standards
+- **fomo-system-cheatsheet-v##.md**: Quick reference guide for daily application
+- **fomo-maintenance-log-v##.md**: Tracks changes and issues encountered during implementation
 
 ## 13. Success Measures
 

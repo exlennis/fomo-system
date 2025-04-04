@@ -92,21 +92,23 @@ This checklist aim to reflect the project status, will serve as a living documen
 ### Artefact Creation
 
 - [x] Project Setup Plan
-- [x] Project Charter
-- [x] Project Checklist
 - [x] Project Directory Map
+- [x] Project Charter
 - ---
 - [x] Naming Standards
 - [x] Directory Structure
-- [x] Process Flow Diagram
 - ---
+- [x] Process Flow Diagram
 - [-] Controlled Vocabulary
+- ---
 - [-] Implementation Plan
-- [ ] Automation Scripts Overview 
+- [ ] Automation Overview (Scripts)
 - ---
 - [ ] Special Cases
-- [ ] Naming Cheatsheet
+- [ ] System Cheatsheet
+- ---
 - [x] Maintenance Log
+- [x] Project Checklist
 
 ### Workflow and Process Analysis
 
@@ -247,11 +249,11 @@ completeness
 ### Parking Lot 
 > Ideas for Later
 
-- Integration with cloud storage services
-- Advanced metadata tagging system
-- Client portal organisation schema
-- AI-assisted file categorisation
-- Expanded font management system
+- [ ] Metadata tagging system
+- [ ] Better Utilise Public Folder e.g. for backups and staging
+- [ ] Integration with cloud storage services
+- [ ] AI-assisted file categorisation
+- [ ] Expanded font management system
 
 ---
 

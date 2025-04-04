@@ -937,12 +937,13 @@ This Directory Structure document works in conjunction with other FOMO project d
 
 - **fomo-project-charter-v##.md**: Establishes the overall vision and principles for the fomo system
 - **fomo-naming-standards-v##.md**: Defines the file naming conventions used within this structure
-- **fomo-directory-structure-v##.md**: (this document) Defines the folder hierarchy these named files will live within
-- **fomo-controlled-vocabulary-v##.md**: Standardised terms for consistent folder naming
+- _fomo-directory-structure-v##.md (this document)_: Defines the folder hierarchy these named files will live within
+- **fomo-process-diagram-v##.mmd**: identifies automation opportunities through series of flow diagrams 
+- **fomo-controlled-vocabulary-v##.md**: Standardised terms for systematic and consistent naming
 - **fomo-implementation-plan-v##.md**: Details the step-by-step approach for system deployment
-- **fomo-??? workflow-configurations-v##.md**: Detailed automation setup for file management
+- **fomo-automation-overview-v##.md**: Contains scripts, tools and workflow setup for file management
 - **fomo-special-cases-v##.md**: Provides guidance for exceptions to the standard structure
-- **fomo-??? Naming-Cheatsheet-v01.md**: Quick reference guide for daily application
+- **fomo-system-cheatsheet-v##.md**: Quick reference guide for daily application
 - **fomo-maintenance-log-v##.md**: Tracks changes and issues encountered during implementation
 
 ## 14. Success Measures Suggestions

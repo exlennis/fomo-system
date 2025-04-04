@@ -87,43 +87,44 @@ The FOMO project is organised within Claude with interconnected conversations an
     - _Individual Code Artefacts_ — Create each tools outlined in the overview
 5. **Special Cases and Exceptions**: Addresses edge cases and unique file handling requirements
     - _Special Cases_ — Guidelines for exceptions and edge cases
-    - _Naming Cheatsheet_ — Quick reference for daily application
+    - _System Cheatsheet_ — Quick reference for daily application
     - _Maintenance Log_ — Historical record of system changes
 
 ## 6. Key Deliverables
 
-### Documentation (Artefacts)
+### Artefacts (Documentation)
 
-1. Overview of project (fomo-project-charter-v##.md)
-2. Project management tracking (fomo-project-checklist-v##.md)
-3. Detailed naming standards (fomo-naming-standards-v##.md)
-4. Directory structure guidelines (fomo-directory-structure-v##.md)
-5. Mermaid process flow diagram (fomo-process-diagram-v##.mmd)
-6. Implementation plans (fomo-implementation-plan-v##.md)
-7. Automation scripts documentation (fomo-automation-overview-v##.md)
-8. Edge cases handling procedures (fomo-special-cases-v##.md)
-9. Quick-reference cheatsheets (fomo-cheatsheet-v##.md)
-10. Maintenance logs (fomo-maintenance-log-v##.md)
+1. _Overview of project (this document)_: `fomo-project-charter-v##.md`
+2. **Detailed naming standards**: `fomo-naming-standards-v##.md`
+3. **Directory structure guidelines**: `fomo-directory-structure-v##.md`
+4. **Mermaid process flow diagram**: `fomo-process-diagram-v##.mmd`
+5. **Standardised terms dictionary**: `fomo-controlled-vocabulary-v##.md`
+6. **Implementation plans**: `fomo-implementation-plan-v##.md`
+7. **Automation scripts documentation**: `fomo-automation-overview-v##.md`
+8. **Edge cases handling procedures**: `fomo-special-cases-v##.md`
+9. **Quick-reference cheatsheets**: `fomo-system-cheatsheet-v##.md`
+10. **Maintenance logs**: `fomo-maintenance-log-v##.md`
+11. **Project management tracking**: `fomo-project-checklist-v##.md`
 
 ### Technical Solutions
 
-1. Hazel Configuration
+1. **Hazel Configuration**:
     - Create rule sets for different folders
     - Define pattern matching for file types
     - Establish naming transformations, apply naming conventions to screenshots
     - Set up sorting rules, Move files to appropriate directories based on type
-2. Apple Shortcuts
+2. **Apple Shortcuts**:
     - Quick renaming of selected files
     - Capture and process screenshots
     - Standardise naming on save dialogs
     - Build file processing workflows
-3. Scripts (Python, AppleScript and other)
+3. **Scripts**: (Python, AppleScript and other)
     - Batch rename based on conventions
     - Analyse compliance with standards
     - Generate reports on system organisation
     - Directory structure visualisation tools
     - File system analysis scripts
-4. n8n Workflows
+4. **n8n Workflows, Git Actions**:
     - Automate file processing for cloud services
     - Monitor and organise shared files
     - Integrate with other services
@@ -187,9 +188,10 @@ Based on initial research, these foundational decisions will guide implementatio
     - Example: `presentation-client-v03.pptx`
     - Rationale: Maintains correct sorting order in file listings
 - **Special Character Policy**: Minimal use for maximum compatibility
-    - Prohibited: `!@#$%^&*()=+[]{};:'"\|,/<>?`
-    - Allowed: hyphens, periods (for specific uses)
+    - Prohibited: `"!@#$%^&*()=+[]{};:'"\|,/<>?"`
+    - Allowed: hyphens `-`, periods `.` (for exceptions refer to naming conventions document)
     - Rationale: Ensures cross-platform compatibility and URL-friendliness
+
 - **Domain-Specific Conventions**: Apply specialised knowledge for certain file types
     - Design assets follow industry standards where applicable
     - Development files respect language-specific conventions

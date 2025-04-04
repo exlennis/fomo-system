@@ -755,9 +755,9 @@ This Term Dictionary document works in conjunction with other FOMO project docum
 - **fomo-directory-structure-v##.md**: Defines the folder hierarchy these named files will live within
 - **fomo-controlled-vocabulary-v##.md**: Standardised terms for consistent folder naming
 - **fomo-implementation-plan-v##.md**: Details the step-by-step approach for system deployment
-- **fomo-??? workflow-configurations-v##.md**: Detailed automation setup for file management
+- **fomo-automation-scripts-overview-v##.md**: Detailed automation setup for file management
 - **fomo-special-cases-v##.md**: Provides guidance for exceptions to the standard structure
-- **fomo-??? Naming-Cheatsheet-v01.md**: Quick reference guide for daily application
+- **fomo-system-Cheatsheet-v01.md**: Quick reference guide for daily application
 - **fomo-maintenance-log-v##.md**: Tracks changes and issues encountered during implementation
 
 

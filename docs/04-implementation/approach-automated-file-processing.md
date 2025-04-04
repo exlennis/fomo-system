@@ -1,5 +1,5 @@
 
-# Automated File Processing: for the [Apple Ecosystem](https://grok.com/share/bGVnYWN5_0dc33834-c938-43f5-b228-25a598f54e3c)
+# Automated File Processing: [for the Apple Ecosystem](https://grok.com/share/bGVnYWN5_0dc33834-c938-43f5-b228-25a598f54e3c)
 
 This guide provides a detailed implementation plan for a personal file processing automation system tailored to an Apple-centric ecosystem (macOS and iOS). It consolidates file management across devices and locations, automates processes like renaming, optimisation, and sorting, ensures accessibility, and simplifies maintenance. The system leverages tools you’re familiar with—Raycast, Hazel, and AppleScript—while implementing unified tagging across apps and integrating Smart Folders for dynamic organisation. Optimised for personal use, it avoids over-engineering, explores AI automation without hidden costs, and includes best practices for naming standards.
 
