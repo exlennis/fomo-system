@@ -118,8 +118,13 @@ https://github.com/chrissimpkins/fontname.py
 - Auoamte app update workflow > Latest installation then check macudpater and app store ? brew instlls?
 - auto cover files: with a dropzone setup-
 - auto Convert `.doc` or `.docx` files to `.md`
+- Saved link to Reader app via #tools/Shortcuts
+- save links to bookmarking #tools `Anybox`  > tagged with `feed` > added to RSS reader app like `Reeder`  
+- Automatically #tools/Obsidian headings to `Title Case `
 
-- Apple notes: Help tag new notes faster, Tag notes while you transition? quickly apply tags when moving notes?
+
+**Apple Notes**:
+- Tag new notes, tag notes while transition? quickly apply tags when moving notes?
 - Check for inconsistent tag casing and suggest fixes?
 - Retrieve all notes and extract tags.
 - Check for variations (e.g., #Work, #work, #WORK). Suggest a unified format (e.g., #work).
@@ -131,6 +136,62 @@ AI-powered content analysis workflow:
 3. Identify redundant or overlapping notes for better organisation.
 
 *****************************************
+
+### auto tag shortcut 
+
+Apple’s Shortcuts app has received significant updates in iOS 13, and the latest version of Drafts is ready for those updates with powerful shortcuts actions that allow you to search and modify content in Drafts from Shortcuts. Combine these new powers with the Shortcuts “Automations” feature, and you can schedule shortcuts to run automatically in the background based on a variety of triggers. This tip provides an example workflow to use Shortcuts to route drafts from your Drafts inbox to Reminders based on tags assigned in Drafts - automatically archiving the drafts once they have been created in Reminders.
+
+Consider this example a starting point. The same principle could be applied to route drafts to other locations (files, a task manager, etc.). It also allows you do things like create a draft on the watch, assign it a tag, and later have it automatically processed by the Shortcuts automation on your iPhone.
+
+By setting up workflows like this example, you can freely capture text to Drafts - from the Watch, the Share extension, or just in the app - and just assign tags to have those drafts automatically processed and archived without any additional action on your part.
+
+#### Drafts Tagged “Reminders” to Reminders Shortcut
+
+[![shortcuts-example](https://forums.getdrafts.com/uploads/default/optimized/2X/f/f89025c71c1aa18a5d7cef98f8c0d181970d887d_2_690x386.png)
+
+](https://forums.getdrafts.com/uploads/default/original/2X/f/f89025c71c1aa18a5d7cef98f8c0d181970d887d.png "shortcuts-example")
+
+To start, install the example shortcut from the link below (NOTE: _To install third party shortcuts in the Shortcuts app, you will have to enable “Allow untrusted shortcuts” in iOS Settings > Shortcuts_):
+
+**Install Example Shortcut**: [Drafts Tagged “Reminders” to Reminders 235](https://www.icloud.com/shortcuts/66999ddd92b447e0b30eb363be6a9805)
+
+#### Modifying the Shortcut
+
+The example shortcut consists of several actions (see attached). These actions might need to be modified to suit your needs. Let’s review what each does and what modifications you might want to make…
+
+[![IMG_0523](https://forums.getdrafts.com/uploads/default/optimized/2X/1/19e2937ebf667bc0bc91aba8a9cb4718b0820849_2_315x500.jpeg)
+
+](https://forums.getdrafts.com/uploads/default/original/2X/1/19e2937ebf667bc0bc91aba8a9cb4718b0820849.jpeg "IMG_0523")
+
+- **Search Drafts**: This action searches for any drafts in your drafts list which match the specified criteria. In this example, the action has been configured to only search the “Inbox” for drafts with the tag “reminder”. If you wish to use a different tag to identify drafts for use in this shortcut, you can edit the tag value.
+- **Repeat with each item in `Drafts`**: The search returns a list of drafts matching the search. Using the repeat action, you can loop over each of those drafts performing a set of actions on each.
+    - **Add `Title` to `Reminders`**: This is a shortcut “Add to Reminders” action configured to create a reminder in the Reminders app, in the list “Reminders”. The reminder with use the `Title`property (first line) of the draft, and include a link to the draft in Drafts, and the full content of the draft in the notes. If you want to route to a different list in Reminders, tap on the “Reminders” entry to select from your available Reminder lists. This action could also be replaced by another shortcut action if you wanted to route to a different app or file.
+    - **File `Repeat Item` in `Archive`:** This `File Draft`action moves the draft out of the inbox to the archive in Drafts. This item could be modified to assign an additional tag, or even moe the draft to the trash.
+- **End Repeat**: Complete the loop
+
+#### Testing The Shortcut
+
+To test operation fo the shortcut (assuming you have made no mofications above), do the following:
+
+- Open Drafts
+- Create a one or more new drafts, assign them the tag “reminder”.
+- Go to Shortcuts and run the “Drafts Tagged ‘Reminder’ to Reminders” action.
+- Go to the Reminders app. Your “Reminder” list should have new tasks for each of the draft you created in the first step.
+- Go to Drafts. The draft you created should now be moved to the Archive.
+
+#### Automating the Shortcut
+
+[![IMG_2991](https://forums.getdrafts.com/uploads/default/optimized/2X/7/735d1c96f1ad730ec82f8fb18b2eaf155ccf946c_2_240x250.jpeg)
+
+](https://forums.getdrafts.com/uploads/default/original/2X/7/735d1c96f1ad730ec82f8fb18b2eaf155ccf946c.jpeg "IMG_2991")
+
+Now you have the shortcut installed, and possibly tweaked to route your tagged drafts in a particular manner. You can run this shortcut manually as needed anytime to do your routing, but you could also use the new [Shortcuts Automation 72](https://www.macstories.net/news/the-full-list-of-automation-triggers-in-shortcuts-for-ios-13/) feature to have that routing done automatically based on a trigger. There are many triggers available, what makes sense for your needs may vary, but you might make a timed trigger that sweeps your inbox and converts those reminders once a day at a certain time, for example. To setup automation, just open the Shortcuts app, and “Create Personal Automation” on the “Automation” tab.
+
+#### Conclusion
+
+This example exactly as configured may not suit your needs, but hopefully it will give you some ideas of how you can use the powerful new Shortcuts integration features to process all those snippets you grab in Drafts!
+
+
   
 <!--## Convert `.doc` or `.docx` files to `.md`
 
