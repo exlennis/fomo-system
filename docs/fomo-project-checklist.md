@@ -100,6 +100,7 @@ This checklist aim to reflect the project status, will serve as a living documen
 - ---
 - [x] Process Flow Diagram
 - [-] Controlled Vocabulary
+- [-] Tagging Guidelines
 - ---
 - [-] Implementation Plan
 - [ ] Automation Overview (Scripts)
