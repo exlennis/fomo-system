@@ -260,29 +260,6 @@ The complete logical directory structure provides a clean, purpose-driven organi
 
 The physical storage locations are mapped to the logical structure through symlinks:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-| Physical Location | Logical Path |
-|:------------------|:-------------|
-| Local Projects (Dev) | `~/Projects/dev/` |
-| Dropbox/Projects | → `~/Projects/design/` |
-| Dropbox/Education | → `~/Projects/education/` |
-| Dropbox/Assets | → `~/Resources/assets/` |
-| Dropbox/Inspirations | → `~/Resources/inspirations/` |
-| Dropbox/References | → `~/Resources/references/` |
-| iCloud Obsidian vault | → `~/Knowledge/vault/` |
-| iCloud synced Desktop | → `~/Desktop/` |
-| iCloud synced Documents | → `~/Documents/` |
-| iCloud synced Downloads | → `~/Downloads/` |
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 | Physical Location         | Logical Path                |
 |:--------------------------|:----------------------------|
 | Local Dev Projects →      | `~/Projects/dev/`           |
@@ -295,16 +272,6 @@ The physical storage locations are mapped to the logical structure through symli
 | iCloud synced Desktop →   | `~/Desktop/`                |
 | iCloud synced Documents → | `~/Documents/`              |
 | iCloud synced Downloads → | `~/Downloads/`              |
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 ### 6.2 Cloud Storage Organisation
 
@@ -994,8 +961,6 @@ The effectiveness of this directory structure can be measured by:
 ---
 
 _Version History:_
-
 - v01 - 2025-03-10: Initial directory structure document created
 - v02 - 2025-03-18: Corrections and updates made to ensure consistency, Enhanced implementation clarity, fixed formatting issues, and improved technical accuracy
 - v03 - 2025-03-24: Updated symlink structure to include Inspirations folder, standardised References (plural) usage, corrected symlink counts and mappings, improved shell configuration options, and clarified Knowledge/docs directory purpose
-
