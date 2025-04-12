@@ -261,8 +261,8 @@ The complete logical directory structure provides a clean, purpose-driven organi
 The physical storage locations are mapped to the logical structure through symlinks:
 
 | Physical Location | Logical Path |
-|:------------------|:-------------|
-| Local Projects (Dev) | `~/Projects/dev/` |
+|-------------------|--------------|
+| Local Projects (Dev) | → `~/Projects/dev/` |
 | Dropbox/Projects | → `~/Projects/design/` |
 | Dropbox/Education | → `~/Projects/education/` |
 | Dropbox/Assets | → `~/Resources/assets/` |
@@ -272,7 +272,6 @@ The physical storage locations are mapped to the logical structure through symli
 | iCloud synced Desktop | → `~/Desktop/` |
 | iCloud synced Documents | → `~/Documents/` |
 | iCloud synced Downloads | → `~/Downloads/` |
-| Dropbox/Education →       | `~/Projects/education/`     |
 
 ### 6.2 Cloud Storage Organisation
 
@@ -283,9 +282,9 @@ The cloud storage maintains its organisational structure, with the FOMO system c
 ```
 Dropbox/
 ├── Assets/                         # Formerly -DESIGN-
-│    ├── assets-library/            # Eagle managed library
-│    ├── colours/                   # Colour palette, swatch books
-│    ├── fonts/                     # Organised font library
+│    ├─── assets-library/           # Eagle managed library
+│    ├─── colours/                  # Colour palette, swatch books
+│    ├─── fonts/                    # Organised font library
 │    └── ...
 ├── Education/                      # University projects and courses
 ├── Inspirations/                   # Visual examples to spark creativity
