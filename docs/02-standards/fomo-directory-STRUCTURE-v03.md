@@ -263,6 +263,7 @@ The physical storage locations are mapped to the logical structure through symli
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 | Physical Location | Logical Path |
 |:------------------|:-------------|
 | Local Projects (Dev) | `~/Projects/dev/` |
@@ -276,6 +277,8 @@ The physical storage locations are mapped to the logical structure through symli
 | iCloud synced Documents | → `~/Documents/` |
 | iCloud synced Downloads | → `~/Downloads/` |
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -294,6 +297,9 @@ The physical storage locations are mapped to the logical structure through symli
 | iCloud synced Downloads → | `~/Downloads/`              |
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
