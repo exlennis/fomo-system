@@ -260,6 +260,7 @@ The complete logical directory structure provides a clean, purpose-driven organi
 
 The physical storage locations are mapped to the logical structure through symlinks:
 
+<<<<<<< Updated upstream
 | Physical Location | Logical Path |
 |:------------------|:-------------|
 | Local Projects (Dev) | `~/Projects/dev/` |
@@ -272,7 +273,20 @@ The physical storage locations are mapped to the logical structure through symli
 | iCloud synced Desktop | → `~/Desktop/` |
 | iCloud synced Documents | → `~/Documents/` |
 | iCloud synced Downloads | → `~/Downloads/` |
+=======
+| Physical Location         | Logical Path                |
+|:--------------------------|:----------------------------|
+| Local Dev Projects →      | `~/Projects/dev/`           |
+| Dropbox/Projects →        | `~/Projects/design/`        |
 | Dropbox/Education →       | `~/Projects/education/`     |
+| Dropbox/Assets →          | `~/Resources/assets/`       |
+| Dropbox/Inspirations →    | `~/Resources/inspirations/` |
+| Dropbox/References →      | `~/Resources/references/`   |
+| iCloud Obsidian vault →   | `~/Knowledge/vault/`        |
+| iCloud synced Desktop →   | `~/Desktop/`                |
+| iCloud synced Documents → | `~/Documents/`              |
+| iCloud synced Downloads → | `~/Downloads/`              |
+>>>>>>> Stashed changes
 
 ### 6.2 Cloud Storage Organisation
 
